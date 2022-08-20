@@ -1,14 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          bruh
-        </p>
+        <h1>
+          SDD & IPT Question Finder
+        </h1>
       </header>
     </div>
   );
