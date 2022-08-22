@@ -2,6 +2,7 @@
 import React, {useState} from 'react';
 import './App.css';
 import RadioForm from './components/radioForm';
+import SearchForm from './components/searchForm';
 
 const App = () => {
   const [course, setCourse] = useState();
@@ -21,7 +22,7 @@ const App = () => {
 
       <RadioForm buttonManager={buttonManager} title="Which course?" t1="SDD" d1="Software Design & Development" t2="IPT" d2="Information Processes & Technology" />
       <RadioForm buttonManager={buttonManager} title="What content?" t1="Questions" d1=" " t2="Solutions" d2=" " />
-
+      <SearchForm title="Which year?" />
     </div>
   );
 }

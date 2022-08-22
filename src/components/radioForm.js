@@ -8,8 +8,8 @@ const RadioForm = (props) => {
             <h3 className="pt-8 mb-5 text-xl font-bold text-gray-900">{props.title}</h3>
             <ul className="grid gap-6 w-full md:grid-cols-2 text-left">
                 <li>
-                    <input type="radio" id="hosting-small" name="hosting" value="hosting-small" className="hidden peer" required="" onChange={() => props.buttonManager(props.title, props.t1)} defaultChecked={true} />
-                    <label htmlFor="hosting-small" className="inline-flex justify-between items-center p-5 w-full text-gray-500 bg-white rounded-lg border border-gray-200 cursor-pointer peer-checked:border-blue-600 peer-checked:text-blue-600 hover:text-gray-600 hover:bg-gray-100">                           
+                    <input type="radio" id={props.t1} name="hosting" value="hosting-small" className="hidden peer" required="" onChange={() => props.buttonManager(props.title, props.t1)} defaultChecked={true} />
+                    <label htmlFor={props.t1} className="inline-flex justify-between items-center p-5 w-full text-gray-500 bg-white rounded-lg border border-gray-200 cursor-pointer peer-checked:border-blue-600 peer-checked:text-blue-600 hover:text-gray-600 hover:bg-gray-100">                           
                         <div className="block">
                             <div className="w-full text-lg font-semibold">{props.t1}</div>
                             <div className="w-full">{props.d1}</div>
@@ -18,8 +18,8 @@ const RadioForm = (props) => {
                     </label>
                 </li>
                 <li>
-                    <input type="radio" id="hosting-big" name="hosting" value="hosting-big" className="hidden peer" onChange={() => props.buttonManager(props.title, props.t2)} />
-                    <label htmlFor="hosting-big" className="inline-flex justify-between items-center p-5 w-full text-gray-500 bg-white rounded-lg border border-gray-200 cursor-pointer peer-checked:border-blue-600 peer-checked:text-blue-600 hover:text-gray-600 hover:bg-gray-100">
+                    <input type="radio" id={props.t2} name="hosting" value="hosting-big" className="hidden peer" onChange={() => props.buttonManager(props.title, props.t2)} />
+                    <label htmlFor={props.t2} className="inline-flex justify-between items-center p-5 w-full text-gray-500 bg-white rounded-lg border border-gray-200 cursor-pointer peer-checked:border-blue-600 peer-checked:text-blue-600 hover:text-gray-600 hover:bg-gray-100">
                         <div className="block">
                             <div className="w-full text-lg font-semibold">{props.t2}</div>
                             <div className="w-full">{props.d2}</div>
