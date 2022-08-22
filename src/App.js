@@ -17,8 +17,13 @@ const App = () => {
     console.log(searchID, text);
   }
 
+  const questionManager = (questionID, text) => {
+    console.log(questionID, text);
+  }
+
+
   return (
-    <div className="App">
+    <div className="flex flex-col items-center justify-center text-center">
       <header className="App-header">
         <h1 className="text-stone-800 text-3xl font-black underline pt-10">
           SDD & IPT Question Finder
@@ -27,7 +32,12 @@ const App = () => {
 
       <RadioForm buttonManager={buttonManager} title="Which course?" t1="SDD" d1="Software Design & Development" t2="IPT" d2="Information Processes & Technology" />
       <RadioForm buttonManager={buttonManager} title="What content?" t1="Questions" d1=" " t2="Solutions" d2=" " />
-      <SearchForm searchManager={searchManager} title="Which year?" />
+      
+      <div className="w-fit">
+        <SearchForm searchManager={searchManager} title="Which year?" placeholder="2020, 2021, etc" checkboxVisible={true} />
+        <SearchForm questionManager={questionManager} title="(Optional) Enter question number:" placeholder="23, 31, etc" checkboxVisible={false} />
+      </div>
+
     </div>
   );
 }
