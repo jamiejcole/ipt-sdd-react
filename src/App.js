@@ -5,7 +5,7 @@ import RadioForm from './components/radioForm';
 
 const App = () => {
   const [course, setCourse] = useState();
-  
+  const [questionsOrSolutions, setQuestionsOrSolutions] = useState();
 
   const buttonManager = (formID, selection) => {
     console.log(formID, selection);

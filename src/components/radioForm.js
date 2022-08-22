@@ -5,11 +5,11 @@ const RadioForm = (props) => {
   return (
     <div className="grid place-items-center">
         <form>
-            <h3 className="pt-8 mb-5 text-xl font-bold text-gray-900 dark:text-white">{props.title}</h3>
+            <h3 className="pt-8 mb-5 text-xl font-bold text-gray-900">{props.title}</h3>
             <ul className="grid gap-6 w-full md:grid-cols-2 text-left">
                 <li>
                     <input type="radio" id="hosting-small" name="hosting" value="hosting-small" className="hidden peer" required="" onChange={() => props.buttonManager(props.title, props.t1)} defaultChecked={true} />
-                    <label htmlFor="hosting-small" className="inline-flex justify-between items-center p-5 w-full text-gray-500 bg-white rounded-lg border border-gray-200 cursor-pointer dark:hover:text-gray-300 dark:border-gray-700 dark:peer-checked:text-blue-500 peer-checked:border-blue-600 peer-checked:text-blue-600 hover:text-gray-600 hover:bg-gray-100 dark:text-gray-400 dark:bg-gray-800 dark:hover:bg-gray-700">                           
+                    <label htmlFor="hosting-small" className="inline-flex justify-between items-center p-5 w-full text-gray-500 bg-white rounded-lg border border-gray-200 cursor-pointer peer-checked:border-blue-600 peer-checked:text-blue-600 hover:text-gray-600 hover:bg-gray-100">                           
                         <div className="block">
                             <div className="w-full text-lg font-semibold">{props.t1}</div>
                             <div className="w-full">{props.d1}</div>
@@ -19,7 +19,7 @@ const RadioForm = (props) => {
                 </li>
                 <li>
                     <input type="radio" id="hosting-big" name="hosting" value="hosting-big" className="hidden peer" onChange={() => props.buttonManager(props.title, props.t2)} />
-                    <label htmlFor="hosting-big" className="inline-flex justify-between items-center p-5 w-full text-gray-500 bg-white rounded-lg border border-gray-200 cursor-pointer dark:hover:text-gray-300 dark:border-gray-700 dark:peer-checked:text-blue-500 peer-checked:border-blue-600 peer-checked:text-blue-600 hover:text-gray-600 hover:bg-gray-100 dark:text-gray-400 dark:bg-gray-800 dark:hover:bg-gray-700">
+                    <label htmlFor="hosting-big" className="inline-flex justify-between items-center p-5 w-full text-gray-500 bg-white rounded-lg border border-gray-200 cursor-pointer peer-checked:border-blue-600 peer-checked:text-blue-600 hover:text-gray-600 hover:bg-gray-100">
                         <div className="block">
                             <div className="w-full text-lg font-semibold">{props.t2}</div>
                             <div className="w-full">{props.d2}</div>
