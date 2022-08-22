@@ -1,8 +1,10 @@
 /* eslint-disable no-unused-vars */
 import React, {useState} from 'react';
+import { findRenderedComponentWithType } from 'react-dom/test-utils';
 import './App.css';
 import RadioForm from './components/radioForm';
 import SearchForm from './components/searchForm';
+import {dataSDDQuestions, dataSDDMarking, dataIPTQuestions, dataIPTMarking} from './data';
 
 const App = () => {
   const [course, setCourse] = useState("SDD");
@@ -22,8 +24,25 @@ const App = () => {
     else if (searchID === "(Optional) Enter question number:") setQuesNum(text);
   }
 
+  const randManager = (rand) => {
+    if (rand) {
+      setYear(randInt(2001, 2021))
+    }
+  }
+
   const submitForm = () => {
-    console.log(course, content, year, quesNum);
+    const url = generateURL(course, content, year, quesNum);
+    if (url) window.open(url);
+  }
+
+  const generateURL = (course, content, year, quesNum) => {
+    let url = ""
+    if (course === "SDD" && content === "Questions") url = dataSDDQuestions[year];
+    else if (course === "SDD" && content === "Solutions") url = dataSDDMarking[year];
+    else if (course === "IPT" && content === "Solutions") url = dataIPTMarking[year];
+    else if (course === "IPT" && content === "Questions") url = dataIPTQuestions[year];
+    if (quesNum) url += "#Question%20" + quesNum; 
+    return url
   }
 
 
@@ -39,8 +58,8 @@ const App = () => {
       <RadioForm buttonManager={buttonManager} title="What content?" t1="Questions" d1=" " t2="Solutions" d2=" " />
       
       <div className="w-fit">
-        <SearchForm searchManager={searchManager} title="Which year?" placeholder="2020, 2021, etc" checkboxVisible={true} />
-        <SearchForm searchManager={searchManager} title="(Optional) Enter question number:" placeholder="23, 31, etc" checkboxVisible={false} submitVisible={true}/>
+        <SearchForm submitForm={submitForm} randManager={randManager} searchManager={searchManager} title="Which year?" placeholder="2020, 2021, etc" checkboxVisible={true} />
+        <SearchForm submitForm={submitForm} searchManager={searchManager} title="(Optional) Enter question number:" placeholder="23, 31, etc" checkboxVisible={false} submitVisible={true}/>
       </div>
 
       <div className={"pt-10 flex items-center flex-row"}>
@@ -52,3 +71,7 @@ const App = () => {
 }
 
 export default App;
+
+function randInt(min, max) { // min and max included 
+  return Math.floor(Math.random() * (max - min + 1) + min)
+}
