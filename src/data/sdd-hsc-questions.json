@@ -1,0 +1,5632 @@
+[
+ {
+   "year": 2021,
+   "qNum": "4",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.1.1",
+   "keywords": "Licences",
+   "Outcome": "H3.1"
+ },
+ {
+   "year": 2021,
+   "qNum": "21",
+   "qPart": "",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.1.1 ",
+   "keywords": "Protection against software piracy",
+   "Outcome": "H2.2, H3.2"
+ },
+ {
+   "year": 2021,
+   "qNum": "23",
+   "qPart": "(a) ",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.1.1 ",
+   "keywords": "Responsibilities of developers",
+   "Outcome": "H3.1"
+ },
+ {
+   "year": 2021,
+   "qNum": "25",
+   "qPart": "(a) ",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.1.1 ",
+   "keywords": "Social and ethical issues",
+   "Outcome": "H3.1"
+ },
+ {
+   "year": 2020,
+   "qNum": "17",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.1.1",
+   "keywords": "Decompilation",
+   "Outcome": "H3.1, H4.2"
+ },
+ {
+   "year": 2020,
+   "qNum": "21",
+   "qPart": "(a) ",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.1.1 ",
+   "keywords": "Social issues",
+   "Outcome": "H3.1"
+ },
+ {
+   "year": 2019,
+   "qNum": "22",
+   "qPart": "",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.1.1",
+   "keywords": "Software market  dominant players",
+   "Outcome": "H3.1"
+ },
+ {
+   "year": 2019,
+   "qNum": "27",
+   "qPart": "(a) ",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.1.1, 9.2.1",
+   "keywords": "Scenario  travel company Meeting client needs",
+   "Outcome": "H4.1"
+ },
+ {
+   "year": 2018,
+   "qNum": "5",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.1.1",
+   "keywords": "Code of conduct",
+   "Outcome": "H3.1 "
+ },
+ {
+   "year": 2018,
+   "qNum": "6",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.1.1 ",
+   "keywords": "Software licence ",
+   "Outcome": "H3.2"
+ },
+ {
+   "year": 2018,
+   "qNum": "21",
+   "qPart": "(a) ",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.1.1 ",
+   "keywords": "Relevant social/ethical issues",
+   "Outcome": "H3.1"
+ },
+ {
+   "year": 2017,
+   "qNum": "5",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.1.1 ",
+   "keywords": "Licences ",
+   "Outcome": "H3.1"
+ },
+ {
+   "year": 2017,
+   "qNum": "33",
+   "qPart": "(a) ",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.1.1",
+   "keywords": "Responsibility of developer ",
+   "Outcome": "H3.1"
+ },
+ {
+   "year": 2016,
+   "qNum": "1",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.1.1 ",
+   "keywords": "Software piracy ",
+   "Outcome": "H3.1 "
+ },
+ {
+   "year": 2016,
+   "qNum": "2",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.1.1 ",
+   "keywords": "Reverse engineering ",
+   "Outcome": "H3.1"
+ },
+ {
+   "year": 2016,
+   "qNum": "21",
+   "qPart": "",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.1.1 ",
+   "keywords": "Use of networks in software development ",
+   "Outcome": "H2.2 "
+ },
+ {
+   "year": 2016,
+   "qNum": "22",
+   "qPart": "",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.1.1 ",
+   "keywords": "Response times ",
+   "Outcome": "H2.2"
+ },
+ {
+   "year": 2015,
+   "qNum": "4",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.1.1",
+   "keywords": "Intellectual property ",
+   "Outcome": "H3.1"
+ },
+ {
+   "year": 2015,
+   "qNum": "7",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.1.1 ",
+   "keywords": "Inclusivity",
+   "Outcome": "H3.2"
+ },
+ {
+   "year": 2015,
+   "qNum": "15",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.1.1 ",
+   "keywords": "Reverse engineering ",
+   "Outcome": "H3.1"
+ },
+ {
+   "year": 2015,
+   "qNum": "25",
+   "qPart": "",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.1.1 ",
+   "keywords": "Software market ",
+   "Outcome": "H3.1"
+ },
+ {
+   "year": 2014,
+   "qNum": "1",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.1.1 ",
+   "keywords": "Cyber safety",
+   "Outcome": "H3.1"
+ },
+ {
+   "year": 2014,
+   "qNum": "2",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.1.1",
+   "keywords": "Ergonomics",
+   "Outcome": "H3.2"
+ },
+ {
+   "year": 2014,
+   "qNum": "12",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.1.1 ",
+   "keywords": "decompilation",
+   "Outcome": "H3.1"
+ },
+ {
+   "year": 2014,
+   "qNum": "21",
+   "qPart": "",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.1.1 ",
+   "keywords": "legal action",
+   "Outcome": "H3.1"
+ },
+ {
+   "year": 2014,
+   "qNum": "26",
+   "qPart": "(a)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.1.1, 9.1.2",
+   "keywords": "responsibility of the developer",
+   "Outcome": "H2.2"
+ },
+ {
+   "year": 2013,
+   "qNum": "4",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.1.1",
+   "keywords": "software piracy",
+   "Outcome": "H2.2"
+ },
+ {
+   "year": 2013,
+   "qNum": "5",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.1.1",
+   "keywords": "Millennium Bug",
+   "Outcome": "H2.2"
+ },
+ {
+   "year": 2013,
+   "qNum": "11",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.1.1",
+   "keywords": "licence",
+   "Outcome": "H3.1"
+ },
+ {
+   "year": 2013,
+   "qNum": "22",
+   "qPart": "(a)",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.1.1",
+   "keywords": "Social and Ethical Issues",
+   "Outcome": "H2.2, H3.1"
+ },
+ {
+   "year": 2013,
+   "qNum": "23",
+   "qPart": "",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.1.1",
+   "keywords": "computer networks to support the development of software",
+   "Outcome": "H2.2"
+ },
+ {
+   "year": 2012,
+   "qNum": "5",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.1.1",
+   "keywords": "software piracy",
+   "Outcome": "H3.1"
+ },
+ {
+   "year": 2012,
+   "qNum": "27",
+   "qPart": "(a) ",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.1.1",
+   "keywords": "cloud computing",
+   "Outcome": "H2.2, H3.1"
+ },
+ {
+   "year": 2012,
+   "qNum": "27",
+   "qPart": "(b)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.1.1",
+   "keywords": "technical considerations for developers",
+   "Outcome": "H2.2, H3.1"
+ },
+ {
+   "year": 2011,
+   "qNum": "1",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.1.1",
+   "keywords": "responsibility of the developer",
+   "Outcome": "H3.1"
+ },
+ {
+   "year": 2011,
+   "qNum": "24",
+   "qPart": "(b)",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.1.1",
+   "keywords": "Social and Ethical Issues",
+   "Outcome": "H2.2, H3.1"
+ },
+ {
+   "year": 2011,
+   "qNum": "24",
+   "qPart": "(c)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.1.1",
+   "keywords": "rights and responsibilities of a developer",
+   "Outcome": "H2.2, H3.1"
+ },
+ {
+   "year": 2011,
+   "qNum": "27",
+   "qPart": "(a) ",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.1.1",
+   "keywords": "rights and responsibilities of a developer",
+   "Outcome": "H3.1"
+ },
+ {
+   "year": 2010,
+   "qNum": "5",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.1.1",
+   "keywords": "licensing",
+   "Outcome": "H2.2, H3.1"
+ },
+ {
+   "year": 2021,
+   "qNum": "23",
+   "qPart": " (b)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.1.2",
+   "keywords": "CASE tools",
+   "Outcome": "H5.3"
+ },
+ {
+   "year": 2021,
+   "qNum": "25",
+   "qPart": " (b)",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.1.2",
+   "keywords": "Installation method",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2021,
+   "qNum": "25",
+   "qPart": " (c)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.1.2",
+   "keywords": "Software development approach",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2020,
+   "qNum": "2",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.1.2",
+   "keywords": "Software development approaches",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2020,
+   "qNum": "21",
+   "qPart": "(b)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.1.2",
+   "keywords": "CASE tools",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2020,
+   "qNum": "27",
+   "qPart": "(a)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.1.2",
+   "keywords": "Software development approach",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2019,
+   "qNum": "1",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.1.2",
+   "keywords": "Approaches",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2019,
+   "qNum": "3",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.1.2",
+   "keywords": "Outsourcing",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2019,
+   "qNum": "5",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.1.2",
+   "keywords": "CASE tools",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2019,
+   "qNum": "11",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.1.2",
+   "keywords": "Methods of installation",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2019,
+   "qNum": "25",
+   "qPart": " (a)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.1.2",
+   "keywords": "Development approach",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2019,
+   "qNum": "27",
+   "qPart": "(c)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.1.2, 9.3",
+   "keywords": "Team of developers vs single developer",
+   "Outcome": "H6.3"
+ },
+ {
+   "year": 2018,
+   "qNum": "21",
+   "qPart": "(b)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.1.2",
+   "keywords": "Development approach",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2018,
+   "qNum": "21",
+   "qPart": "(c)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.1.2",
+   "keywords": "Installation method",
+   "Outcome": "H4.2, H1.2"
+ },
+ {
+   "year": 2017,
+   "qNum": "1",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.1.2",
+   "keywords": "Approaches",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2017,
+   "qNum": "23",
+   "qPart": "(a)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.1.2",
+   "keywords": "Installation",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2017,
+   "qNum": "24",
+   "qPart": "",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.1.2",
+   "keywords": "CASE tools",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2017,
+   "qNum": "27",
+   "qPart": "",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.1.2",
+   "keywords": "Emerging technologies",
+   "Outcome": "H2.2"
+ },
+ {
+   "year": 2016,
+   "qNum": "3",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.1.2",
+   "keywords": "Outsourcing",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2016,
+   "qNum": "4",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.1.2",
+   "keywords": "Installation methods",
+   "Outcome": "H5.1"
+ },
+ {
+   "year": 2016,
+   "qNum": "5",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.1.2",
+   "keywords": "Use of CASE tools",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2016,
+   "qNum": "29",
+   "qPart": " (a)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.1.2",
+   "keywords": "Scenario  development approach",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2016,
+   "qNum": "29",
+   "qPart": " (c)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.1.2",
+   "keywords": "Scenario  social/ethical issues",
+   "Outcome": "H3.1"
+ },
+ {
+   "year": 2015,
+   "qNum": "8",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.1.2",
+   "keywords": "Implementation methods",
+   "Outcome": "H6.3"
+ },
+ {
+   "year": 2015,
+   "qNum": "27",
+   "qPart": "",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.1.2",
+   "keywords": "Trends in software development",
+   "Outcome": "H2.2"
+ },
+ {
+   "year": 2015,
+   "qNum": "28",
+   "qPart": " (a)",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.1.2",
+   "keywords": "Development Approaches",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2014,
+   "qNum": "9",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.1.2",
+   "keywords": "Installation",
+   "Outcome": "H1.2, H4.2"
+ },
+ {
+   "year": 2014,
+   "qNum": "26",
+   "qPart": "(a)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.1.1, 9.1.2",
+   "keywords": "Outsourcing",
+   "Outcome": "H2.2"
+ },
+ {
+   "year": 2013,
+   "qNum": "25",
+   "qPart": " (a)",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.1.2",
+   "keywords": "agile approach",
+   "Outcome": "H4.2, H6.2"
+ },
+ {
+   "year": 2013,
+   "qNum": "26",
+   "qPart": "",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.1.2",
+   "keywords": "installation method",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2012,
+   "qNum": "18",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.1.2",
+   "keywords": "CASE tools",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2012,
+   "qNum": "21",
+   "qPart": "",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.1.2",
+   "keywords": "pilot and phased installation methods",
+   "Outcome": "H1.2, H5.1"
+ },
+ {
+   "year": 2012,
+   "qNum": "25",
+   "qPart": " (a)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.1.2",
+   "keywords": "agile approach",
+   "Outcome": "H1.2, H4.2"
+ },
+ {
+   "year": 2011,
+   "qNum": "21",
+   "qPart": "",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.1.2",
+   "keywords": "CASE tools",
+   "Outcome": "H4.2, H5.1"
+ },
+ {
+   "year": 2011,
+   "qNum": "24",
+   "qPart": " (a)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.1.2",
+   "keywords": "COTS and Outsourcing",
+   "Outcome": "H1.2, H2.2, H4.2"
+ },
+ {
+   "year": 2011,
+   "qNum": "28",
+   "qPart": " (b)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.1.2",
+   "keywords": "implementation method",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2010,
+   "qNum": "2",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.1.2",
+   "keywords": "Installation",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2010,
+   "qNum": "10",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.1.2",
+   "keywords": "Approaches",
+   "Outcome": "H1.2, H2.2"
+ },
+ {
+   "year": 2010,
+   "qNum": "21",
+   "qPart": "(d) (i)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.1.2",
+   "keywords": "RAD & prototyping",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2021,
+   "qNum": "1",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.1",
+   "keywords": "Development cycle stages",
+   "Outcome": "H4.1"
+ },
+ {
+   "year": 2021,
+   "qNum": "3",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.1",
+   "keywords": "Documentation",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2021,
+   "qNum": "10",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.1",
+   "keywords": "Documentation",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2021,
+   "qNum": "12",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.1",
+   "keywords": "Data types",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2021,
+   "qNum": "23",
+   "qPart": "(c)",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.2.1",
+   "keywords": "Data flow diagram",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2021,
+   "qNum": "27",
+   "qPart": "",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.1",
+   "keywords": "Interpreting system flowchart",
+   "Outcome": "H1.3, H5.2"
+ },
+ {
+   "year": 2020,
+   "qNum": "1",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.1",
+   "keywords": "Data types",
+   "Outcome": "H1.3, H4.2"
+ },
+ {
+   "year": 2020,
+   "qNum": "4",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.1",
+   "keywords": "Development stages  boundaries",
+   "Outcome": "H4.1"
+ },
+ {
+   "year": 2020,
+   "qNum": "11",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.1",
+   "keywords": "Quality assurance",
+   "Outcome": "H1.3"
+ },
+ {
+   "year": 2020,
+   "qNum": "24",
+   "qPart": "(c)",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.2.1",
+   "keywords": "Documentation  DFD",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2020,
+   "qNum": "25",
+   "qPart": "(b)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.1",
+   "keywords": "Data dictionary",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2019,
+   "qNum": "23",
+   "qPart": "b(ii)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.1, 9.2.2 ",
+   "keywords": "Documentation  system flowchart",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2019,
+   "qNum": "26",
+   "qPart": "",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.2.1",
+   "keywords": "Documentation  interpreting a structure chart",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2019,
+   "qNum": "27",
+   "qPart": "(a)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.1.1, 9.2.1 ",
+   "keywords": "Scenario  travel company Meeting client needs",
+   "Outcome": "H4.1"
+ },
+ {
+   "year": 2018,
+   "qNum": "7",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.1",
+   "keywords": "Data types - boolean/integer/(string)",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2018,
+   "qNum": "8",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.1",
+   "keywords": "Documentation (DFD)",
+   "Outcome": "H1.3, H6.2"
+ },
+ {
+   "year": 2018,
+   "qNum": "23",
+   "qPart": "(c)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.1, 9.2.4",
+   "keywords": "Testing / quality assurance",
+   "Outcome": "H4.3"
+ },
+ {
+   "year": 2018,
+   "qNum": "25",
+   "qPart": "",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.1",
+   "keywords": "Communication between developers and clients",
+   "Outcome": "H5.1, H6.2"
+ },
+ {
+   "year": 2017,
+   "qNum": "8",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.1",
+   "keywords": "Defining the problem ",
+   "Outcome": "H3.2, H4.2"
+ },
+ {
+   "year": 2017,
+   "qNum": "9",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.1",
+   "keywords": "Data types - array of booleans",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2017,
+   "qNum": "10",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.1",
+   "keywords": "Quality criteria",
+   "Outcome": "H3.2, H5.1"
+ },
+ {
+   "year": 2017,
+   "qNum": "29",
+   "qPart": "",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.1",
+   "keywords": "System documentation - context digram",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2017,
+   "qNum": "33",
+   "qPart": "b(i)",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.2.1",
+   "keywords": "System documentation - IPO diagram",
+   "Outcome": "H5.3"
+ },
+ {
+   "year": 2016,
+   "qNum": "6",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.1",
+   "keywords": "Developer vs user perspective",
+   "Outcome": "H4.1"
+ },
+ {
+   "year": 2016,
+   "qNum": "10",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.1",
+   "keywords": "Data types - numeric",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2016,
+   "qNum": "25",
+   "qPart": "(c)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.1, 9.3",
+   "keywords": "Communication skills",
+   "Outcome": "H6.1"
+ },
+ {
+   "year": 2015,
+   "qNum": "1",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.1",
+   "keywords": "Needs of client",
+   "Outcome": "H4.1, H6.1"
+ },
+ {
+   "year": 2015,
+   "qNum": "3",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.1",
+   "keywords": "Documentation (DFD)",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2015,
+   "qNum": "28",
+   "qPart": "(b)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.1",
+   "keywords": "System modelling tool - storyboard",
+   "Outcome": "H6.4"
+ },
+ {
+   "year": 2015,
+   "qNum": "29",
+   "qPart": "(c)",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.2.1",
+   "keywords": "Structure chart - create from algorithm",
+   "Outcome": "H6.3"
+ },
+ {
+   "year": 2015,
+   "qNum": "30",
+   "qPart": "(a)",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.2.1",
+   "keywords": "Array of records",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2014,
+   "qNum": "11",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.1",
+   "keywords": "systems modelling tools",
+   "Outcome": "H1.3, H4.3"
+ },
+ {
+   "year": 2014,
+   "qNum": "22",
+   "qPart": "",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.1",
+   "keywords": "storyboards and IPO diagrams",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2014,
+   "qNum": "26",
+   "qPart": "(b)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.1",
+   "keywords": "communication between the user and the developer",
+   "Outcome": "H5.2, H6.3"
+ },
+ {
+   "year": 2014,
+   "qNum": "31",
+   "qPart": "(c)",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.2.1",
+   "keywords": "Documentation (DFD)",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2013,
+   "qNum": "2",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.1",
+   "keywords": "system flowchart",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2013,
+   "qNum": "7",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.1",
+   "keywords": "data type",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2013,
+   "qNum": "9",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.1, 9.3",
+   "keywords": "system modelling tools",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2013,
+   "qNum": "24",
+   "qPart": "(a)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.1",
+   "keywords": "IPO diagram",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2013,
+   "qNum": "30",
+   "qPart": "(a)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.1",
+   "keywords": "pseudocode",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2013,
+   "qNum": "30",
+   "qPart": "(b)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.1, 9.2.3",
+   "keywords": "specifications",
+   "Outcome": "H5.2, H4.3"
+ },
+ {
+   "year": 2012,
+   "qNum": "6",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.1",
+   "keywords": "system modelling tools",
+   "Outcome": "H5.2, H6.2"
+ },
+ {
+   "year": 2012,
+   "qNum": "7",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.1",
+   "keywords": "data dictionary",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2012,
+   "qNum": "15",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.1",
+   "keywords": "data type",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2012,
+   "qNum": "23",
+   "qPart": "(a)",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.2.1, 9.2.2",
+   "keywords": "storyboard",
+   "Outcome": "H1.2, H4.2"
+ },
+ {
+   "year": 2012,
+   "qNum": "23",
+   "qPart": "(b)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.1, 9.2.2, 9.3",
+   "keywords": "data flow diagram",
+   "Outcome": "H1.2, H4.2"
+ },
+ {
+   "year": 2012,
+   "qNum": "25",
+   "qPart": "(b)",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.2.1",
+   "keywords": "development approach",
+   "Outcome": "H4.1"
+ },
+ {
+   "year": 2012,
+   "qNum": "30",
+   "qPart": "(a)",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.2.1, 9.2.3",
+   "keywords": "logic error",
+   "Outcome": "H3.2"
+ },
+ {
+   "year": 2011,
+   "qNum": "10",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.1",
+   "keywords": "documentation",
+   "Outcome": "H1.2, H5.2, H6.1"
+ },
+ {
+   "year": 2011,
+   "qNum": "22",
+   "qPart": "(a)",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.2.1, 9.2.2",
+   "keywords": " data flow diagram",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2011,
+   "qNum": "28",
+   "qPart": "(a)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.1",
+   "keywords": "feasibility",
+   "Outcome": "H1.2, H4.1"
+ },
+ {
+   "year": 2010,
+   "qNum": "7",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.1",
+   "keywords": "modelling tool",
+   "Outcome": "H4.2, H5.2"
+ },
+ {
+   "year": 2010,
+   "qNum": "16",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.1",
+   "keywords": "feasibility",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2021,
+   "qNum": "2",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Screen elements",
+   "Outcome": "H6.4"
+ },
+ {
+   "year": 2021,
+   "qNum": "5",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Event-driven programming",
+   "Outcome": "H4.1"
+ },
+ {
+   "year": 2021,
+   "qNum": "6",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Sequential files",
+   "Outcome": "H1.3"
+ },
+ {
+   "year": 2021,
+   "qNum": "7",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Control structures",
+   "Outcome": "H4.3"
+ },
+ {
+   "year": 2021,
+   "qNum": "8",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Parameter passing ",
+   "Outcome": "H4.3"
+ },
+ {
+   "year": 2021,
+   "qNum": "13",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Output from flowchart",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2021,
+   "qNum": "14",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Flowchart to pseudocode conversion",
+   "Outcome": "H4.3"
+ },
+ {
+   "year": 2021,
+   "qNum": "15",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2 ",
+   "keywords": "Random number generator",
+   "Outcome": "H4.3"
+ },
+ {
+   "year": 2021,
+   "qNum": "19",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2 ",
+   "keywords": "Desk checking",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2021,
+   "qNum": "20",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Sorting",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2021,
+   "qNum": "28",
+   "qPart": "(a)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2",
+   "keywords": "Desk check",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2021,
+   "qNum": "28",
+   "qPart": "(b)",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.2.2",
+   "keywords": "Locate and fix errors",
+   "Outcome": "H5.1"
+ },
+ {
+   "year": 2020,
+   "qNum": "5",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Binary search",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2020,
+   "qNum": "6",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Sorting",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2020,
+   "qNum": "7",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Algorithm output",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2020,
+   "qNum": "14",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Data structure",
+   "Outcome": "H1.3, H4.2"
+ },
+ {
+   "year": 2020,
+   "qNum": "15",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "File handling",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2020,
+   "qNum": "18",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Flowchart and pseudocode",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2020,
+   "qNum": "24",
+   "qPart": "(a)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2",
+   "keywords": "Design consistency",
+   "Outcome": "H6.3"
+ },
+ {
+   "year": 2020,
+   "qNum": "25",
+   "qPart": "(c)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2",
+   "keywords": "File types",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2020,
+   "qNum": "26",
+   "qPart": "(a)",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.2.2",
+   "keywords": "Desk checking",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2019,
+   "qNum": "6",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2 ",
+   "keywords": "Data dictionary ",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2019,
+   "qNum": "7",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2 ",
+   "keywords": "Search/complete the algorithm",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2019,
+   "qNum": "10",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Control structure (convert post-test to pre-test)",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2019,
+   "qNum": "13",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Converting documentation ",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2019,
+   "qNum": "15",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Sequential vs relative files",
+   "Outcome": "H1.3"
+ },
+ {
+   "year": 2019,
+   "qNum": "16",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Local/global variables",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2019,
+   "qNum": "18",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Algorithm, random number generator",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2019,
+   "qNum": "19",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Algorithm for data validation",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2019,
+   "qNum": "20",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Sort",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2019,
+   "qNum": "21",
+   "qPart": "",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2",
+   "keywords": "Developing software for specific devices",
+   "Outcome": "H2.2"
+ },
+ {
+   "year": 2019,
+   "qNum": "23",
+   "qPart": "a",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.2.2",
+   "keywords": "Scenario  student enrolment Compare and contrast arrays and records",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2019,
+   "qNum": "23",
+   "qPart": "b(i)",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.2.2",
+   "keywords": "Documentation  screen design",
+   "Outcome": "H6.4, H5.2"
+ },
+ {
+   "year": 2019,
+   "qNum": "23",
+   "qPart": "b(ii)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.1, 9.2.2",
+   "keywords": "Documentation  system flowchart",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2019,
+   "qNum": "23",
+   "qPart": "b(iii)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2",
+   "keywords": "Justification of search methods",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2019,
+   "qNum": "24",
+   "qPart": "a",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.2.2",
+   "keywords": "Algorithm   desk check",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2019,
+   "qNum": "24",
+   "qPart": "b",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2",
+   "keywords": "Improving code efficiency",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2019,
+   "qNum": "27",
+   "qPart": "b",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2, 9.2.3",
+   "keywords": "Choosing a programming language",
+   "Outcome": "H2.1"
+ },
+ {
+   "year": 2019,
+   "qNum": "28",
+   "qPart": "",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.2.2",
+   "keywords": "Algorithm based on subroutines provided",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2019,
+   "qNum": "29",
+   "qPart": "b",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.2.2",
+   "keywords": "Algorithm - Fixing errors in subroutine",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2019,
+   "qNum": "30",
+   "qPart": "",
+   "Marks": 5,
+   "Mins": 7.5,
+   "syllabus": "9.2.2",
+   "keywords": "Algorithm  processing 2D array",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2018,
+   "qNum": "1",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Output from code fragment",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2018,
+   "qNum": "9",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Interface design elements",
+   "Outcome": "H6.4"
+ },
+ {
+   "year": 2018,
+   "qNum": "11",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2, 9.2.4",
+   "keywords": "Benchmarking",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2018,
+   "qNum": "13",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Searches",
+   "Outcome": "H4.1, H4.2"
+ },
+ {
+   "year": 2018,
+   "qNum": "14",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Algorithm (flowchart to pseudocode)",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2018,
+   "qNum": "18",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Sorts",
+   "Outcome": "H4.1, H4.2"
+ },
+ {
+   "year": 2018,
+   "qNum": "19",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Algorithm (element deletion from array)",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2018,
+   "qNum": "20",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Drivers",
+   "Outcome": "H4.3"
+ },
+ {
+   "year": 2018,
+   "qNum": "22",
+   "qPart": "a",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2",
+   "keywords": "Desk checking an Algorithm",
+   "Outcome": "H4.3"
+ },
+ {
+   "year": 2018,
+   "qNum": "22",
+   "qPart": "c",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2",
+   "keywords": "Modifty an algorithm - Error correction",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2018,
+   "qNum": "24",
+   "qPart": "a",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.2.2",
+   "keywords": "Purpose of a particular piece of code",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2018,
+   "qNum": "24",
+   "qPart": "b",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2",
+   "keywords": "Modify an algorithm",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2018,
+   "qNum": "28",
+   "qPart": "a",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.2.2",
+   "keywords": "Design appropriate data structure",
+   "Outcome": "H1.3"
+ },
+ {
+   "year": 2018,
+   "qNum": "28",
+   "qPart": "b",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.2.2",
+   "keywords": "Produce system documentation",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2018,
+   "qNum": "28",
+   "qPart": "c",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.2.2",
+   "keywords": "Define data validation procedure",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2018,
+   "qNum": "30",
+   "qPart": "",
+   "Marks": 5,
+   "Mins": 7.5,
+   "syllabus": "9.2.2",
+   "keywords": "Design an algorithm",
+   "Outcome": "H4.3"
+ },
+ {
+   "year": 2017,
+   "qNum": "11",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Sentinel values",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2017,
+   "qNum": "12",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Event driven vs sequential",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2017,
+   "qNum": "14",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Sort methods",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2017,
+   "qNum": "15",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Sequential / relative files",
+   "Outcome": "H1.2, H4.2"
+ },
+ {
+   "year": 2017,
+   "qNum": "16",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "System documentation",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2017,
+   "qNum": "17",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Algorithm output",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2017,
+   "qNum": "18",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Algorithm comparison",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2017,
+   "qNum": "19",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Algorithm: Subroutine call",
+   "Outcome": "H4.3"
+ },
+ {
+   "year": 2017,
+   "qNum": "20",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Local/global variables",
+   "Outcome": "H4.2, H4.3"
+ },
+ {
+   "year": 2017,
+   "qNum": "22",
+   "qPart": "",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2",
+   "keywords": "System documentation",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2017,
+   "qNum": "23",
+   "qPart": "b",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2",
+   "keywords": "System documentation",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2017,
+   "qNum": "25",
+   "qPart": "",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2",
+   "keywords": "Choosing a language",
+   "Outcome": "H2.1"
+ },
+ {
+   "year": 2017,
+   "qNum": "28",
+   "qPart": "a",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2",
+   "keywords": "Desk check",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2017,
+   "qNum": "28",
+   "qPart": "b",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.2.2",
+   "keywords": "Error correction",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2017,
+   "qNum": "28",
+   "qPart": "c",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2",
+   "keywords": "Search methods",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2017,
+   "qNum": "32",
+   "qPart": "",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.2.2",
+   "keywords": "Algorithm design",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2017,
+   "qNum": "33",
+   "qPart": "b(ii)",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.2.2",
+   "keywords": "Algorithm design",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2016,
+   "qNum": "7",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "System documentation",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2016,
+   "qNum": "11",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Flowchart vs pseudocode",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2016,
+   "qNum": "13",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Identifying a sort",
+   "Outcome": "H1.3"
+ },
+ {
+   "year": 2016,
+   "qNum": "15",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Analysis of algorithm",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2016,
+   "qNum": "16",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Subroutine calls",
+   "Outcome": "H4.3"
+ },
+ {
+   "year": 2016,
+   "qNum": "18",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Insertion algorithm",
+   "Outcome": "H4.3"
+ },
+ {
+   "year": 2016,
+   "qNum": "23",
+   "qPart": "",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.2.2",
+   "keywords": "Interface design  screen elements",
+   "Outcome": "H6.4"
+ },
+ {
+   "year": 2016,
+   "qNum": "24",
+   "qPart": "a",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2",
+   "keywords": "Errors in algorithm",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2016,
+   "qNum": "24",
+   "qPart": "b",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.2.2",
+   "keywords": "Complete an algorithm",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2016,
+   "qNum": "26",
+   "qPart": "a",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2",
+   "keywords": "Data types",
+   "Outcome": "H6.3, H6.4"
+ },
+ {
+   "year": 2016,
+   "qNum": "26",
+   "qPart": "b",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2, 9.2.5",
+   "keywords": "Maintenance",
+   "Outcome": "H5.1"
+ },
+ {
+   "year": 2016,
+   "qNum": "28",
+   "qPart": "",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2",
+   "keywords": "Data structures",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2016,
+   "qNum": "29",
+   "qPart": "b",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.2.2",
+   "keywords": "Scenario  system documentation",
+   "Outcome": "H6.3, H6.4"
+ },
+ {
+   "year": 2016,
+   "qNum": "30",
+   "qPart": "",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2",
+   "keywords": "Search and sort",
+   "Outcome": "H1.3"
+ },
+ {
+   "year": 2016,
+   "qNum": "31",
+   "qPart": "",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.2.2",
+   "keywords": "Algorithm design - 2D matrix array",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2016,
+   "qNum": "33",
+   "qPart": "",
+   "Marks": 5,
+   "Mins": 7.5,
+   "syllabus": "9.2.3",
+   "keywords": "Algorithm design - sequential file",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2015,
+   "qNum": "2",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Screen elements",
+   "Outcome": "H6.4"
+ },
+ {
+   "year": 2015,
+   "qNum": "6",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Pseudocode output",
+   "Outcome": "H4.3"
+ },
+ {
+   "year": 2015,
+   "qNum": "9",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Data types / purpose",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2015,
+   "qNum": "11",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Flowchart control structures",
+   "Outcome": "H5.1"
+ },
+ {
+   "year": 2015,
+   "qNum": "12",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Flowchart output",
+   "Outcome": "H4.3"
+ },
+ {
+   "year": 2015,
+   "qNum": "16",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Completing an algorithm",
+   "Outcome": "H5.3"
+ },
+ {
+   "year": 2015,
+   "qNum": "17",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Sort types",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2015,
+   "qNum": "18",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Replacing a WHILE loop",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2015,
+   "qNum": "19",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Data types in an array",
+   "Outcome": "H1.3"
+ },
+ {
+   "year": 2015,
+   "qNum": "23",
+   "qPart": "a",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2",
+   "keywords": "Documentation for library routine",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2015,
+   "qNum": "23",
+   "qPart": "b",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.2.2",
+   "keywords": "Use documented subroutines in an algorithm.",
+   "Outcome": "H6.1"
+ },
+ {
+   "year": 2015,
+   "qNum": "26",
+   "qPart": "",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.2.2",
+   "keywords": "Linear search for a unique element",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2015,
+   "qNum": "29",
+   "qPart": "a",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.2.2",
+   "keywords": "Algorithm module interpretation",
+   "Outcome": "H4.1"
+ },
+ {
+   "year": 2015,
+   "qNum": "30",
+   "qPart": "b",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2",
+   "keywords": "Planning and designing a solution (sorting)",
+   "Outcome": "H4.2, H4.3"
+ },
+ {
+   "year": 2015,
+   "qNum": "31",
+   "qPart": "a",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2",
+   "keywords": "Desk checking an algorithm",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2015,
+   "qNum": "31",
+   "qPart": "b",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2",
+   "keywords": "Algorithm: Error correction",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2015,
+   "qNum": "31",
+   "qPart": "c",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2",
+   "keywords": "Test data",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2014,
+   "qNum": "4",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "sequential and relative files",
+   "Outcome": "H1.3"
+ },
+ {
+   "year": 2014,
+   "qNum": "5",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "algorithm needs to be tested for logic errors",
+   "Outcome": "H4.2, H4.3"
+ },
+ {
+   "year": 2014,
+   "qNum": "10",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "efficient search",
+   "Outcome": "H1.3, H4.3"
+ },
+ {
+   "year": 2014,
+   "qNum": "11",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "systems modelling tools",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2014,
+   "qNum": "15",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "pseudocode and flow chart",
+   "Outcome": "H4.2, H1.2"
+ },
+ {
+   "year": 2014,
+   "qNum": "17",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "function",
+   "Outcome": "H1.3, H4.2"
+ },
+ {
+   "year": 2014,
+   "qNum": "19",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "assembly language instructions",
+   "Outcome": "H1.3"
+ },
+ {
+   "year": 2014,
+   "qNum": "24",
+   "qPart": "",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2",
+   "keywords": "sequential and event-driven approaches",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2014,
+   "qNum": "30",
+   "qPart": "",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.2.2",
+   "keywords": "Write an algorithm",
+   "Outcome": "H4.3"
+ },
+ {
+   "year": 2014,
+   "qNum": "31",
+   "qPart": "a",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.2.2",
+   "keywords": "arrays of records",
+   "Outcome": "H1.3"
+ },
+ {
+   "year": 2014,
+   "qNum": "31",
+   "qPart": "b",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2",
+   "keywords": "steps in an algorithm",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2014,
+   "qNum": "34",
+   "qPart": "a",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.2.2",
+   "keywords": "test an algorithm",
+   "Outcome": "H4.3"
+ },
+ {
+   "year": 2014,
+   "qNum": "34",
+   "qPart": "b",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.2.2",
+   "keywords": "Modify an algorithm",
+   "Outcome": "H4.3"
+ },
+ {
+   "year": 2013,
+   "qNum": "1",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "desk check",
+   "Outcome": "H1.3"
+ },
+ {
+   "year": 2013,
+   "qNum": "6",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "software development cycle",
+   "Outcome": "H4.3"
+ },
+ {
+   "year": 2013,
+   "qNum": "12",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "test an algorithm",
+   "Outcome": "H1.3"
+ },
+ {
+   "year": 2013,
+   "qNum": "13",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "scope of variables",
+   "Outcome": "H4.3"
+ },
+ {
+   "year": 2013,
+   "qNum": "17",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "binary search algorithm",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2013,
+   "qNum": "21",
+   "qPart": "",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2",
+   "keywords": "well-designed data input interface",
+   "Outcome": "H6.4"
+ },
+ {
+   "year": 2013,
+   "qNum": "24",
+   "qPart": "b",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.2.2",
+   "keywords": "storyboard",
+   "Outcome": "H6.4"
+ },
+ {
+   "year": 2013,
+   "qNum": "27",
+   "qPart": "a",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.2.2",
+   "keywords": "Write an algorithm",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2013,
+   "qNum": "27",
+   "qPart": "b",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2",
+   "keywords": "Explain an algorithm",
+   "Outcome": "H1.3"
+ },
+ {
+   "year": 2013,
+   "qNum": "28",
+   "qPart": "a",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2",
+   "keywords": "Desk check an algorithm",
+   "Outcome": "H1.3. H4.2"
+ },
+ {
+   "year": 2013,
+   "qNum": "28",
+   "qPart": "b",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2",
+   "keywords": "BubbleSort",
+   "Outcome": "H4.3"
+ },
+ {
+   "year": 2013,
+   "qNum": "29",
+   "qPart": "b",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2",
+   "keywords": "structure chart",
+   "Outcome": "H4.3"
+ },
+ {
+   "year": 2013,
+   "qNum": "31",
+   "qPart": "a",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.2.2",
+   "keywords": "fix an algorithm",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2013,
+   "qNum": "31",
+   "qPart": "b",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2",
+   "keywords": "Write an algorithm",
+   "Outcome": "H4.3"
+ },
+ {
+   "year": 2012,
+   "qNum": "1",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "desk check output from an algorithm",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2012,
+   "qNum": "2",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "user interface",
+   "Outcome": "H6.4"
+ },
+ {
+   "year": 2012,
+   "qNum": "4",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "system modelling tools",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2012,
+   "qNum": "8",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "Control structures",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2012,
+   "qNum": "9",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "sorting algorithm",
+   "Outcome": "H1.3"
+ },
+ {
+   "year": 2012,
+   "qNum": "10",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "data structure",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2012,
+   "qNum": "11",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "control structure",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2012,
+   "qNum": "14",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "search method",
+   "Outcome": "H1.3"
+ },
+ {
+   "year": 2012,
+   "qNum": "17",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "understand an algorithm",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2012,
+   "qNum": "23",
+   "qPart": "a",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.2.1, 9.2.2",
+   "keywords": "storyboard",
+   "Outcome": "H1.2, H4.2"
+ },
+ {
+   "year": 2012,
+   "qNum": "23",
+   "qPart": "b",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.1, 9.2.2, 9.3",
+   "keywords": "data flow diagram",
+   "Outcome": "H1.2, H4.2"
+ },
+ {
+   "year": 2012,
+   "qNum": "24",
+   "qPart": "",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.2.2",
+   "keywords": "Write an algorithm:  two-dimensional array",
+   "Outcome": "H3.2, H4.2"
+ },
+ {
+   "year": 2012,
+   "qNum": "26",
+   "qPart": "c",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.2.2",
+   "keywords": "design an algorithm",
+   "Outcome": "H1.1, H1.3, H4.2"
+ },
+ {
+   "year": 2012,
+   "qNum": "28",
+   "qPart": "a",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2",
+   "keywords": "write a swap algorithm",
+   "Outcome": "H1.3"
+ },
+ {
+   "year": 2012,
+   "qNum": "28",
+   "qPart": "b",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.2.2",
+   "keywords": "design an algorithm",
+   "Outcome": "H4.2, H5.2, H6.4"
+ },
+ {
+   "year": 2012,
+   "qNum": "29",
+   "qPart": "",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.2.2",
+   "keywords": "development plan",
+   "Outcome": "H4.2, H5.1, H5.2"
+ },
+ {
+   "year": 2012,
+   "qNum": "30",
+   "qPart": "b",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2",
+   "keywords": "Write an algorithm",
+   "Outcome": "H1.3, H4.2"
+ },
+ {
+   "year": 2012,
+   "qNum": "30",
+   "qPart": "c",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.2.2",
+   "keywords": "data structure",
+   "Outcome": "H1.3, H4.2"
+ },
+ {
+   "year": 2011,
+   "qNum": "2",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "structure chart",
+   "Outcome": "H1.3"
+ },
+ {
+   "year": 2011,
+   "qNum": "7",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "fix an algorithm",
+   "Outcome": "H4.3"
+ },
+ {
+   "year": 2011,
+   "qNum": "8",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "system modelling tools",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2011,
+   "qNum": "13",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "system flowchart",
+   "Outcome": "H1.3, H6.2"
+ },
+ {
+   "year": 2011,
+   "qNum": "16",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "sorting method",
+   "Outcome": "H1.3"
+ },
+ {
+   "year": 2011,
+   "qNum": "19",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "binary search",
+   "Outcome": "H1.3"
+ },
+ {
+   "year": 2011,
+   "qNum": "21",
+   "qPart": "",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.1.2, 9.2.2 , 9.2.3, 9.2.4, 9.2.5, 9.3",
+   "keywords": "CASE tools",
+   "Outcome": "H4.2, H5.1"
+ },
+ {
+   "year": 2011,
+   "qNum": "22",
+   "qPart": "a",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.2.2",
+   "keywords": "data flow diagram",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2011,
+   "qNum": "22",
+   "qPart": "c",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.2.2",
+   "keywords": "sequential and random files",
+   "Outcome": "H1.1, H1.3"
+ },
+ {
+   "year": 2011,
+   "qNum": "29",
+   "qPart": "a",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.2.2",
+   "keywords": "Design an algorithm",
+   "Outcome": "H1.3, H4.2, H4.3"
+ },
+ {
+   "year": 2011,
+   "qNum": "29",
+   "qPart": "b",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.2.2",
+   "keywords": "Write an algorithm",
+   "Outcome": "H1.3, H4.2, H4.3"
+ },
+ {
+   "year": 2010,
+   "qNum": "3",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "test an algorithm",
+   "Outcome": "H4.3"
+ },
+ {
+   "year": 2010,
+   "qNum": "13",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "data structure",
+   "Outcome": "H1.3, H4.2"
+ },
+ {
+   "year": 2010,
+   "qNum": "14",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "data type",
+   "Outcome": "H4.3"
+ },
+ {
+   "year": 2010,
+   "qNum": "15",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2",
+   "keywords": "test an algorithm",
+   "Outcome": "H4.3"
+ },
+ {
+   "year": 2010,
+   "qNum": "20",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2, 9.3",
+   "keywords": "test an algorithm",
+   "Outcome": "H1.3"
+ },
+ {
+   "year": 2010,
+   "qNum": "21",
+   "qPart": "b",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2 , 9.2.3",
+   "keywords": "modular approach",
+   "Outcome": "H4.3"
+ },
+ {
+   "year": 2010,
+   "qNum": "21",
+   "qPart": "c(i)",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.2.2",
+   "keywords": "library routines",
+   "Outcome": "H5.3, H4.2"
+ },
+ {
+   "year": 2010,
+   "qNum": "21",
+   "qPart": "c(ii)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2",
+   "keywords": "library routines",
+   "Outcome": "H5.3, H4.2"
+ },
+ {
+   "year": 2010,
+   "qNum": "21",
+   "qPart": "d(iii)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2 , 9.2.3",
+   "keywords": "sequential and event-driven approaches",
+   "Outcome": "H4.2, H5.3"
+ },
+ {
+   "year": 2010,
+   "qNum": "22",
+   "qPart": "a",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.2.2",
+   "keywords": "designing a set of test data to desk check an algorithm",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2010,
+   "qNum": "22",
+   "qPart": "b(i)",
+   "Marks": 5,
+   "Mins": 7.5,
+   "syllabus": "9.2.2 , 9.2.3, 9.3",
+   "keywords": "Write an algorithm",
+   "Outcome": "H4.2, H4.3"
+ },
+ {
+   "year": 2010,
+   "qNum": "22",
+   "qPart": "b(ii)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2",
+   "keywords": "test an algorithm",
+   "Outcome": "H4.2, H4.3, H1.1"
+ },
+ {
+   "year": 2010,
+   "qNum": "22",
+   "qPart": "c(i)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2 , 9.2.3",
+   "keywords": "swap algorithm",
+   "Outcome": "H1.1, H1.3, H4.2"
+ },
+ {
+   "year": 2010,
+   "qNum": "22",
+   "qPart": "c(ii)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2",
+   "keywords": "insertion sort",
+   "Outcome": "H4.2 "
+ },
+ {
+   "year": 2010,
+   "qNum": "23",
+   "qPart": "d(i)",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.2.2",
+   "keywords": "data structure",
+   "Outcome": "H1.3"
+ },
+ {
+   "year": 2010,
+   "qNum": "23",
+   "qPart": "d(iii)",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": " 9.2.2, 9.3",
+   "keywords": "structure diagram",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2021,
+   "qNum": "32",
+   "qPart": "",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.2.3",
+   "keywords": "Fetchexecute cycle",
+   "Outcome": "H1.1, H1.3"
+ },
+ {
+   "year": 2020,
+   "qNum": "2",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "Program documentation",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2020,
+   "qNum": "8",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "Types of error",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2020,
+   "qNum": "10",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "Metalanguage",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2020,
+   "qNum": "12",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "Railroad diagram and EBNF",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2020,
+   "qNum": "16",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "Dynamic link libraries",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2020,
+   "qNum": "19",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "Fetch  Execute cycle  code interpretation",
+   "Outcome": "H1.3"
+ },
+ {
+   "year": 2020,
+   "qNum": "20",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "Fetch  Execute cycle  program counter",
+   "Outcome": "H1.3"
+ },
+ {
+   "year": 2020,
+   "qNum": "23",
+   "qPart": "",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.2.3",
+   "keywords": "Interpretation and compilation",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2020,
+   "qNum": "25",
+   "qPart": "(a)",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.2.3",
+   "keywords": "Use of stubs",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2020,
+   "qNum": "27",
+   "qPart": "(b)",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.2.3",
+   "keywords": "Debugging methods",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2020,
+   "qNum": "28",
+   "qPart": "",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.3",
+   "keywords": "Metalanguage",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2019,
+   "qNum": "8",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "Use of flags",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2019,
+   "qNum": "9",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "Compilation/interpretation",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2019,
+   "qNum": "12",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "Fetch-execute cycle",
+   "Outcome": "H1.3"
+ },
+ {
+   "year": 2019,
+   "qNum": "17",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "Syntax (English to EBNF) ",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2019,
+   "qNum": "27",
+   "qPart": "(b)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2, 9.2.3",
+   "keywords": "Choosing a programming language",
+   "Outcome": "H2.1"
+ },
+ {
+   "year": 2019,
+   "qNum": "29",
+   "qPart": "(a)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.3",
+   "keywords": "Sorting subroutine  debugging methods",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2018,
+   "qNum": "3",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "Error types",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2018,
+   "qNum": "10",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "Stubs",
+   "Outcome": "H5.1"
+ },
+ {
+   "year": 2018,
+   "qNum": "12",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "Language syntax",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2018,
+   "qNum": "16",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "Fetch-execute cycle",
+   "Outcome": "H1.3"
+ },
+ {
+   "year": 2018,
+   "qNum": "17",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "Control Structure / interpreting algorithm",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2018,
+   "qNum": "22",
+   "qPart": "(b)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.3",
+   "keywords": "Debugging techniques other than deskcheck",
+   "Outcome": "H5.3"
+ },
+ {
+   "year": 2018,
+   "qNum": "23",
+   "qPart": "(b)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.3",
+   "keywords": "User documentation",
+   "Outcome": "H5.2, H6.2"
+ },
+ {
+   "year": 2018,
+   "qNum": "27",
+   "qPart": "",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.2.3",
+   "keywords": "EBNF Syntax diagram: explain why and where code will result in syntax error",
+   "Outcome": "H1.2, H4.2"
+ },
+ {
+   "year": 2018,
+   "qNum": "29",
+   "qPart": "",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.3",
+   "keywords": "Translation process",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2017,
+   "qNum": "2",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "Control structures",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2017,
+   "qNum": "3",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "User documentation",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2017,
+   "qNum": "4",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "Syntax diagrams",
+   "Outcome": "H2.1"
+ },
+ {
+   "year": 2017,
+   "qNum": "7",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "Error types",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2017,
+   "qNum": "13",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "Translation",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2017,
+   "qNum": "30",
+   "qPart": "",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.3",
+   "keywords": "Fetch-execute cycle",
+   "Outcome": "H1.1, H1.3"
+ },
+ {
+   "year": 2017,
+   "qNum": "31",
+   "qPart": "",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.3",
+   "keywords": "EBNF Statements",
+   "Outcome": "H2.1, H4.2"
+ },
+ {
+   "year": 2016,
+   "qNum": "14",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "Compiler vs interpreter",
+   "Outcome": "H1.2, H4.2"
+ },
+ {
+   "year": 2016,
+   "qNum": "19",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "Machine code fragment  interpretation",
+   "Outcome": "H1.1, H1.3"
+ },
+ {
+   "year": 2016,
+   "qNum": "20",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "Machine code fragment  use of register",
+   "Outcome": "H1.1, H1.3"
+ },
+ {
+   "year": 2016,
+   "qNum": "27",
+   "qPart": "",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.2.3",
+   "keywords": "Debugging tools",
+   "Outcome": "H5.3"
+ },
+ {
+   "year": 2015,
+   "qNum": "9",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "Purpose of DLL",
+   "Outcome": "H4.3"
+ },
+ {
+   "year": 2015,
+   "qNum": "13",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "Fetch-execute cycle",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2015,
+   "qNum": "14",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "Metalanguages",
+   "Outcome": "H2.1"
+ },
+ {
+   "year": 2015,
+   "qNum": "17",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "Metalanguages",
+   "Outcome": "H2.1"
+ },
+ {
+   "year": 2015,
+   "qNum": "24",
+   "qPart": "",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.3",
+   "keywords": "Runtime errors",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2015,
+   "qNum": "29",
+   "qPart": "(b)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.3",
+   "keywords": "Use of stubs",
+   "Outcome": "H5.3"
+ },
+ {
+   "year": 2015,
+   "qNum": "32",
+   "qPart": "",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.2.3",
+   "keywords": "Algorithm design",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2015,
+   "qNum": "??",
+   "qPart": "",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.2.3",
+   "keywords": "Metalanguages  design for a control structure",
+   "Outcome": "H2.1"
+ },
+ {
+   "year": 2014,
+   "qNum": "3",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "documentation",
+   "Outcome": "H5.2, H6.2"
+ },
+ {
+   "year": 2014,
+   "qNum": "7",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "variable",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2014,
+   "qNum": "8",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "Translation",
+   "Outcome": "H1.2, H1.3"
+ },
+ {
+   "year": 2014,
+   "qNum": "13",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "program trace",
+   "Outcome": "H4.2, H5.3"
+ },
+ {
+   "year": 2014,
+   "qNum": "14",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "EBNF Statements",
+   "Outcome": "H1.2, H1.3"
+ },
+ {
+   "year": 2014,
+   "qNum": "16",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "Translation",
+   "Outcome": "H1.3"
+ },
+ {
+   "year": 2014,
+   "qNum": "20",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "Sorting methods",
+   "Outcome": "H1.1, H1.3"
+ },
+ {
+   "year": 2014,
+   "qNum": "27",
+   "qPart": "(a)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.3",
+   "keywords": "COTS",
+   "Outcome": "H4.3"
+ },
+ {
+   "year": 2014,
+   "qNum": "32",
+   "qPart": "",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.3",
+   "keywords": "Railroad diagram",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2014,
+   "qNum": "33",
+   "qPart": "",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.2.3",
+   "keywords": "Write an algorithm",
+   "Outcome": "H4.2, H4.3"
+ },
+ {
+   "year": 2013,
+   "qNum": "10",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "coding errors",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2013,
+   "qNum": "15",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "EBNF/Railroad",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2013,
+   "qNum": "20",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "assembly language",
+   "Outcome": "H1.3, H1.1"
+ },
+ {
+   "year": 2013,
+   "qNum": "30",
+   "qPart": "(b)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.1, 9.2.3",
+   "keywords": "specifications",
+   "Outcome": "H4.3, H5.2"
+ },
+ {
+   "year": 2012,
+   "qNum": "3",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "CPU",
+   "Outcome": "H1.3"
+ },
+ {
+   "year": 2012,
+   "qNum": "12",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "error types",
+   "Outcome": "H1.1, H1.3"
+ },
+ {
+   "year": 2012,
+   "qNum": "16",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "Compilation/interpretation",
+   "Outcome": "H1.1, H1.3"
+ },
+ {
+   "year": 2012,
+   "qNum": "19",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "EBNF",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2012,
+   "qNum": "22",
+   "qPart": "(a)",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.2.3",
+   "keywords": "Algorithm maintainability",
+   "Outcome": "H4.3, H5.2"
+ },
+ {
+   "year": 2012,
+   "qNum": "22",
+   "qPart": "(b)",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "desk check test data in an algorithm",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2012,
+   "qNum": "22",
+   "qPart": "(c)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.3",
+   "keywords": "efficiency of algorithm",
+   "Outcome": "H4.2, H4.3"
+ },
+ {
+   "year": 2012,
+   "qNum": "30",
+   "qPart": "(a)",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.2.1, 9.2.3",
+   "keywords": "logic error in algorithm",
+   "Outcome": "H3.2"
+ },
+ {
+   "year": 2011,
+   "qNum": "3",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "metalanguage",
+   "Outcome": "H1.3"
+ },
+ {
+   "year": 2011,
+   "qNum": "4",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "program counter",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2011,
+   "qNum": "5",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "Translation",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2011,
+   "qNum": "9",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "Fetch-execute cycle",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2011,
+   "qNum": "14",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "documentation",
+   "Outcome": "H1.2, H5.2"
+ },
+ {
+   "year": 2011,
+   "qNum": "15",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "desk check output from algorithm",
+   "Outcome": "H4.2, H4.3"
+ },
+ {
+   "year": 2011,
+   "qNum": "17",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "two-dimensional array",
+   "Outcome": "H1.3"
+ },
+ {
+   "year": 2011,
+   "qNum": "18",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "two-dimensional array Algorithm - calculation",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2011,
+   "qNum": "20",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "compilation",
+   "Outcome": "H1.3, H4.2"
+ },
+ {
+   "year": 2011,
+   "qNum": "21",
+   "qPart": "",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.2.3 +5 ",
+   "keywords": "CASE tools",
+   "Outcome": "H4.2, H5.1"
+ },
+ {
+   "year": 2011,
+   "qNum": "22",
+   "qPart": "(b)",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.2.3",
+   "keywords": "data dictionary",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2011,
+   "qNum": "23",
+   "qPart": "",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.3",
+   "keywords": "locating errors",
+   "Outcome": "H4.3, H5.2"
+ },
+ {
+   "year": 2011,
+   "qNum": "26",
+   "qPart": "(a)",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.2.3",
+   "keywords": "desk check an algorithm to locate logic errors",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2011,
+   "qNum": "27",
+   "qPart": "(b)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.3",
+   "keywords": "distributing routines in compiled form",
+   "Outcome": "H1.1, H1.2, H3.1"
+ },
+ {
+   "year": 2011,
+   "qNum": "30",
+   "qPart": "",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.3",
+   "keywords": "EBNF",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2011,
+   "qNum": "31",
+   "qPart": "",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.3, 9.2.4",
+   "keywords": "algorithm performance",
+   "Outcome": "H4.3"
+ },
+ {
+   "year": 2011,
+   "qNum": "32",
+   "qPart": "",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.3",
+   "keywords": "complilation",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2010,
+   "qNum": "4",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "metalanguage",
+   "Outcome": "H4.3, H5.2"
+ },
+ {
+   "year": 2010,
+   "qNum": "9",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "Documentation",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2010,
+   "qNum": "11",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "CPU, RAM",
+   "Outcome": "H1.3"
+ },
+ {
+   "year": 2010,
+   "qNum": "12",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "breakpoint",
+   "Outcome": "H1.2, H4.2"
+ },
+ {
+   "year": 2010,
+   "qNum": "17",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "compilation",
+   "Outcome": "H1.1, H1.3"
+ },
+ {
+   "year": 2010,
+   "qNum": "18",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "error types",
+   "Outcome": "H1.3"
+ },
+ {
+   "year": 2010,
+   "qNum": "19",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.3",
+   "keywords": "translation",
+   "Outcome": "H1.1, H1.2"
+ },
+ {
+   "year": 2010,
+   "qNum": "21",
+   "qPart": "(b)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2, 9.2.3",
+   "keywords": "modular approach",
+   "Outcome": "H4.3"
+ },
+ {
+   "year": 2010,
+   "qNum": "21",
+   "qPart": "(d) (ii)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.3",
+   "keywords": "documentation",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2010,
+   "qNum": "21",
+   "qPart": "(d) (iii)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2, 9.2.3",
+   "keywords": "approaches ",
+   "Outcome": "H4.2, H5.3"
+ },
+ {
+   "year": 2010,
+   "qNum": "22",
+   "qPart": "(b) (i)",
+   "Marks": 5,
+   "Mins": 7.5,
+   "syllabus": "9.2.2, 9.2.3, 9.3",
+   "keywords": "Write an algorithm",
+   "Outcome": "H4.2, H4.3"
+ },
+ {
+   "year": 2010,
+   "qNum": "22",
+   "qPart": "(b) (ii)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.3",
+   "keywords": "desk check",
+   "Outcome": "H4.2, H4.3, H1.1"
+ },
+ {
+   "year": 2010,
+   "qNum": "22",
+   "qPart": "(c) (i)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.3",
+   "keywords": "Swap algorithm",
+   "Outcome": "H1.1, H1.3, H4.2"
+ },
+ {
+   "year": 2010,
+   "qNum": "23",
+   "qPart": "(c) (i)",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.2.3",
+   "keywords": "fetch-execute cycle",
+   "Outcome": "H1.3"
+ },
+ {
+   "year": 2010,
+   "qNum": "23",
+   "qPart": "(c) (ii)",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.2.3",
+   "keywords": "Assembler code",
+   "Outcome": "H1.3"
+ },
+ {
+   "year": 2010,
+   "qNum": "23",
+   "qPart": "(d) (ii)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.3",
+   "keywords": "interface design",
+   "Outcome": "H6.4"
+ },
+ {
+   "year": 2021,
+   "qNum": "22",
+   "qPart": "",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.4",
+   "keywords": "Methods of testing",
+   "Outcome": "H4.2, H5.1"
+ },
+ {
+   "year": 2020,
+   "qNum": "9",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.4",
+   "keywords": "Levels of testing and use of driver",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2020,
+   "qNum": "21",
+   "qPart": "(d)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.4",
+   "keywords": "Benchmarking",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2020,
+   "qNum": "26",
+   "qPart": "(b)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.4",
+   "keywords": "Test data",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2019,
+   "qNum": "2",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.4",
+   "keywords": "Volume testing",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2019,
+   "qNum": "4",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.4",
+   "keywords": "Post-implementation review",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2019,
+   "qNum": "14",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.4",
+   "keywords": "Test data",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2019,
+   "qNum": "25",
+   "qPart": "b",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.4",
+   "keywords": "Software evaluation",
+   "Outcome": "H4.3, H5.1"
+ },
+ {
+   "year": 2018,
+   "qNum": "2",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.4",
+   "keywords": "Test data",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2018,
+   "qNum": "11",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2, 9.2.4",
+   "keywords": "Benchmarking",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2018,
+   "qNum": "15",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.4",
+   "keywords": "Testing",
+   "Outcome": "H4.2, H4.3"
+ },
+ {
+   "year": 2018,
+   "qNum": "23",
+   "qPart": "c",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.1, 9.2.4",
+   "keywords": "Testing / quality assurance",
+   "Outcome": "H4.3"
+ },
+ {
+   "year": 2018,
+   "qNum": "26",
+   "qPart": "",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.4",
+   "keywords": "Importance of live and volume testing",
+   "Outcome": "H5.1"
+ },
+ {
+   "year": 2017,
+   "qNum": "21",
+   "qPart": "",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.4",
+   "keywords": "Testing report",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2016,
+   "qNum": "8",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.4",
+   "keywords": "Quality assurance criteria",
+   "Outcome": "H3.2, H5.1"
+ },
+ {
+   "year": 2016,
+   "qNum": "22",
+   "qPart": "",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.1.1, 9.2.4",
+   "keywords": "Response times",
+   "Outcome": "H2.2"
+ },
+ {
+   "year": 2015,
+   "qNum": "12",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.4",
+   "keywords": "Test data design",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2015,
+   "qNum": "20",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.4",
+   "keywords": "Driver to test module",
+   "Outcome": "H5.3"
+ },
+ {
+   "year": 2015,
+   "qNum": "22",
+   "qPart": "",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.2.4",
+   "keywords": "Describe the types of testing",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2014,
+   "qNum": "6",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.4",
+   "keywords": "Testing documentation",
+   "Outcome": "H5.2, H5.3"
+ },
+ {
+   "year": 2014,
+   "qNum": "29",
+   "qPart": "",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.4",
+   "keywords": "Testing levels",
+   "Outcome": "H4.2, H4.3"
+ },
+ {
+   "year": 2013,
+   "qNum": "16",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.4",
+   "keywords": "Acceptance testing",
+   "Outcome": "H4.2, H4.3"
+ },
+ {
+   "year": 2013,
+   "qNum": "18",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.4",
+   "keywords": "subroutine testing",
+   "Outcome": "H4.3"
+ },
+ {
+   "year": 2013,
+   "qNum": "19",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.4",
+   "keywords": "reason for modifying code",
+   "Outcome": "H4.3"
+ },
+ {
+   "year": 2013,
+   "qNum": "29",
+   "qPart": "a",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.4",
+   "keywords": "locating an error",
+   "Outcome": "H4.3"
+ },
+ {
+   "year": 2012,
+   "qNum": "13",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.4",
+   "keywords": "Benchmarking",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2012,
+   "qNum": "26",
+   "qPart": "a",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.2.4",
+   "keywords": "driver",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2012,
+   "qNum": "26",
+   "qPart": "b",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.4",
+   "keywords": "Test data",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2011,
+   "qNum": "11",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.4",
+   "keywords": "Test boundaries",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2011,
+   "qNum": "12",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.4",
+   "keywords": "Benchmarking",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2011,
+   "qNum": "21",
+   "qPart": "",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.1.1, 9.2.2, 9.2.3, 9.2.4, 9.2.5, 9.3",
+   "keywords": "CASE tools",
+   "Outcome": "H4.2, H5.1"
+ },
+ {
+   "year": 2011,
+   "qNum": "25",
+   "qPart": "",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.4",
+   "keywords": "Test data",
+   "Outcome": "H4.3"
+ },
+ {
+   "year": 2011,
+   "qNum": "26",
+   "qPart": "b",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.4",
+   "keywords": "Logic errors",
+   "Outcome": "H4.3"
+ },
+ {
+   "year": 2011,
+   "qNum": "31",
+   "qPart": "",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.3, 9.2.4",
+   "keywords": "Performance",
+   "Outcome": "H4.3"
+ },
+ {
+   "year": 2010,
+   "qNum": "8",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.4",
+   "keywords": "Performance Monitoring",
+   "Outcome": "H4.2, H5.1"
+ },
+ {
+   "year": 2010,
+   "qNum": "23",
+   "qPart": "b",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.2.4",
+   "keywords": "Testing levels",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2020,
+   "qNum": "13",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.5",
+   "keywords": "Maintenance",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2019,
+   "qNum": "25",
+   "qPart": "c",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.5",
+   "keywords": "Maintenance",
+   "Outcome": "H4.2, H5.1"
+ },
+ {
+   "year": 2018,
+   "qNum": "4",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.5",
+   "keywords": "Maintenance",
+   "Outcome": "H4.3"
+ },
+ {
+   "year": 2017,
+   "qNum": "26",
+   "qPart": "",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.5",
+   "keywords": "Maintenance",
+   "Outcome": "H4.2, H4.3"
+ },
+ {
+   "year": 2016,
+   "qNum": "26",
+   "qPart": "b",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.2, 9.2.5",
+   "keywords": "Maintenance",
+   "Outcome": "H5.1"
+ },
+ {
+   "year": 2015,
+   "qNum": "5",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.5",
+   "keywords": "Maintenance / documentation",
+   "Outcome": "H5.2, H6.1"
+ },
+ {
+   "year": 2015,
+   "qNum": "21",
+   "qPart": "",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.2.5",
+   "keywords": "Reasons for maintenance",
+   "Outcome": "H5.1"
+ },
+ {
+   "year": 2014,
+   "qNum": "25",
+   "qPart": "",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.2.5",
+   "keywords": "efficient UI",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2014,
+   "qNum": "27",
+   "qPart": "b",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.5",
+   "keywords": "maintenance issues",
+   "Outcome": "H3.1"
+ },
+ {
+   "year": 2014,
+   "qNum": "28",
+   "qPart": "",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.5",
+   "keywords": "modify an algorithm",
+   "Outcome": "H3.1"
+ },
+ {
+   "year": 2013,
+   "qNum": "8",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.5",
+   "keywords": "reasons for maintaining software",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2013,
+   "qNum": "14",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.5",
+   "keywords": "reasons for maintaining software",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2011,
+   "qNum": "6",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.5",
+   "keywords": "reasons for maintaining software",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2011,
+   "qNum": "21",
+   "qPart": "",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.1.1, 9.2.2, 9.2.3, 9.2.4, 9.2.5, 9.3",
+   "keywords": "CASE tools",
+   "Outcome": "H4.2, H5.1"
+ },
+ {
+   "year": 2010,
+   "qNum": "22",
+   "qPart": "d",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.2.5",
+   "keywords": "Maintenance techniques",
+   "Outcome": "H5.2, H4.3"
+ },
+ {
+   "year": 2021,
+   "qNum": "24",
+   "qPart": "",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.3 ",
+   "keywords": "Log books ",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2021,
+   "qNum": "26",
+   "qPart": "",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.3",
+   "keywords": "Design an algorithm",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2021,
+   "qNum": "30",
+   "qPart": "",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.3",
+   "keywords": "Design an algorithm",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2021,
+   "qNum": "33",
+   "qPart": "",
+   "Marks": 5,
+   "Mins": 7.5,
+   "syllabus": "9.3",
+   "keywords": "Design an algorithm",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2020,
+   "qNum": "21",
+   "qPart": "(c)",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.3",
+   "keywords": "Project management  Gantt chart",
+   "Outcome": "H5.1"
+ },
+ {
+   "year": 2020,
+   "qNum": "24",
+   "qPart": "(b)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.3",
+   "keywords": "Documentation  storyboard",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2020,
+   "qNum": "26",
+   "qPart": "(c)",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.3",
+   "keywords": "Validation subroutine",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2020,
+   "qNum": "27",
+   "qPart": "(c)",
+   "Marks": 5,
+   "Mins": 7.5,
+   "syllabus": "9.3",
+   "keywords": "Algorithm design",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2019,
+   "qNum": "27",
+   "qPart": "c",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.3, 9.1.2",
+   "keywords": "Team of developers vs single developer",
+   "Outcome": "H6.3"
+ },
+ {
+   "year": 2018,
+   "qNum": "23",
+   "qPart": "a",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.3 ",
+   "keywords": "Project management",
+   "Outcome": "H5.1, H6.3"
+ },
+ {
+   "year": 2017,
+   "qNum": "23",
+   "qPart": "c",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.3 ",
+   "keywords": "Project management",
+   "Outcome": "H5.1"
+ },
+ {
+   "year": 2016,
+   "qNum": "25",
+   "qPart": "a",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.3",
+   "keywords": "Purpose(s) of logbooks",
+   "Outcome": "H5.1"
+ },
+ {
+   "year": 2016,
+   "qNum": "25",
+   "qPart": "b",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.3",
+   "keywords": "Project Management techniques",
+   "Outcome": "H5.1"
+ },
+ {
+   "year": 2016,
+   "qNum": "25",
+   "qPart": "c",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.1, 9.3",
+   "keywords": "Communication skills",
+   "Outcome": "H6.1"
+ },
+ {
+   "year": 2015,
+   "qNum": "10",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.3 ",
+   "keywords": "Project management",
+   "Outcome": "H6.2"
+ },
+ {
+   "year": 2014,
+   "qNum": "23",
+   "qPart": "",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.3 ",
+   "keywords": "project management tools",
+   "Outcome": "H5.1, H2.1"
+ },
+ {
+   "year": 2013,
+   "qNum": "3",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.3",
+   "keywords": "project management",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2013,
+   "qNum": "9",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.1, 9.3",
+   "keywords": "prooject management documentation",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2013,
+   "qNum": "22",
+   "qPart": "b",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.3",
+   "keywords": "documenmtation DFD",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2013,
+   "qNum": "25",
+   "qPart": "b",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.3",
+   "keywords": "agile approaach",
+   "Outcome": "H1.3, H6.4"
+ },
+ {
+   "year": 2012,
+   "qNum": "20",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.3",
+   "keywords": "data validation",
+   "Outcome": "H1.3, H4.3"
+ },
+ {
+   "year": 2012,
+   "qNum": "23",
+   "qPart": "b",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.1, 9.2.2, 9.3",
+   "keywords": "data flow diagram",
+   "Outcome": "H1.2, H4.2"
+ },
+ {
+   "year": 2011,
+   "qNum": "21",
+   "qPart": "",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.1.1, 9.2.2, 9.2.3, 9.2.4, 9.2.5, 9.3",
+   "keywords": "CASE tools",
+   "Outcome": "H4.2, H5.1"
+ },
+ {
+   "year": 2010,
+   "qNum": "1",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.3",
+   "keywords": "Gantt chart",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2010,
+   "qNum": "6",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.3",
+   "keywords": "test data, software development cycle",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2010,
+   "qNum": "20",
+   "qPart": "",
+   "Marks": 1,
+   "Mins": 1.5,
+   "syllabus": "9.2.2, 9.3",
+   "keywords": "Desk check",
+   "Outcome": "H1.3"
+ },
+ {
+   "year": 2010,
+   "qNum": "22",
+   "qPart": "b(i)",
+   "Marks": 5,
+   "Mins": 7.5,
+   "syllabus": " 9.2.2, 9.2.3, 9.3",
+   "keywords": "Write an algorithm",
+   "Outcome": "H4.2, H4.3"
+ },
+ {
+   "year": 2010,
+   "qNum": "23",
+   "qPart": "a",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.3",
+   "keywords": "Project management tools",
+   "Outcome": "H5.3, H6.3"
+ },
+ {
+   "year": 2010,
+   "qNum": "23",
+   "qPart": "d(ii)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.2.3, 9.3",
+   "keywords": "interface design",
+   "Outcome": "H6.4"
+ },
+ {
+   "year": 2010,
+   "qNum": "23",
+   "qPart": "d(iii)",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.2.2, 9.3",
+   "keywords": "Structure diagram",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2021,
+   "qNum": "34",
+   "qPart": " (a) (i)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.4.1",
+   "keywords": " OOP classes and attributes",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2021,
+   "qNum": "34",
+   "qPart": " (a) (ii)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.4.1",
+   "keywords": " OOP methods",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2021,
+   "qNum": "34",
+   "qPart": " (a) (iii)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.4.1",
+   "keywords": " Artificial intelligence",
+   "Outcome": "H2.2"
+ },
+ {
+   "year": 2021,
+   "qNum": "34",
+   "qPart": " (b) (i)",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.4.1",
+   "keywords": " LOGIC query",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2021,
+   "qNum": "34",
+   "qPart": " (b) (ii)",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.4.1",
+   "keywords": " LOGIC rule",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2021,
+   "qNum": "34",
+   "qPart": " (b) (iii)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.4.1",
+   "keywords": " LOGIC chaining",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2021,
+   "qNum": "34",
+   "qPart": " (c)",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.4.1",
+   "keywords": " Choice of paradigm",
+   "Outcome": "H2.1, H4.1, H5.3"
+ },
+ {
+   "year": 2020,
+   "qNum": "29",
+   "qPart": "(a)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.4.1",
+   "keywords": "OOP  games",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2020,
+   "qNum": "29",
+   "qPart": "(b) (i)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.4.1",
+   "keywords": "Logic programming",
+   "Outcome": "H2.1"
+ },
+ {
+   "year": 2020,
+   "qNum": "29",
+   "qPart": "(b) (ii)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.4.1",
+   "keywords": "Logic programming",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2020,
+   "qNum": "29",
+   "qPart": "(c)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.4.1",
+   "keywords": "Imperative vs logic  expert system",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2020,
+   "qNum": "29",
+   "qPart": "(d)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.4.1",
+   "keywords": "OOP  encapsulation",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2020,
+   "qNum": "29",
+   "qPart": "(e) (i)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.4.1",
+   "keywords": "OOP  polymorphism",
+   "Outcome": "H2.1"
+ },
+ {
+   "year": 2020,
+   "qNum": "29",
+   "qPart": "(e) (ii)",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.4.1",
+   "keywords": "OOP  method",
+   "Outcome": "H2.1"
+ },
+ {
+   "year": 2019,
+   "qNum": "31",
+   "qPart": "a",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.4.1",
+   "keywords": "Implication of OOP for testing/maintenance",
+   "Outcome": "H1.2, H2.1"
+ },
+ {
+   "year": 2019,
+   "qNum": "31",
+   "qPart": "b(i)",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.4.1",
+   "keywords": "OOP -Distinguish between inheritance and polymorphism",
+   "Outcome": "H1.2, H2.1"
+ },
+ {
+   "year": 2019,
+   "qNum": "31",
+   "qPart": "b(ii)",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.4.1",
+   "keywords": "Modify OOP code",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2019,
+   "qNum": "31",
+   "qPart": "c(i)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.4.1",
+   "keywords": "LOGIC Paradigm Distinguish between facts, rules and queries",
+   "Outcome": "H4.1"
+ },
+ {
+   "year": 2019,
+   "qNum": "31",
+   "qPart": "c(ii)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.4.1",
+   "keywords": "LOGIC Paradigm  Use of pattern matching in described system",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2019,
+   "qNum": "31",
+   "qPart": "d",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.4.1",
+   "keywords": "LOGIC Paradigm  Use of AI",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2019,
+   "qNum": "31",
+   "qPart": "e",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.4.1",
+   "keywords": "Current role of the imperative paradigm",
+   "Outcome": "H2.1, H4.1"
+ },
+ {
+   "year": 2018,
+   "qNum": "31",
+   "qPart": "a",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.4.1",
+   "keywords": "OOP encapsulation",
+   "Outcome": "H2.1, H4.2"
+ },
+ {
+   "year": 2018,
+   "qNum": "31",
+   "qPart": "b(i)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.4.1",
+   "keywords": "LOGIC Paradigm  expanding code",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2018,
+   "qNum": "31",
+   "qPart": "b(ii)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.4.1",
+   "keywords": "LOGIC Paradigm  evaluating query",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2018,
+   "qNum": "31",
+   "qPart": "c",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.4.1",
+   "keywords": "Reasons for paradigm development",
+   "Outcome": "H2.1, H4.2"
+ },
+ {
+   "year": 2018,
+   "qNum": "31",
+   "qPart": "d",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.4.1",
+   "keywords": "LOGIC Paradigm Heuristics",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2018,
+   "qNum": "31",
+   "qPart": "e(i)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.4.1",
+   "keywords": "OOP modifying code  inheritance",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2018,
+   "qNum": "31",
+   "qPart": "e(ii)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.4.1",
+   "keywords": "OOP polymorphism",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2017,
+   "qNum": "34",
+   "qPart": "a",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.4.1",
+   "keywords": "OOP polymorphism",
+   "Outcome": "H2.1"
+ },
+ {
+   "year": 2017,
+   "qNum": "34",
+   "qPart": "b(i)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.4.1",
+   "keywords": "OOP declarations",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2017,
+   "qNum": "34",
+   "qPart": "b(ii)",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.4.1",
+   "keywords": "OOP attributes",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2017,
+   "qNum": "34",
+   "qPart": "b(iii)",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.4.1",
+   "keywords": "OOP subclass",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2017,
+   "qNum": "34",
+   "qPart": "c",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.4.1",
+   "keywords": "Paradigm comparison",
+   "Outcome": "H5.3"
+ },
+ {
+   "year": 2017,
+   "qNum": "34",
+   "qPart": "d(i)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.4.1",
+   "keywords": "LOGIC Paradigm Chaining",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2017,
+   "qNum": "34",
+   "qPart": "d(ii)",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.4.1",
+   "keywords": "LOGIC Paradigm  LOGIC rule",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2016,
+   "qNum": "34",
+   "qPart": "a",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.4.1",
+   "keywords": "LOGIC Paradigm  Definition of an expert system",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2016,
+   "qNum": "34",
+   "qPart": "b",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.4.1",
+   "keywords": "Comparing paradigms",
+   "Outcome": "H1.2, H2.1"
+ },
+ {
+   "year": 2016,
+   "qNum": "34",
+   "qPart": "c(i)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.4.1",
+   "keywords": "Extending LOGIC code",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2016,
+   "qNum": "34",
+   "qPart": "c(ii)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.4.1",
+   "keywords": "Evaluating a LOGIC rule",
+   "Outcome": "H1.2, H2.1"
+ },
+ {
+   "year": 2016,
+   "qNum": "34",
+   "qPart": "d(i)",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.4.1",
+   "keywords": "Modifying some OOP code",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2016,
+   "qNum": "34",
+   "qPart": "d(ii)",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.4.1",
+   "keywords": "Producing some OOP code (instantiation)",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2016,
+   "qNum": "34",
+   "qPart": "d(iii)",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.4.1",
+   "keywords": "Producing some OOP code (method)",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2015,
+   "qNum": "33",
+   "qPart": "a",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.4.1",
+   "keywords": "Justify paradigms",
+   "Outcome": "H1.2, H2.1, H4.1"
+ },
+ {
+   "year": 2015,
+   "qNum": "33",
+   "qPart": "b",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.4.1",
+   "keywords": "LOGIC Paradigm Heuristics",
+   "Outcome": "H1.2, H4.1"
+ },
+ {
+   "year": 2015,
+   "qNum": "33",
+   "qPart": "c(i)",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.4.1",
+   "keywords": "Modify LOGIC fragment",
+   "Outcome": "H1.2, H4.1"
+ },
+ {
+   "year": 2015,
+   "qNum": "33",
+   "qPart": "c(ii)",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.4.1",
+   "keywords": "Interpret LOGIC code",
+   "Outcome": "H1.2, H4.1"
+ },
+ {
+   "year": 2015,
+   "qNum": "33",
+   "qPart": "d(i)",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.4.1",
+   "keywords": "OOP - Polymorphism and inheritance",
+   "Outcome": "H1.2, H4.1"
+ },
+ {
+   "year": 2015,
+   "qNum": "33",
+   "qPart": "d(ii)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.4.1",
+   "keywords": "Modify OOP fragment",
+   "Outcome": "H1.2, H4.1"
+ },
+ {
+   "year": 2015,
+   "qNum": "33",
+   "qPart": "e",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.4.1",
+   "keywords": "OOP - Encapsulation",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2014,
+   "qNum": "35",
+   "qPart": "a(i)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.4.1",
+   "keywords": "strengths of the LOGIC paradigm",
+   "Outcome": "H2.1"
+ },
+ {
+   "year": 2014,
+   "qNum": "35",
+   "qPart": "a(ii)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.4.1",
+   "keywords": "strengths of the OOP paradigm",
+   "Outcome": "H2.1"
+ },
+ {
+   "year": 2014,
+   "qNum": "35",
+   "qPart": "b",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.4.1",
+   "keywords": "OOP Method",
+   "Outcome": "H2.1, H4.2"
+ },
+ {
+   "year": 2014,
+   "qNum": "35",
+   "qPart": "c(i)",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.4.1",
+   "keywords": "OOP Class",
+   "Outcome": "H2.1, H4.2"
+ },
+ {
+   "year": 2014,
+   "qNum": "35",
+   "qPart": "c(ii)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.4.1",
+   "keywords": "Interpret OOP code",
+   "Outcome": "H2.1, H4.2"
+ },
+ {
+   "year": 2014,
+   "qNum": "35",
+   "qPart": "d(i)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.4.1",
+   "keywords": "Extending LOGIC code",
+   "Outcome": "H2.1, H4.2"
+ },
+ {
+   "year": 2014,
+   "qNum": "35",
+   "qPart": "d(ii)",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.4.1",
+   "keywords": "LOGIC Paradigm Chaining",
+   "Outcome": "H2.1, H4.2"
+ },
+ {
+   "year": 2013,
+   "qNum": "32",
+   "qPart": "a(i)",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.4.1",
+   "keywords": "OOP Attribute and Method",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2013,
+   "qNum": "32",
+   "qPart": "a(ii)",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.4.1",
+   "keywords": "Extending OOP code",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2013,
+   "qNum": "32",
+   "qPart": "a(iii)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.4.1",
+   "keywords": "OOP - Encapsulation",
+   "Outcome": "H4.1, H4.2"
+ },
+ {
+   "year": 2013,
+   "qNum": "32",
+   "qPart": "b(i)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.4.1",
+   "keywords": "limitations of using the imperative approach",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2013,
+   "qNum": "32",
+   "qPart": "b(ii)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.4.1",
+   "keywords": "LOGIC Paradigm - Inference Engine",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2013,
+   "qNum": "32",
+   "qPart": "b(iii)",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.4.1",
+   "keywords": "Extending LOGIC code",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2013,
+   "qNum": "32",
+   "qPart": "c",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.4.1",
+   "keywords": "LOGIC and OOP paradigms",
+   "Outcome": "H5.3"
+ },
+ {
+   "year": 2012,
+   "qNum": "31",
+   "qPart": "a",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.4.1",
+   "keywords": "Limitations of the imperative paradigm",
+   "Outcome": "H1.2, H2.1, H5.3 "
+ },
+ {
+   "year": 2012,
+   "qNum": "31",
+   "qPart": "b(i)",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.4.1",
+   "keywords": "LOGIC Paradigm Chaining",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2012,
+   "qNum": "31",
+   "qPart": "b(ii)",
+   "Marks": 3,
+   "Mins": 4.5,
+   "syllabus": "9.4.1",
+   "keywords": "LOGIC Paradigm  expanding code",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2012,
+   "qNum": "31",
+   "qPart": "c(i)",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.4.1",
+   "keywords": "OOP - Class and method",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2012,
+   "qNum": "31",
+   "qPart": "c(ii)",
+   "Marks": 2,
+   "Mins": 3,
+   "syllabus": "9.4.1",
+   "keywords": "Modify OOP fragment with method",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2012,
+   "qNum": "31",
+   "qPart": "c(iii)",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.4.1",
+   "keywords": "Modify OOP fragment with Polymorphism",
+   "Outcome": "H4.2"
+ },
+ {
+   "year": 2012,
+   "qNum": "31",
+   "qPart": "d",
+   "Marks": 4,
+   "Mins": 6,
+   "syllabus": "9.4.1",
+   "keywords": "Combination of paradigms",
+   "Outcome": "H1.2, H2.2, H4.1, H4.2 "
+ },
+ {
+   "year": null,
+   "qNum": "",
+   "qPart": "",
+   "Marks": null,
+   "Mins": null,
+   "syllabus": "",
+   "keywords": "",
+   "Outcome": ""
+ }
+]
