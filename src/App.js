@@ -4,7 +4,8 @@ import { Helmet } from 'react-helmet';
 import './App.css';
 import RadioForm from './components/radioForm';
 import SearchForm from './components/searchForm';
-import {dataSDDQuestions, dataSDDMarking, dataIPTQuestions, dataIPTMarking} from './data';
+import SearchElement from './components/searchElement';
+import {dataSDDQuestions, dataSDDMarking, dataIPTQuestions, dataIPTMarking} from './data/data';
 
 const App = () => {
   const [course, setCourse] = useState("SDD");
@@ -53,6 +54,7 @@ const App = () => {
           <h1 className="text-stone-800 text-3xl font-black underline pt-10">
             SDD & IPT Question Finder
           </h1>
+          <SearchElement />
         </header>
 
         <RadioForm buttonManager={buttonManager} title="Which course?" t1="SDD" d1="Software Design & Development" t2="IPT" d2="Information Processes & Technology" />
@@ -63,7 +65,7 @@ const App = () => {
           <SearchForm submitForm={submitForm} searchManager={searchManager} title="(Optional) Enter question number:" placeholder="23, 31, etc" checkboxVisible={false} submitVisible={true}/>
         </div>
 
-        <div className={"pt-10 flex items-center flex-row"}>
+        <div className={"py-12 flex items-center flex-row"}>
           <button onClick={submitForm} type="submit" className="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 rounded-lg text-lg w-full sm:w-auto px-8 py-3 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Submit</button>
         </div>
 
