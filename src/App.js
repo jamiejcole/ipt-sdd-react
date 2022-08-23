@@ -59,6 +59,12 @@ const App = () => {
     
   }
 
+  const OpenPage = (event, year, question) => {
+    event.preventDefault();
+    let url = generateURL("SDD", "Questions", year, question);
+    if (url) window.open(url);
+  }
+
   const submitForm = () => {
     const url = generateURL(course, content, year, quesNum);
     if (url) window.open(url);
@@ -149,7 +155,7 @@ const App = () => {
                     <th scope="col" className="w-64 py-3 px-4">
                       Keyword(s)
                     </th>
-                    <th scope="col" className="w-8 py-3 px-4">
+                    <th scope="col" className="w-12 py-3 px-4">
                     
                     </th>
                   </tr>
@@ -158,14 +164,18 @@ const App = () => {
                     {SDD.filter((item) => {if (item.keywords.toLowerCase().includes(SDDTextInput.toLowerCase())) { return true; } else { return false; }}).map((item, i) => {
                       const colour = i % 2 !== 0 ? "bg-gray-50" : "bg-white"
                       return (
-                        <tr className={"border-b dark:bg-gray-900 dark:border-gray-700 " + colour}>
+                        <tr className={"border-b dark:bg-gray-900 dark:border-gray-700 " + colour} key={i}>
                           <td className="py-4 px-6">{item.year}</td>
                           <td className="py-4 px-6">{item.qNum}</td>
                           <td className="py-4 px-6">{item.qPart}</td>
                           <td className="py-4 px-6">{item.Marks}</td>
                           <td className="py-4 px-6">{item.Outcome}</td>
                           <td className="py-4 px-6">{item.keywords.toTitleCase()}</td>
-                          <td className="py-4 px-6"><a href="google.com">Goto</a></td>
+                          <td className="py-3 px-6"> 
+                            <button onClick={(event) => OpenPage(event, item.year, item.qNum)} type="button" className="py-1.5 px-4 bg-indigo-600 hover:bg-indigo-700 focus:ring-indigo-500 focus:ring-offset-indigo-200 text-white w-full transition ease-in duration-200 text-center text-base font-semibold shadow-md focus:outline-none focus:ring-2 focus:ring-offset-2 rounded-lg ">
+                                Goto
+                            </button>
+                          </td>
                         </tr>
                       )
                     })}
