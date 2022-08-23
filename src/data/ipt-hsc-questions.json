@@ -1,0 +1,5242 @@
+[
+ {
+   "year": 2021,
+   "qNum": 2,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Gantt chart",
+   "Outcome": "H7.2"
+ },
+ {
+   "year": 2021,
+   "qNum": 5,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Implementation plan",
+   "Outcome": "H7.1"
+ },
+ {
+   "year": 2021,
+   "qNum": 7,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Requirements prototype",
+   "Outcome": "H6.2"
+ },
+ {
+   "year": 2021,
+   "qNum": 9,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "System testing",
+   "Outcome": "H6.2"
+ },
+ {
+   "year": 2021,
+   "qNum": 15,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Development approach",
+   "Outcome": "H6.2"
+ },
+ {
+   "year": 2021,
+   "qNum": 17,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Dataflow diagram",
+   "Outcome": "H7.1"
+ },
+ {
+   "year": 2021,
+   "qNum": 18,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Testing, evaluating and maintaining",
+   "Outcome": "H6.2"
+ },
+ {
+   "year": 2021,
+   "qNum": 22,
+   "qPart": "b",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "Social and ethical issues",
+   "Outcome": "H3.1"
+ },
+ {
+   "year": 2021,
+   "qNum": 22,
+   "qPart": "c",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "Conversion methods",
+   "Outcome": "H1.1, H1.2"
+ },
+ {
+   "year": 2021,
+   "qNum": 22,
+   "qPart": "d",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "Decision tree",
+   "Outcome": "H7.2"
+ },
+ {
+   "year": 2021,
+   "qNum": 24,
+   "qPart": "a",
+   "Marks": 4,
+   "time": 6,
+   "syllabus": "",
+   "keywords": "Feasibility",
+   "Outcome": "H6.1"
+ },
+ {
+   "year": 2020,
+   "qNum": 1,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Project management tool",
+   "Outcome": "H5.1"
+ },
+ {
+   "year": 2020,
+   "qNum": 5,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Context diagram",
+   "Outcome": "H5.1"
+ },
+ {
+   "year": 2020,
+   "qNum": 8,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Feasibility study",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2020,
+   "qNum": 11,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Identifying problems within a system",
+   "Outcome": "H6.1"
+ },
+ {
+   "year": 2020,
+   "qNum": 19,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Conversion methods",
+   "Outcome": "H1.1, H1.2"
+ },
+ {
+   "year": 2020,
+   "qNum": 20,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Development approaches",
+   "Outcome": "H6.2"
+ },
+ {
+   "year": 2020,
+   "qNum": 21,
+   "qPart": "a",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "Techniques for managing a project",
+   "Outcome": "H7.1"
+ },
+ {
+   "year": 2020,
+   "qNum": 21,
+   "qPart": "c",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "Decision table",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2020,
+   "qNum": 24,
+   "qPart": "b",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "Prototyping development approach",
+   "Outcome": "H1.1, H6.1"
+ },
+ {
+   "year": 2019,
+   "qNum": 2,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.1 Project management tool",
+   "Outcome": "H7.2"
+ },
+ {
+   "year": 2019,
+   "qNum": 10,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.1 Operation manual",
+   "Outcome": "H7.2"
+ },
+ {
+   "year": 2019,
+   "qNum": 17,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.1 Requirements prototype",
+   "Outcome": "H6.1"
+ },
+ {
+   "year": 2019,
+   "qNum": 18,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.1 Requirements report",
+   "Outcome": "H6.1"
+ },
+ {
+   "year": 2019,
+   "qNum": 21,
+   "qPart": "a",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "9.1 Gantt chart",
+   "Outcome": "H7.1, H5.1"
+ },
+ {
+   "year": 2019,
+   "qNum": 21,
+   "qPart": "b",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "9.1 Conversion method",
+   "Outcome": "H6.2"
+ },
+ {
+   "year": 2019,
+   "qNum": 22,
+   "qPart": "a",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "9.1 Feasibility � risk",
+   "Outcome": "H6.1"
+ },
+ {
+   "year": 2019,
+   "qNum": 22,
+   "qPart": "b",
+   "Marks": 4,
+   "time": 6,
+   "syllabus": "",
+   "keywords": "9.1 Decision tree",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2019,
+   "qNum": 23,
+   "qPart": "b",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "9.1 Data testing method",
+   "Outcome": "H6.2"
+ },
+ {
+   "year": 2019,
+   "qNum": 24,
+   "qPart": "c",
+   "Marks": 5,
+   "time": 7.5,
+   "syllabus": "",
+   "keywords": "9.1 Data flow diagram",
+   "Outcome": "H6.2"
+ },
+ {
+   "year": 2018,
+   "qNum": 1,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.1 Project management tools",
+   "Outcome": "H5.1"
+ },
+ {
+   "year": 2018,
+   "qNum": 5,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.1 Development approach",
+   "Outcome": "H6.2"
+ },
+ {
+   "year": 2018,
+   "qNum": 12,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.1 Understanding the problem � Requirement report",
+   "Outcome": "H6.1"
+ },
+ {
+   "year": 2018,
+   "qNum": 13,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.1 Designing a solution",
+   "Outcome": "H6.2"
+ },
+ {
+   "year": 2018,
+   "qNum": 15,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.1 Conversion methods",
+   "Outcome": "H6.2"
+ },
+ {
+   "year": 2018,
+   "qNum": 19,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.1 Decision tables",
+   "Outcome": "H6.2"
+ },
+ {
+   "year": 2018,
+   "qNum": 21,
+   "qPart": "a",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "Information Technology",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2018,
+   "qNum": 22,
+   "qPart": "a",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "Context diagram",
+   "Outcome": "H5.1"
+ },
+ {
+   "year": 2018,
+   "qNum": 22,
+   "qPart": "b",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "Use of data",
+   "Outcome": "H6.1 "
+ },
+ {
+   "year": 2018,
+   "qNum": 23,
+   "qPart": "a",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "Communication skills",
+   "Outcome": "H3.1"
+ },
+ {
+   "year": 2018,
+   "qNum": 23,
+   "qPart": "b",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "Gantt chart",
+   "Outcome": "H6.2"
+ },
+ {
+   "year": 2018,
+   "qNum": 24,
+   "qPart": "a",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "Prototyping",
+   "Outcome": "H1.1, H6.2"
+ },
+ {
+   "year": 2018,
+   "qNum": 24,
+   "qPart": "b",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "Test a system",
+   "Outcome": "H6.2"
+ },
+ {
+   "year": 2017,
+   "qNum": 1,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.1 Documentation",
+   "Outcome": "H5.1"
+ },
+ {
+   "year": 2017,
+   "qNum": 3,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.1 Documentation",
+   "Outcome": "H6.1 "
+ },
+ {
+   "year": 2017,
+   "qNum": 4,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.1 Identification of an approach",
+   "Outcome": "H6.2"
+ },
+ {
+   "year": 2017,
+   "qNum": 6,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.1 Development approach",
+   "Outcome": "H5.1"
+ },
+ {
+   "year": 2017,
+   "qNum": 7,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.1 Feasibility study",
+   "Outcome": "H6.2"
+ },
+ {
+   "year": 2017,
+   "qNum": 9,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.1 Identifying scheduling",
+   "Outcome": "H6.2"
+ },
+ {
+   "year": 2017,
+   "qNum": 14,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.1 Data flow diagram",
+   "Outcome": "H6.1"
+ },
+ {
+   "year": 2017,
+   "qNum": 15,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.1 Prototype",
+   "Outcome": "H6.1"
+ },
+ {
+   "year": 2017,
+   "qNum": 21,
+   "qPart": "a",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "9.1 Construct context diagram",
+   "Outcome": "H5.1, H5.2"
+ },
+ {
+   "year": 2017,
+   "qNum": 21,
+   "qPart": "b",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "9.1 Describe information technology",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2017,
+   "qNum": 22,
+   "qPart": "a",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "9.1 Identify data/information",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2017,
+   "qNum": 22,
+   "qPart": "b",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "9.1 Describe information processes",
+   "Outcome": "H2.1, H2.2"
+ },
+ {
+   "year": 2016,
+   "qNum": 2,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.1 Active listening",
+   "Outcome": "H5.1"
+ },
+ {
+   "year": 2016,
+   "qNum": 7,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.1 System development",
+   "Outcome": "H6.1"
+ },
+ {
+   "year": 2016,
+   "qNum": 8,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.1 System development approach",
+   "Outcome": "H6.2"
+ },
+ {
+   "year": 2016,
+   "qNum": 15,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.1 Data flow diagram symbols",
+   "Outcome": "H1.2, H2.1"
+ },
+ {
+   "year": 2016,
+   "qNum": 16,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.1 Context diagram",
+   "Outcome": "H2.1"
+ },
+ {
+   "year": 2016,
+   "qNum": 19,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.1 Conversion method",
+   "Outcome": "H6.2"
+ },
+ {
+   "year": 2016,
+   "qNum": 21,
+   "qPart": "a",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "9.1 Implementing",
+   "Outcome": "H1.1, H1.2, H3.1"
+ },
+ {
+   "year": 2016,
+   "qNum": 21,
+   "qPart": "b",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "9.1 Communication plans",
+   "Outcome": "H5.1"
+ },
+ {
+   "year": 2016,
+   "qNum": 22,
+   "qPart": "a",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "9.1 Feasibility � risks of the project",
+   "Outcome": "H1.1, H3.1, H5.1"
+ },
+ {
+   "year": 2016,
+   "qNum": 22,
+   "qPart": "b",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "9.1 Compare developmental approaches",
+   "Outcome": "H6.2"
+ },
+ {
+   "year": 2016,
+   "qNum": 22,
+   "qPart": "c",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "9.1 Testing and evaluating solutions",
+   "Outcome": "H1.1, H5.1"
+ },
+ {
+   "year": 2016,
+   "qNum": 23,
+   "qPart": "a",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "9.1 Tools used in designing a system",
+   "Outcome": "H1.1, H5.1"
+ },
+ {
+   "year": 2015,
+   "qNum": 1,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "requirements prototype",
+   "Outcome": "H1.1 "
+ },
+ {
+   "year": 2015,
+   "qNum": 5,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "feasibility",
+   "Outcome": "H1.1 "
+ },
+ {
+   "year": 2015,
+   "qNum": 8,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "requirements report",
+   "Outcome": "H7.2 "
+ },
+ {
+   "year": 2015,
+   "qNum": 10,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "operation manual",
+   "Outcome": "H6.2"
+ },
+ {
+   "year": 2015,
+   "qNum": 13,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "development approach",
+   "Outcome": "H6.2 "
+ },
+ {
+   "year": 2015,
+   "qNum": 21,
+   "qPart": "(a) ",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "context diagram",
+   "Outcome": "H2.1, H5.1 "
+ },
+ {
+   "year": 2015,
+   "qNum": 22,
+   "qPart": "(a) ",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "decision table",
+   "Outcome": "H2.1, H5.1 \n"
+ },
+ {
+   "year": 2015,
+   "qNum": 22,
+   "qPart": "(b)",
+   "Marks": 4,
+   "time": 6,
+   "syllabus": "",
+   "keywords": "dataflow diagram",
+   "Outcome": "H2.1, H5.1"
+ },
+ {
+   "year": 2015,
+   "qNum": 22,
+   "qPart": "(c)",
+   "Marks": 4,
+   "time": 6,
+   "syllabus": "",
+   "keywords": "conversion methods",
+   "Outcome": "H6.1 "
+ },
+ {
+   "year": 2014,
+   "qNum": 1,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "documentation",
+   "Outcome": "H5.1"
+ },
+ {
+   "year": 2014,
+   "qNum": 6,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Communication skills",
+   "Outcome": "H5.1, H7.1"
+ },
+ {
+   "year": 2014,
+   "qNum": 10,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "method of conversion",
+   "Outcome": "H6.2"
+ },
+ {
+   "year": 2014,
+   "qNum": 12,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "participant development",
+   "Outcome": "H6.2"
+ },
+ {
+   "year": 2014,
+   "qNum": 14,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "system evaluation",
+   "Outcome": "H6.2, H7.2"
+ },
+ {
+   "year": 2014,
+   "qNum": 15,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "data modelling tool",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2014,
+   "qNum": 17,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "decision table",
+   "Outcome": "H6.2"
+ },
+ {
+   "year": 2014,
+   "qNum": 18,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Gantt chart",
+   "Outcome": "H6.2, H7.1"
+ },
+ {
+   "year": 2014,
+   "qNum": 21,
+   "qPart": "(a)",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "information technology",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2014,
+   "qNum": 21,
+   "qPart": "(b)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "testing",
+   "Outcome": "H6.1, H6.2"
+ },
+ {
+   "year": 2014,
+   "qNum": 22,
+   "qPart": "(a)",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "participants",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2014,
+   "qNum": 22,
+   "qPart": "(b) ",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "context diagram",
+   "Outcome": "H6.2"
+ },
+ {
+   "year": 2013,
+   "qNum": 1,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Communication skills",
+   "Outcome": "H5.1 "
+ },
+ {
+   "year": 2013,
+   "qNum": 2,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "context diagram ",
+   "Outcome": "H6.2 "
+ },
+ {
+   "year": 2013,
+   "qNum": 3,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "feasibility study",
+   "Outcome": "H6.1 "
+ },
+ {
+   "year": 2013,
+   "qNum": 7,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "identifying problems in an existing system",
+   "Outcome": "H6.1 "
+ },
+ {
+   "year": 2013,
+   "qNum": 17,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "development approach",
+   "Outcome": "H5.1 "
+ },
+ {
+   "year": 2013,
+   "qNum": 18,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "testing",
+   "Outcome": "H5.1, H6.2 "
+ },
+ {
+   "year": 2013,
+   "qNum": 20,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "appropriate solution",
+   "Outcome": "H5.1 "
+ },
+ {
+   "year": 2013,
+   "qNum": 21,
+   "qPart": "(b)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "trainng",
+   "Outcome": "H6.1, H6.2, H7.1 "
+ },
+ {
+   "year": 2013,
+   "qNum": 23,
+   "qPart": " (a)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "Gantt chart",
+   "Outcome": "H5.1, H5.2 "
+ },
+ {
+   "year": 2013,
+   "qNum": 23,
+   "qPart": "(c) ",
+   "Marks": 5,
+   "time": 7.5,
+   "syllabus": "",
+   "keywords": "storyboard",
+   "Outcome": "H5.1, H6.1 "
+ },
+ {
+   "year": 2013,
+   "qNum": 24,
+   "qPart": "(c) ",
+   "Marks": null,
+   "time": 0,
+   "syllabus": "",
+   "keywords": "",
+   "Outcome": ""
+ },
+ {
+   "year": 2012,
+   "qNum": 3,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "documentation",
+   "Outcome": "H6.1"
+ },
+ {
+   "year": 2012,
+   "qNum": 11,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "conversion method",
+   "Outcome": "H5.1"
+ },
+ {
+   "year": 2012,
+   "qNum": 13,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "approaches to identify problems with existing systems",
+   "Outcome": "H6.1, H5.1"
+ },
+ {
+   "year": 2012,
+   "qNum": 20,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Decision tree and Decision Table",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2012,
+   "qNum": 21,
+   "qPart": "(c)",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "participant training; operation manual",
+   "Outcome": "H1.1, H1.2, H6.1, H6.2"
+ },
+ {
+   "year": 2012,
+   "qNum": 22,
+   "qPart": "(b)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "development approach",
+   "Outcome": "H1.1, H1.2, H6.1, H6.2 "
+ },
+ {
+   "year": 2012,
+   "qNum": 22,
+   "qPart": "(c)",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "social and ethcal issues",
+   "Outcome": "H3.1, H3.2, H4.1"
+ },
+ {
+   "year": 2012,
+   "qNum": 24,
+   "qPart": "(a)",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "participants",
+   "Outcome": "H1.1, H4.1, H5.1, H5.2"
+ },
+ {
+   "year": 2012,
+   "qNum": 24,
+   "qPart": "(b)",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "screen generator",
+   "Outcome": "H1.1, H1.2"
+ },
+ {
+   "year": 2012,
+   "qNum": 24,
+   "qPart": "(c)",
+   "Marks": 5,
+   "time": 7.5,
+   "syllabus": "",
+   "keywords": "implementation plan",
+   "Outcome": "H1.1, H2.2, H4.1, H5.1, H5.2 "
+ },
+ {
+   "year": 2011,
+   "qNum": 4,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "outsourcing",
+   "Outcome": "H5.1 "
+ },
+ {
+   "year": 2011,
+   "qNum": 7,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "methods of conversion",
+   "Outcome": "H6.1 "
+ },
+ {
+   "year": 2011,
+   "qNum": 8,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "development approach",
+   "Outcome": "H5.1, H5.2 "
+ },
+ {
+   "year": 2011,
+   "qNum": 14,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "testing and evaluating the solution",
+   "Outcome": "H5.1 "
+ },
+ {
+   "year": 2011,
+   "qNum": 15,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "data flow diagrams",
+   "Outcome": "H1.1, H5.1 "
+ },
+ {
+   "year": 2011,
+   "qNum": 16,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "context diagram",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2011,
+   "qNum": 21,
+   "qPart": "(b)",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "Communication skills",
+   "Outcome": "H2.2, H5.1 "
+ },
+ {
+   "year": 2011,
+   "qNum": 21,
+   "qPart": "(c)",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "testing",
+   "Outcome": "H5.1"
+ },
+ {
+   "year": 2011,
+   "qNum": 21,
+   "qPart": "(d)",
+   "Marks": 4,
+   "time": 6,
+   "syllabus": "",
+   "keywords": "storyboard",
+   "Outcome": "H6.2 "
+ },
+ {
+   "year": 2011,
+   "qNum": 22,
+   "qPart": "(a)",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "requirements report",
+   "Outcome": "H7.1, H7.2 "
+ },
+ {
+   "year": 2011,
+   "qNum": 22,
+   "qPart": "(b)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "decision tree",
+   "Outcome": "H5.1, H6.2"
+ },
+ {
+   "year": 2011,
+   "qNum": 22,
+   "qPart": "(c)",
+   "Marks": 4,
+   "time": 6,
+   "syllabus": "",
+   "keywords": "review the effect on users and participants",
+   "Outcome": "H3.1"
+ },
+ {
+   "year": 2010,
+   "qNum": 6,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "development approach",
+   "Outcome": "H6.2 "
+ },
+ {
+   "year": 2010,
+   "qNum": 12,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Gantt chart",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2010,
+   "qNum": 13,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Gantt chart",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2010,
+   "qNum": 16,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "development approach",
+   "Outcome": "H6.2"
+ },
+ {
+   "year": 2010,
+   "qNum": 21,
+   "qPart": "(a)",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "context diagram",
+   "Outcome": "H2.1"
+ },
+ {
+   "year": 2010,
+   "qNum": 21,
+   "qPart": "(b)",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "information technology",
+   "Outcome": "H1.1 "
+ },
+ {
+   "year": 2010,
+   "qNum": 21,
+   "qPart": "(c)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "method of conversion",
+   "Outcome": "H5.1 "
+ },
+ {
+   "year": 2010,
+   "qNum": 21,
+   "qPart": "(d)",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "social and ethical issues",
+   "Outcome": "H5.2"
+ },
+ {
+   "year": 2010,
+   "qNum": 24,
+   "qPart": "(b)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "feasibility",
+   "Outcome": "H5.1 "
+ },
+ {
+   "year": 2021,
+   "qNum": 6,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Information processes ",
+   "Outcome": "H2.1"
+ },
+ {
+   "year": 2021,
+   "qNum": 8,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Text search",
+   "Outcome": "H1.1 \n"
+ },
+ {
+   "year": 2021,
+   "qNum": 11,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Databases � primary key",
+   "Outcome": "H2.2"
+ },
+ {
+   "year": 2021,
+   "qNum": 12,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Databases � relationships",
+   "Outcome": "H2.2"
+ },
+ {
+   "year": 2021,
+   "qNum": 20,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Sorting",
+   "Outcome": "H1.1 \n"
+ },
+ {
+   "year": 2021,
+   "qNum": 21,
+   "qPart": " (a)",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "Data redundancy",
+   "Outcome": "H1.1 \n"
+ },
+ {
+   "year": 2021,
+   "qNum": 21,
+   "qPart": " (b) (i)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "Data type and field size",
+   "Outcome": "H1.1, H1.2"
+ },
+ {
+   "year": 2021,
+   "qNum": 21,
+   "qPart": "(b) (ii)",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "Calculation of a table size",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2021,
+   "qNum": 21,
+   "qPart": "(b) (iii)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": " SQL",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2021,
+   "qNum": 24,
+   "qPart": " (b)",
+   "Marks": 5,
+   "time": 7.5,
+   "syllabus": "",
+   "keywords": "Information system in context ",
+   "Outcome": "H1.2 "
+ },
+ {
+   "year": 2020,
+   "qNum": 3,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Hypertext",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2020,
+   "qNum": 12,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Validating information from the internet",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2020,
+   "qNum": 14,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Organisation of a relational database",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2020,
+   "qNum": 15,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Data dictionary",
+   "Outcome": "H5.1"
+ },
+ {
+   "year": 2020,
+   "qNum": 17,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Distributed databases",
+   "Outcome": "H1.1, H1.2"
+ },
+ {
+   "year": 2020,
+   "qNum": 23,
+   "qPart": "(a)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "Flat-file database and relational database",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2020,
+   "qNum": 23,
+   "qPart": "(b)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "Schema",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2020,
+   "qNum": 23,
+   "qPart": "(c)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "SQL",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2020,
+   "qNum": 24,
+   "qPart": "(c)",
+   "Marks": 5,
+   "time": 7.5,
+   "syllabus": "",
+   "keywords": "Information processes",
+   "Outcome": "H2.2"
+ },
+ {
+   "year": 2019,
+   "qNum": 1,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.2 Database structure",
+   "Outcome": "H.1.1"
+ },
+ {
+   "year": 2019,
+   "qNum": 5,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.2 Database issue (accuracy) ",
+   "Outcome": "H.5.2"
+ },
+ {
+   "year": 2019,
+   "qNum": 6,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.2 Database file size calculation",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2019,
+   "qNum": 13,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.2 Free text search",
+   "Outcome": "H2.1"
+ },
+ {
+   "year": 2019,
+   "qNum": 15,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.2 Database sort",
+   "Outcome": "H.1.1"
+ },
+ {
+   "year": 2019,
+   "qNum": 19,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.2 SQL",
+   "Outcome": "H.1.1"
+ },
+ {
+   "year": 2019,
+   "qNum": 20,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.2 Normalisation",
+   "Outcome": "H.1.1"
+ },
+ {
+   "year": 2019,
+   "qNum": 21,
+   "qPart": "c",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "9.2 Users and participants in a system",
+   "Outcome": "H.1.2"
+ },
+ {
+   "year": 2019,
+   "qNum": 22,
+   "qPart": "c",
+   "Marks": 4,
+   "time": 6,
+   "syllabus": "",
+   "keywords": "9.2 Security of data",
+   "Outcome": "H3.1, H2.2"
+ },
+ {
+   "year": 2019,
+   "qNum": 23,
+   "qPart": "a",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "9.3, 9.2 Advantages of online census",
+   "Outcome": "H3.1"
+ },
+ {
+   "year": 2019,
+   "qNum": 23,
+   "qPart": "c",
+   "Marks": 4,
+   "time": 6,
+   "syllabus": "",
+   "keywords": "9.2 Information processes � collecting, analysing, storing and retrieving",
+   "Outcome": "H2.1, H1.2"
+ },
+ {
+   "year": 2019,
+   "qNum": 24,
+   "qPart": "a",
+   "Marks": 4,
+   "time": 6,
+   "syllabus": "",
+   "keywords": "9.2 Input screen",
+   "Outcome": "H6.2, H2.2"
+ },
+ {
+   "year": 2018,
+   "qNum": 4,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.2 Organisation of hypermedia � Metadata",
+   "Outcome": "H2.1"
+ },
+ {
+   "year": 2018,
+   "qNum": 7,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.2 Information processes",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2018,
+   "qNum": 14,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.2 Data mining",
+   "Outcome": "H2.1"
+ },
+ {
+   "year": 2018,
+   "qNum": 16,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.2 Search engines",
+   "Outcome": "H2.1, H2.2"
+ },
+ {
+   "year": 2018,
+   "qNum": 17,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.2 Screen elements",
+   "Outcome": "H6.1"
+ },
+ {
+   "year": 2018,
+   "qNum": 18,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.2 Data types",
+   "Outcome": "H6.1"
+ },
+ {
+   "year": 2018,
+   "qNum": 20,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.2 Schema",
+   "Outcome": "H6.1, H6.2"
+ },
+ {
+   "year": 2018,
+   "qNum": 21,
+   "qPart": "a",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "Information Technology",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2018,
+   "qNum": 21,
+   "qPart": "c",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "Creating a report in a database",
+   "Outcome": "H7.2"
+ },
+ {
+   "year": 2018,
+   "qNum": 22,
+   "qPart": "b",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "Use of data",
+   "Outcome": "H6.1 "
+ },
+ {
+   "year": 2017,
+   "qNum": 10,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.2 Database file size ",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2017,
+   "qNum": 11,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.2 Data type ",
+   "Outcome": "H6.1 "
+ },
+ {
+   "year": 2017,
+   "qNum": 13,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.2 Database types ",
+   "Outcome": "H4.1"
+ },
+ {
+   "year": 2017,
+   "qNum": 17,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.2 Purpose of schema ",
+   "Outcome": "H7.2"
+ },
+ {
+   "year": 2017,
+   "qNum": 20,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.2  recognition SQL\nunderstanding ",
+   "Outcome": "H2.2"
+ },
+ {
+   "year": 2017,
+   "qNum": 21,
+   "qPart": "c",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "9.2 Advantages of computer-based organisation\nmethods ",
+   "Outcome": "H2.2"
+ },
+ {
+   "year": 2017,
+   "qNum": 23,
+   "qPart": "a",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "9.2 Comparison of databases ",
+   "Outcome": "H6.2"
+ },
+ {
+   "year": 2017,
+   "qNum": 23,
+   "qPart": "b",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "9.2 Normalisation ",
+   "Outcome": "H5.1"
+ },
+ {
+   "year": 2017,
+   "qNum": 23,
+   "qPart": "c",
+   "Marks": 4,
+   "time": 6,
+   "syllabus": "",
+   "keywords": "9.2 Construct a database schema",
+   "Outcome": "H6.1, H6.2 "
+ },
+ {
+   "year": 2016,
+   "qNum": 3,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.2 Suitable DB for existing card based system ",
+   "Outcome": "H4.1 "
+ },
+ {
+   "year": 2016,
+   "qNum": 4,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.2 Privacy ",
+   "Outcome": "H2.1, H3.2, H5.2 "
+ },
+ {
+   "year": 2016,
+   "qNum": 5,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.2 Collecting and storing ",
+   "Outcome": "H2.2"
+ },
+ {
+   "year": 2016,
+   "qNum": 6,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.2 Data types ",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2016,
+   "qNum": 12,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.2 Search string ",
+   "Outcome": "H2.1"
+ },
+ {
+   "year": 2016,
+   "qNum": 20,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.2 Search engine",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2016,
+   "qNum": 23,
+   "qPart": "b",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "9.2 Logical organisation of a database ",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2016,
+   "qNum": 23,
+   "qPart": "c",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "9.2 Construct an SQL query ",
+   "Outcome": "H6.1"
+ },
+ {
+   "year": 2016,
+   "qNum": 24,
+   "qPart": "a",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "9.2 Client�server architecture ",
+   "Outcome": "H1.1, H1.2 "
+ },
+ {
+   "year": 2016,
+   "qNum": 24,
+   "qPart": "c",
+   "Marks": 5,
+   "time": 7.5,
+   "syllabus": "",
+   "keywords": "9.2 Analysing and processing",
+   "Outcome": "H5.1"
+ },
+ {
+   "year": 2015,
+   "qNum": 4,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "HTML",
+   "Outcome": "H1.1 "
+ },
+ {
+   "year": 2015,
+   "qNum": 9,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "information processes",
+   "Outcome": "H2.1 "
+ },
+ {
+   "year": 2015,
+   "qNum": 14,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "data quality",
+   "Outcome": "H2.1 "
+ },
+ {
+   "year": 2015,
+   "qNum": 16,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "centralised and distributed databases",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2015,
+   "qNum": 18,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "SQL",
+   "Outcome": "H1.1 "
+ },
+ {
+   "year": 2015,
+   "qNum": 19,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "schema relationships",
+   "Outcome": "H1.1 "
+ },
+ {
+   "year": 2015,
+   "qNum": 23,
+   "qPart": "(a) ",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "users and participants",
+   "Outcome": "H2.1 "
+ },
+ {
+   "year": 2015,
+   "qNum": 23,
+   "qPart": "(b) ",
+   "Marks": 5,
+   "time": 7.5,
+   "syllabus": "",
+   "keywords": "information processes storing and retrieving\n transmitting and receiving",
+   "Outcome": "H2.1"
+ },
+ {
+   "year": 2015,
+   "qNum": 24,
+   "qPart": " (b) ",
+   "Marks": 4,
+   "time": 6,
+   "syllabus": "",
+   "keywords": "data mining",
+   "Outcome": "H3.1, H3.2 "
+ },
+ {
+   "year": 2014,
+   "qNum": 4,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "data dictionary",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2014,
+   "qNum": 5,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "calculation of database size",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2014,
+   "qNum": 20,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "normalised relationships",
+   "Outcome": "H1.1, H2.1"
+ },
+ {
+   "year": 2014,
+   "qNum": 21,
+   "qPart": "(c)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "data accuracy",
+   "Outcome": "H3.1, H3.2"
+ },
+ {
+   "year": 2014,
+   "qNum": 22,
+   "qPart": "(c)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "ethical issues",
+   "Outcome": "H3.1, H3.2"
+ },
+ {
+   "year": 2014,
+   "qNum": 22,
+   "qPart": "(d)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "distributed database and centralised database",
+   "Outcome": "H1.1, H6.1"
+ },
+ {
+   "year": 2014,
+   "qNum": 23,
+   "qPart": "(a)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "online database",
+   "Outcome": "H2.1, H5.1"
+ },
+ {
+   "year": 2014,
+   "qNum": 23,
+   "qPart": "(b) ",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "SQL",
+   "Outcome": "H1.1, H2.1 "
+ },
+ {
+   "year": 2013,
+   "qNum": 4,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "information processes",
+   "Outcome": "H1.2, H2.1 "
+ },
+ {
+   "year": 2013,
+   "qNum": 12,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "social and Ethical issue privacy",
+   "Outcome": "H3.1, H3.2 "
+ },
+ {
+   "year": 2013,
+   "qNum": 13,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "different data views in a database",
+   "Outcome": "H2.2, H6.1 "
+ },
+ {
+   "year": 2013,
+   "qNum": 14,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "data dictionary data types",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2013,
+   "qNum": 15,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "HTML",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2013,
+   "qNum": 19,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "SQL",
+   "Outcome": "H1.1, H2.1 "
+ },
+ {
+   "year": 2013,
+   "qNum": 22,
+   "qPart": "(a) ",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "information process collecting",
+   "Outcome": "H2.1 "
+ },
+ {
+   "year": 2013,
+   "qNum": 22,
+   "qPart": " (b) ",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "software applications",
+   "Outcome": "H1.1, H1.2 "
+ },
+ {
+   "year": 2013,
+   "qNum": 23,
+   "qPart": "(b)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "search criteria",
+   "Outcome": "H1.1, H2.1 "
+ },
+ {
+   "year": 2013,
+   "qNum": 24,
+   "qPart": " (b) ",
+   "Marks": 4,
+   "time": 6,
+   "syllabus": "",
+   "keywords": "schema",
+   "Outcome": "H1.2, H6.2 "
+ },
+ {
+   "year": 2013,
+   "qNum": 24,
+   "qPart": "(c) ",
+   "Marks": 5,
+   "time": 7.5,
+   "syllabus": "",
+   "keywords": "outsourcing feasibility \nownership and control of data",
+   "Outcome": "H1.1, H3.1, H4.1 "
+ },
+ {
+   "year": 2012,
+   "qNum": 5,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "organisation of hypermedia",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2012,
+   "qNum": 12,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "data dictionary databse file size",
+   "Outcome": "H6.1 "
+ },
+ {
+   "year": 2012,
+   "qNum": 14,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "DB relationships",
+   "Outcome": "H1.1, H2.1, H6.1"
+ },
+ {
+   "year": 2012,
+   "qNum": 15,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "search criteria",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2012,
+   "qNum": 16,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "emerging technology RFID",
+   "Outcome": "H4.1, H1.1"
+ },
+ {
+   "year": 2012,
+   "qNum": 17,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "social and ethical issues Data matching",
+   "Outcome": "H2.1, H3.2"
+ },
+ {
+   "year": 2012,
+   "qNum": 18,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "centralised and distributed databases",
+   "Outcome": "H2.1"
+ },
+ {
+   "year": 2012,
+   "qNum": 21,
+   "qPart": "(a)",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "Database entities and attributes",
+   "Outcome": "H1.1, H1.2"
+ },
+ {
+   "year": 2012,
+   "qNum": 21,
+   "qPart": "(b)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "information technologies",
+   "Outcome": "H1.1, H1.2, H6.1"
+ },
+ {
+   "year": 2012,
+   "qNum": 21,
+   "qPart": "(d)",
+   "Marks": 4,
+   "time": 6,
+   "syllabus": "",
+   "keywords": "database views",
+   "Outcome": "H1.1, H1.2, H6.1, H6.2"
+ },
+ {
+   "year": 2012,
+   "qNum": 23,
+   "qPart": "(a)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": " flat-file database",
+   "Outcome": "H6.1, H6.2"
+ },
+ {
+   "year": 2012,
+   "qNum": 23,
+   "qPart": "(b)",
+   "Marks": 4,
+   "time": 6,
+   "syllabus": "",
+   "keywords": "Normalisation",
+   "Outcome": "H6.1, H6.2"
+ },
+ {
+   "year": 2012,
+   "qNum": 23,
+   "qPart": "(c)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "Direct and sequential access of data",
+   "Outcome": "H1.1, H2.2 "
+ },
+ {
+   "year": 2011,
+   "qNum": 1,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "DBMS Storing and retrieving",
+   "Outcome": "H1.2 "
+ },
+ {
+   "year": 2011,
+   "qNum": 2,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "HTML",
+   "Outcome": "H1.1 "
+ },
+ {
+   "year": 2011,
+   "qNum": 3,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Freedom of Information Act",
+   "Outcome": "H3.1"
+ },
+ {
+   "year": 2011,
+   "qNum": 9,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "SQL",
+   "Outcome": "H1.2 "
+ },
+ {
+   "year": 2011,
+   "qNum": 10,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "logical organisation of hypermedia",
+   "Outcome": "H1.1 "
+ },
+ {
+   "year": 2011,
+   "qNum": 17,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "DBMS",
+   "Outcome": "H2.2"
+ },
+ {
+   "year": 2011,
+   "qNum": 18,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "logical organisation of databases",
+   "Outcome": "H5.1 "
+ },
+ {
+   "year": 2011,
+   "qNum": 19,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "current and emerging trends OLAP",
+   "Outcome": "H2.1 "
+ },
+ {
+   "year": 2011,
+   "qNum": 20,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "current and emerging trends Data warehousing",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2011,
+   "qNum": 21,
+   "qPart": "(a)",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "data dictionary data types and field sizes",
+   "Outcome": "H6.2"
+ },
+ {
+   "year": 2011,
+   "qNum": 23,
+   "qPart": "(b)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "database views",
+   "Outcome": "H2.2, H6.1 "
+ },
+ {
+   "year": 2011,
+   "qNum": 24,
+   "qPart": "(b)",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "social and ethical issues data accuracy",
+   "Outcome": "H3.1, H5.2 "
+ },
+ {
+   "year": 2011,
+   "qNum": 24,
+   "qPart": "(d)",
+   "Marks": 5,
+   "time": 7.5,
+   "syllabus": "",
+   "keywords": "social and ethical issues data-matching",
+   "Outcome": "H3.2, H5.2"
+ },
+ {
+   "year": 2010,
+   "qNum": 1,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Non-computer methods of organising card based applications",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2010,
+   "qNum": 2,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "social and ethical issues Security",
+   "Outcome": "H3.1, H5.2"
+ },
+ {
+   "year": 2010,
+   "qNum": 4,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "social and ethical issues data quality",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2010,
+   "qNum": 7,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "normalisation",
+   "Outcome": "H5.1, H6.2"
+ },
+ {
+   "year": 2010,
+   "qNum": 8,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "database views screens and reports",
+   "Outcome": "H1.2, H5.1, H6.1"
+ },
+ {
+   "year": 2010,
+   "qNum": 9,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "data dictionary calculate storage space",
+   "Outcome": "H2.1"
+ },
+ {
+   "year": 2010,
+   "qNum": 10,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Schema Database Keys",
+   "Outcome": "H1.1, H5.1"
+ },
+ {
+   "year": 2010,
+   "qNum": 18,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "screen design",
+   "Outcome": "H1.2, H2.1"
+ },
+ {
+   "year": 2010,
+   "qNum": 19,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "purpose of an information system",
+   "Outcome": "H1.1, H1.2, H2.1"
+ },
+ {
+   "year": 2010,
+   "qNum": 22,
+   "qPart": "(b) (i)",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "data dictionary",
+   "Outcome": "H5.1"
+ },
+ {
+   "year": 2010,
+   "qNum": 23,
+   "qPart": "(a)",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "data accuracy data validation",
+   "Outcome": "H3.1 "
+ },
+ {
+   "year": 2010,
+   "qNum": 23,
+   "qPart": " (b)",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "screen design data validation",
+   "Outcome": "H5.1"
+ },
+ {
+   "year": 2010,
+   "qNum": 23,
+   "qPart": "(c)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "design and create screens for interacting with selected parts of a database and justify their appropriateness",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2010,
+   "qNum": 23,
+   "qPart": "(d)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "information process analysing",
+   "Outcome": "H1.2 "
+ },
+ {
+   "year": 2021,
+   "qNum": 1,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Modem",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2021,
+   "qNum": 3,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Mail server",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2021,
+   "qNum": 4,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Communication media",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2021,
+   "qNum": 10,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Gateway",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2021,
+   "qNum": 13,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Network operating software",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2021,
+   "qNum": 14,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Communication framework",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2021,
+   "qNum": 16,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Parity",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2021,
+   "qNum": 19,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Protocols",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2021,
+   "qNum": 22,
+   "qPart": "(a)",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "9.3 Email",
+   "Outcome": "H3.1"
+ },
+ {
+   "year": 2021,
+   "qNum": 23,
+   "qPart": "(a)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "9.3 Network topologies",
+   "Outcome": "H1.1, H1.2"
+ },
+ {
+   "year": 2021,
+   "qNum": 23,
+   "qPart": "(b)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "9.3 Transmission media",
+   "Outcome": "H1.1, H1.2"
+ },
+ {
+   "year": 2021,
+   "qNum": 23,
+   "qPart": "(c)",
+   "Marks": 4,
+   "time": 6,
+   "syllabus": "",
+   "keywords": "9.3 Internet, intranet and extranet",
+   "Outcome": "H1.1, H1.2"
+ },
+ {
+   "year": 2020,
+   "qNum": 2,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Messaging systems",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2020,
+   "qNum": 4,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Network topologies",
+   "Outcome": "H1.1, H1.2"
+ },
+ {
+   "year": 2020,
+   "qNum": 6,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Messaging systems",
+   "Outcome": "H1.1, H1.2"
+ },
+ {
+   "year": 2020,
+   "qNum": 7,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Network administrator",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2020,
+   "qNum": 9,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 SSL protocol",
+   "Outcome": "H1.1, H1.2"
+ },
+ {
+   "year": 2020,
+   "qNum": 10,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Protocols",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2020,
+   "qNum": 13,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Data packets",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2020,
+   "qNum": 16,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Email features � BCC",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2020,
+   "qNum": 18,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Hardware components of a communication system",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2020,
+   "qNum": 21,
+   "qPart": "(b) (i)",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "9.3 Error detection � parity bit",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2020,
+   "qNum": 21,
+   "qPart": "(b) (ii)",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "9.3 Error detection � checksum",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2020,
+   "qNum": 22,
+   "qPart": "(a)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "9.3 Internet and intranet",
+   "Outcome": "H1.1, H1.2"
+ },
+ {
+   "year": 2020,
+   "qNum": 22,
+   "qPart": "(b)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "9.3 Technical issues in collecting and transmitting",
+   "Outcome": "H2.1, H2.2"
+ },
+ {
+   "year": 2020,
+   "qNum": 22,
+   "qPart": "(c)",
+   "Marks": 4,
+   "time": 6,
+   "syllabus": "",
+   "keywords": "9.3 Wired and wireless technologies",
+   "Outcome": "H1.1, H1.2"
+ },
+ {
+   "year": 2020,
+   "qNum": 24,
+   "qPart": "(a)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "9.3 Changing nature of work",
+   "Outcome": "H3.2, H5.2"
+ },
+ {
+   "year": 2019,
+   "qNum": 3,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Transmission � wired",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2019,
+   "qNum": 4,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Analogue to digital conversion",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2019,
+   "qNum": 7,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Handshaking",
+   "Outcome": "H2.1"
+ },
+ {
+   "year": 2019,
+   "qNum": 8,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Intranet, extranet and internet",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2019,
+   "qNum": 9,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Communications system framework",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2019,
+   "qNum": 11,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Thin client",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2019,
+   "qNum": 12,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Parity bit",
+   "Outcome": "H2.1"
+ },
+ {
+   "year": 2019,
+   "qNum": 14,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Communication protocols",
+   "Outcome": "H2.1"
+ },
+ {
+   "year": 2019,
+   "qNum": 16,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Data packets ",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2019,
+   "qNum": 21,
+   "qPart": "d",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "9.3 CRC",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2019,
+   "qNum": 23,
+   "qPart": "a",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "9.3, 9.2 Advantages of online census ",
+   "Outcome": "H3.1"
+ },
+ {
+   "year": 2019,
+   "qNum": 24,
+   "qPart": "b",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "9.3 Wireless transmission",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2018,
+   "qNum": 2,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Error correction method",
+   "Outcome": "H2.1"
+ },
+ {
+   "year": 2018,
+   "qNum": 3,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Current and emerging trends",
+   "Outcome": "H3.1"
+ },
+ {
+   "year": 2018,
+   "qNum": 6,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Protocols in a communication system",
+   "Outcome": "H2.1"
+ },
+ {
+   "year": 2018,
+   "qNum": 8,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Transmission media",
+   "Outcome": "H3.1"
+ },
+ {
+   "year": 2018,
+   "qNum": 9,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Communication Protocol � Handshaking",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2018,
+   "qNum": 10,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Hybrid topologies",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2018,
+   "qNum": 11,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Communication hardware",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2018,
+   "qNum": 21,
+   "qPart": "b",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "9.3 Messaging systems � Communications",
+   "Outcome": "H5.1"
+ },
+ {
+   "year": 2018,
+   "qNum": 22,
+   "qPart": "c",
+   "Marks": 4,
+   "time": 6,
+   "syllabus": "",
+   "keywords": "9.3 Social and Ethical Issues",
+   "Outcome": "H3.1, H5.2 "
+ },
+ {
+   "year": 2018,
+   "qNum": 23,
+   "qPart": "c",
+   "Marks": 5,
+   "time": 7.5,
+   "syllabus": "",
+   "keywords": "9.3 Transmission protocols ",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2018,
+   "qNum": 24,
+   "qPart": "c",
+   "Marks": 5,
+   "time": 7.5,
+   "syllabus": "",
+   "keywords": "9.3 Transmission media  ",
+   "Outcome": "H1.1, H1.2"
+ },
+ {
+   "year": 2017,
+   "qNum": 2,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Social and ethical issues",
+   "Outcome": "H3.2"
+ },
+ {
+   "year": 2017,
+   "qNum": 5,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Network administrator tasks",
+   "Outcome": "H3.1"
+ },
+ {
+   "year": 2017,
+   "qNum": 8,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Hardware in communication",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2017,
+   "qNum": 12,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Security",
+   "Outcome": "H6.1"
+ },
+ {
+   "year": 2017,
+   "qNum": 16,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Parity",
+   "Outcome": "H2.1"
+ },
+ {
+   "year": 2017,
+   "qNum": 18,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Security of networks",
+   "Outcome": "H6.1"
+ },
+ {
+   "year": 2017,
+   "qNum": 19,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Protocols and levels",
+   "Outcome": "H2.1"
+ },
+ {
+   "year": 2017,
+   "qNum": 22,
+   "qPart": "a",
+   "Marks": null,
+   "time": 0,
+   "syllabus": "",
+   "keywords": "",
+   "Outcome": ""
+ },
+ {
+   "year": 2017,
+   "qNum": 22,
+   "qPart": "b",
+   "Marks": null,
+   "time": 0,
+   "syllabus": "",
+   "keywords": "",
+   "Outcome": ""
+ },
+ {
+   "year": 2017,
+   "qNum": 22,
+   "qPart": "c",
+   "Marks": 5,
+   "time": 7.5,
+   "syllabus": "",
+   "keywords": "9.3 Issues related to communication system",
+   "Outcome": "H3.1, H5.2 "
+ },
+ {
+   "year": 2017,
+   "qNum": 24,
+   "qPart": "a",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "9.3 Describe the protocols in communication (handshaking)",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2017,
+   "qNum": 24,
+   "qPart": "b",
+   "Marks": 4,
+   "time": 6,
+   "syllabus": "",
+   "keywords": "9.3 Data transmission and receiving",
+   "Outcome": "H3.1, H3.2"
+ },
+ {
+   "year": 2017,
+   "qNum": 24,
+   "qPart": "c",
+   "Marks": 5,
+   "time": 7.5,
+   "syllabus": "",
+   "keywords": "9.3 Issues related to communication systems",
+   "Outcome": "H5.2, H6.1"
+ },
+ {
+   "year": 2016,
+   "qNum": 1,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Modems",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2016,
+   "qNum": 9,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Transmission media",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2016,
+   "qNum": 10,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Network hardware component",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2016,
+   "qNum": 11,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Error detection",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2016,
+   "qNum": 13,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Bridge in a communication system",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2016,
+   "qNum": 14,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Hybrid network topology",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2016,
+   "qNum": 17,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Communication system framework",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2016,
+   "qNum": 18,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "9.3 Hybrid network topology",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2016,
+   "qNum": 21,
+   "qPart": "c",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "9.3 Messaging systems",
+   "Outcome": "H5.1"
+ },
+ {
+   "year": 2016,
+   "qNum": 21,
+   "qPart": "d",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "9.3 Social and ethical issues in communication systems",
+   "Outcome": "H3.1, H5.2"
+ },
+ {
+   "year": 2016,
+   "qNum": 24,
+   "qPart": "b",
+   "Marks": 4,
+   "time": 6,
+   "syllabus": "",
+   "keywords": "9.3 Transmission media",
+   "Outcome": "H1.1, H4.1"
+ },
+ {
+   "year": 2015,
+   "qNum": 2,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "copyright",
+   "Outcome": "H3.2 "
+ },
+ {
+   "year": 2015,
+   "qNum": 3,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "network administrator",
+   "Outcome": "H7.1 "
+ },
+ {
+   "year": 2015,
+   "qNum": 6,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Security",
+   "Outcome": "H3.1"
+ },
+ {
+   "year": 2015,
+   "qNum": 7,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Network hardware NIC",
+   "Outcome": "H1.1 "
+ },
+ {
+   "year": 2015,
+   "qNum": 11,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Network hardware switch",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2015,
+   "qNum": 12,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Transmission media wired",
+   "Outcome": "H1.1 "
+ },
+ {
+   "year": 2015,
+   "qNum": 15,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "protocol  SSL",
+   "Outcome": "H1.1 "
+ },
+ {
+   "year": 2015,
+   "qNum": 17,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "protocol transmission level",
+   "Outcome": "H1.1 "
+ },
+ {
+   "year": 2015,
+   "qNum": 20,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Error checking Parity",
+   "Outcome": "H1.1 "
+ },
+ {
+   "year": 2015,
+   "qNum": 21,
+   "qPart": "(b) ",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "network topology LAN",
+   "Outcome": "H1.1 "
+ },
+ {
+   "year": 2015,
+   "qNum": 21,
+   "qPart": "(c) ",
+   "Marks": 4,
+   "time": 6,
+   "syllabus": "",
+   "keywords": "LAN compared to using a WAN",
+   "Outcome": "H1.1, H2.1 "
+ },
+ {
+   "year": 2015,
+   "qNum": 24,
+   "qPart": "(a) ",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "Error checking CRC",
+   "Outcome": "H1.1 "
+ },
+ {
+   "year": 2015,
+   "qNum": 24,
+   "qPart": "(c) ",
+   "Marks": 5,
+   "time": 7.5,
+   "syllabus": "",
+   "keywords": "internet, intranet and extranet technologies        ",
+   "Outcome": "H1.1 "
+ },
+ {
+   "year": 2014,
+   "qNum": 2,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "network administration",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2014,
+   "qNum": 3,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "wireless transmission",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2014,
+   "qNum": 7,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Error checking",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2014,
+   "qNum": 8,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "data access",
+   "Outcome": "H1.1, H1.2"
+ },
+ {
+   "year": 2014,
+   "qNum": 9,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "internet, intranet and extranet technologies        ",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2014,
+   "qNum": 11,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Network hardware Switch",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2014,
+   "qNum": 13,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "network topology",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2014,
+   "qNum": 16,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "protocol",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2014,
+   "qNum": 19,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Error checking parity",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2014,
+   "qNum": 23,
+   "qPart": "(c)",
+   "Marks": 4,
+   "time": 6,
+   "syllabus": "",
+   "keywords": "data transmission",
+   "Outcome": "H1.1, H2.1, H6.1 "
+ },
+ {
+   "year": 2014,
+   "qNum": 24,
+   "qPart": "(a)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "Network hardware bridges and gateways",
+   "Outcome": "H1.1, H2.1 "
+ },
+ {
+   "year": 2014,
+   "qNum": 24,
+   "qPart": "(b)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "Messaing sytems",
+   "Outcome": "H1.1, H2.2, H3.1, H4.1 "
+ },
+ {
+   "year": 2014,
+   "qNum": 24,
+   "qPart": "(c)",
+   "Marks": 5,
+   "time": 7.5,
+   "syllabus": "",
+   "keywords": "transmission media wired wireless",
+   "Outcome": "H1.1, H3.1, H3.2, H4.1 "
+ },
+ {
+   "year": 2013,
+   "qNum": 5,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "network topology",
+   "Outcome": "H1.1 "
+ },
+ {
+   "year": 2013,
+   "qNum": 6,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "VOIP",
+   "Outcome": "H1.1, H5.1 "
+ },
+ {
+   "year": 2013,
+   "qNum": 8,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "transmission media wireless",
+   "Outcome": "H1.1 "
+ },
+ {
+   "year": 2013,
+   "qNum": 9,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "security",
+   "Outcome": "H1.2, H2.1 "
+ },
+ {
+   "year": 2013,
+   "qNum": 10,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "email",
+   "Outcome": "H1.1 "
+ },
+ {
+   "year": 2013,
+   "qNum": 11,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "email spam",
+   "Outcome": "H1.1, H3.1 "
+ },
+ {
+   "year": 2013,
+   "qNum": 16,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "backup",
+   "Outcome": "H2.1, H1.1 "
+ },
+ {
+   "year": 2013,
+   "qNum": 21,
+   "qPart": "(a)",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "security",
+   "Outcome": "H1.1 "
+ },
+ {
+   "year": 2013,
+   "qNum": 21,
+   "qPart": "(c)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "communications technology",
+   "Outcome": "H6.2 "
+ },
+ {
+   "year": 2013,
+   "qNum": 22,
+   "qPart": "(c) ",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "Network hardware",
+   "Outcome": "H2.2, H4.1, H6.1 "
+ },
+ {
+   "year": 2013,
+   "qNum": 24,
+   "qPart": "(a) ",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "represent a communication system diagrammatically",
+   "Outcome": "H1.1, H1.2 "
+ },
+ {
+   "year": 2013,
+   "qNum": 24,
+   "qPart": "(c) ",
+   "Marks": 5,
+   "time": 7.5,
+   "syllabus": "",
+   "keywords": "servers and security ",
+   "Outcome": "H1.1, H3.1, H4.1"
+ },
+ {
+   "year": 2012,
+   "qNum": 1,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": " protocol SSL",
+   "Outcome": "H1.1, H6.1, H6.2"
+ },
+ {
+   "year": 2012,
+   "qNum": 2,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "digital to analogue conversion",
+   "Outcome": "H1.1, H1.2"
+ },
+ {
+   "year": 2012,
+   "qNum": 4,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Client Server Model",
+   "Outcome": "H2.2"
+ },
+ {
+   "year": 2012,
+   "qNum": 6,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "handshaking",
+   "Outcome": "H1.2, H2.2"
+ },
+ {
+   "year": 2012,
+   "qNum": 7,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "transmission media wireless",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2012,
+   "qNum": 8,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "transmission media wireless",
+   "Outcome": "H1.2, H2.2"
+ },
+ {
+   "year": 2012,
+   "qNum": 9,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "network topologies",
+   "Outcome": "H2.2"
+ },
+ {
+   "year": 2012,
+   "qNum": 10,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Error checking Parity ",
+   "Outcome": "H1.2, H2.2"
+ },
+ {
+   "year": 2012,
+   "qNum": 19,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Client Server Model",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2012,
+   "qNum": 21,
+   "qPart": "(b)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "information technologies",
+   "Outcome": "H1.1, H1.2, H6.1"
+ },
+ {
+   "year": 2012,
+   "qNum": 22,
+   "qPart": "(a) ",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "represent a communication system diagrammatically",
+   "Outcome": "H1.1, H6.1, H6.2"
+ },
+ {
+   "year": 2012,
+   "qNum": 22,
+   "qPart": "(d)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "data packets",
+   "Outcome": "H2.2 "
+ },
+ {
+   "year": 2011,
+   "qNum": 5,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "transmission media Bluetooth wireless technology",
+   "Outcome": "H1.1 "
+ },
+ {
+   "year": 2011,
+   "qNum": 6,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Client Server Model",
+   "Outcome": "H1.1 "
+ },
+ {
+   "year": 2011,
+   "qNum": 11,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "network administration",
+   "Outcome": "H1.1 "
+ },
+ {
+   "year": 2011,
+   "qNum": 12,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Communication System Framework",
+   "Outcome": "H6.1 "
+ },
+ {
+   "year": 2011,
+   "qNum": 13,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Communication System Framework",
+   "Outcome": "H4.1 "
+ },
+ {
+   "year": 2011,
+   "qNum": 23,
+   "qPart": "(c)",
+   "Marks": 5,
+   "time": 7.5,
+   "syllabus": "",
+   "keywords": "Social and Ethical Issues",
+   "Outcome": "H3.1, H3.2 "
+ },
+ {
+   "year": 2011,
+   "qNum": 24,
+   "qPart": "(a)",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Client Server Model fat client",
+   "Outcome": "H2.2, H5.1"
+ },
+ {
+   "year": 2011,
+   "qNum": 24,
+   "qPart": "(c)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "Current and Emerging trends",
+   "Outcome": "H1.1, H1.2, H4.1"
+ },
+ {
+   "year": 2010,
+   "qNum": 3,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "current and emerging trends RSS",
+   "Outcome": "H2.1"
+ },
+ {
+   "year": 2010,
+   "qNum": 11,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "virtual community",
+   "Outcome": "H4.1"
+ },
+ {
+   "year": 2010,
+   "qNum": 15,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "protocol smtp",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2010,
+   "qNum": 17,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "internet, intranet and extranet technologies        ",
+   "Outcome": "H2.2, H5.1"
+ },
+ {
+   "year": 2010,
+   "qNum": 20,
+   "qPart": "",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "Network Operating Systems",
+   "Outcome": "H2.2"
+ },
+ {
+   "year": 2010,
+   "qNum": 22,
+   "qPart": "(a)",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "Client Server Model  thin clients and fat clients",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2010,
+   "qNum": 22,
+   "qPart": "(b) (ii)",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "data packets",
+   "Outcome": "H1.2, H2.1"
+ },
+ {
+   "year": 2010,
+   "qNum": 22,
+   "qPart": "(b) (iii)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "Error checking",
+   "Outcome": "H1.2, H2.1 "
+ },
+ {
+   "year": 2010,
+   "qNum": 24,
+   "qPart": "(a)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "Social and Ethical Issues",
+   "Outcome": "H3.2, H5.2"
+ },
+ {
+   "year": 2010,
+   "qNum": 24,
+   "qPart": "(c)",
+   "Marks": 5,
+   "time": 7.5,
+   "syllabus": "",
+   "keywords": "communication protocols",
+   "Outcome": "H2.1"
+ },
+ {
+   "year": 2019,
+   "qNum": 26,
+   "qPart": "a",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "9.4.2 Management information system",
+   "Outcome": "H1.2, H1.1"
+ },
+ {
+   "year": 2019,
+   "qNum": 26,
+   "qPart": "b",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "9.4.2 Formulas and functions",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2019,
+   "qNum": 26,
+   "qPart": "c",
+   "Marks": 4,
+   "time": 6,
+   "syllabus": "",
+   "keywords": "9.4.2 Neural network and expert systems",
+   "Outcome": "H1.2, H1.1"
+ },
+ {
+   "year": 2019,
+   "qNum": 26,
+   "qPart": "d",
+   "Marks": 4,
+   "time": 6,
+   "syllabus": "",
+   "keywords": "9.4.2 3D modelling systems in a DSS",
+   "Outcome": "H4.1"
+ },
+ {
+   "year": 2019,
+   "qNum": 26,
+   "qPart": "e",
+   "Marks": 6,
+   "time": 9,
+   "syllabus": "",
+   "keywords": "9.4.2 Data warehousing and data mining",
+   "Outcome": "H1.2, H1.1"
+ },
+ {
+   "year": 2018,
+   "qNum": 26,
+   "qPart": "a",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "Certainty factors",
+   "Outcome": "H1.2"
+ },
+ {
+   "year": 2018,
+   "qNum": 26,
+   "qPart": "b",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "OLAP",
+   "Outcome": "H3.1, H4.1"
+ },
+ {
+   "year": 2018,
+   "qNum": 26,
+   "qPart": "c",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "Group decision support systems",
+   "Outcome": "H3.1, H4.1"
+ },
+ {
+   "year": 2018,
+   "qNum": 26,
+   "qPart": "d",
+   "Marks": 4,
+   "time": 6,
+   "syllabus": "",
+   "keywords": "Spreadsheets Design Formulae",
+   "Outcome": "H6.1"
+ },
+ {
+   "year": 2018,
+   "qNum": 26,
+   "qPart": "e(i)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "Geographical Information Systems",
+   "Outcome": "H3.1"
+ },
+ {
+   "year": 2018,
+   "qNum": 26,
+   "qPart": "e(ii)",
+   "Marks": 5,
+   "time": 7.5,
+   "syllabus": "",
+   "keywords": "Information processes � Collecting, organising and analysing",
+   "Outcome": "H1.2, H2.1"
+ },
+ {
+   "year": 2017,
+   "qNum": 26,
+   "qPart": "a",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "Macros in a spreadsheet",
+   "Outcome": "H1.1, H2.1"
+ },
+ {
+   "year": 2017,
+   "qNum": 26,
+   "qPart": "b",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "Role of the knowledge engineer",
+   "Outcome": "H2.2, H3.1"
+ },
+ {
+   "year": 2017,
+   "qNum": 26,
+   "qPart": "c",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "Forward chaining in an expert system",
+   "Outcome": "H1.2, H3.1"
+ },
+ {
+   "year": 2017,
+   "qNum": 26,
+   "qPart": "d",
+   "Marks": 4,
+   "time": 6,
+   "syllabus": "",
+   "keywords": "Structured and unstructured decision making",
+   "Outcome": "H1.2, H4.1"
+ },
+ {
+   "year": 2017,
+   "qNum": 26,
+   "qPart": "e(i)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "Issues related to decision support responsibilities",
+   "Outcome": "H2.1, H2.2"
+ },
+ {
+   "year": 2017,
+   "qNum": 26,
+   "qPart": "e(ii)",
+   "Marks": 5,
+   "time": 7.5,
+   "syllabus": "",
+   "keywords": "Tools supporting decision making",
+   "Outcome": "H5.2, H6.1"
+ },
+ {
+   "year": 2016,
+   "qNum": 26,
+   "qPart": "a",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "management information systems",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2016,
+   "qNum": 26,
+   "qPart": "b",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "absolute referencing and relative referencing",
+   "Outcome": "H4.1"
+ },
+ {
+   "year": 2016,
+   "qNum": 26,
+   "qPart": "c",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "charts",
+   "Outcome": "H1.2, H2.1"
+ },
+ {
+   "year": 2016,
+   "qNum": 26,
+   "qPart": "d",
+   "Marks": 4,
+   "time": 6,
+   "syllabus": "",
+   "keywords": "expert system knowledge base and that of the inference engine",
+   "Outcome": "H5.1"
+ },
+ {
+   "year": 2016,
+   "qNum": 26,
+   "qPart": "e(i)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "data mining",
+   "Outcome": "H6.1"
+ },
+ {
+   "year": 2016,
+   "qNum": 26,
+   "qPart": "e(ii)",
+   "Marks": 5,
+   "time": 7.5,
+   "syllabus": "",
+   "keywords": "Soicial & Ethical Issues negative impacts on participants when  decision-making is automated",
+   "Outcome": "H2.2"
+ },
+ {
+   "year": 2015,
+   "qNum": 26,
+   "qPart": "a",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "Essential Features of DSS",
+   "Outcome": "H2.1"
+ },
+ {
+   "year": 2015,
+   "qNum": 26,
+   "qPart": "b",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "geographic information systems",
+   "Outcome": "H1.1, H4.1"
+ },
+ {
+   "year": 2015,
+   "qNum": 26,
+   "qPart": "c",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "Spreadsheets analysis",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2015,
+   "qNum": 26,
+   "qPart": "d",
+   "Marks": 4,
+   "time": 6,
+   "syllabus": "",
+   "keywords": "expert system forward and backward chaining",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2015,
+   "qNum": 26,
+   "qPart": "e(i)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "neural network benefits",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2015,
+   "qNum": 26,
+   "qPart": "e(ii)",
+   "Marks": 5,
+   "time": 7.5,
+   "syllabus": "",
+   "keywords": "neural network problems and reference scenario",
+   "Outcome": "H3.1"
+ },
+ {
+   "year": 2014,
+   "qNum": 26,
+   "qPart": "a(i)",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "linking multiple sheets",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2014,
+   "qNum": 26,
+   "qPart": "a(ii)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "group decision support systems",
+   "Outcome": "H1.1, H3.1"
+ },
+ {
+   "year": 2014,
+   "qNum": 26,
+   "qPart": "b(i)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "macro",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2014,
+   "qNum": 26,
+   "qPart": "b(II)",
+   "Marks": 4,
+   "time": 6,
+   "syllabus": "",
+   "keywords": "Design formulae",
+   "Outcome": "H1.1, H6.1"
+ },
+ {
+   "year": 2014,
+   "qNum": 26,
+   "qPart": "c(i)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "DSS Classifiction",
+   "Outcome": "H1.1, H2.1"
+ },
+ {
+   "year": 2014,
+   "qNum": 26,
+   "qPart": "c(II)",
+   "Marks": 5,
+   "time": 7.5,
+   "syllabus": "",
+   "keywords": "DSS Classifiction",
+   "Outcome": "H4.1, H5.2, H6.1"
+ },
+ {
+   "year": 2013,
+   "qNum": 26,
+   "qPart": "a(i)",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "graphs",
+   "Outcome": "H1.1, H1.2"
+ },
+ {
+   "year": 2013,
+   "qNum": 26,
+   "qPart": "a(ii)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "Soicial & Ethical Issues effects on the participants when their decision making is automated.",
+   "Outcome": "H2.1, H3.1"
+ },
+ {
+   "year": 2013,
+   "qNum": 26,
+   "qPart": "b(i)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "structured and unstructured decision making",
+   "Outcome": "H2.1"
+ },
+ {
+   "year": 2013,
+   "qNum": 26,
+   "qPart": "b(II)",
+   "Marks": 4,
+   "time": 6,
+   "syllabus": "",
+   "keywords": "role of the expert",
+   "Outcome": "H7.2"
+ },
+ {
+   "year": 2013,
+   "qNum": 26,
+   "qPart": "c(i)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "Soicial & Ethical Issues effects on participants",
+   "Outcome": "H3.1"
+ },
+ {
+   "year": 2013,
+   "qNum": 26,
+   "qPart": "c(II)",
+   "Marks": 5,
+   "time": 7.5,
+   "syllabus": "",
+   "keywords": "decision tree",
+   "Outcome": "H6.2"
+ },
+ {
+   "year": 2012,
+   "qNum": 26,
+   "qPart": "a(i)",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "what-if analysis",
+   "Outcome": "H6.1"
+ },
+ {
+   "year": 2012,
+   "qNum": 26,
+   "qPart": "a(ii)",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "macros in a spreadsheet",
+   "Outcome": "H6.1, H6.2"
+ },
+ {
+   "year": 2012,
+   "qNum": 26,
+   "qPart": "a(iii)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "automated decision making",
+   "Outcome": "H6.1, H6.2, H3.2"
+ },
+ {
+   "year": 2012,
+   "qNum": 26,
+   "qPart": "b(i)",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "Geographical Information Systems",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2012,
+   "qNum": 26,
+   "qPart": "b(ii)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "category of decision support",
+   "Outcome": "H5.1, H5.2"
+ },
+ {
+   "year": 2012,
+   "qNum": 26,
+   "qPart": "b(iii)",
+   "Marks": 4,
+   "time": 6,
+   "syllabus": "",
+   "keywords": "Collecting data collection; data quality",
+   "Outcome": "H5.1, H5.2"
+ },
+ {
+   "year": 2012,
+   "qNum": 26,
+   "qPart": "b(iv)",
+   "Marks": 5,
+   "time": 7.5,
+   "syllabus": "",
+   "keywords": "Collecting, Processing, GIS",
+   "Outcome": "H4.1, H5.1, H5.2, H6.1, H6.2"
+ },
+ {
+   "year": 2011,
+   "qNum": 26,
+   "qPart": "a(i)",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "what-if analysis",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2011,
+   "qNum": 26,
+   "qPart": "a(ii)",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "backward chaining",
+   "Outcome": "H2.2"
+ },
+ {
+   "year": 2011,
+   "qNum": 26,
+   "qPart": "a(iii)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "knowledge engineer",
+   "Outcome": "H5.1"
+ },
+ {
+   "year": 2011,
+   "qNum": 26,
+   "qPart": "b(i)",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "Geographical Information Systems",
+   "Outcome": "H2.1"
+ },
+ {
+   "year": 2011,
+   "qNum": 26,
+   "qPart": "b(ii)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "structure of decision making",
+   "Outcome": "H2.2"
+ },
+ {
+   "year": 2011,
+   "qNum": 26,
+   "qPart": "b(iii)",
+   "Marks": 4,
+   "time": 6,
+   "syllabus": "",
+   "keywords": "Geographical Information Systems  technologies, different sources of data, and different formats of data ",
+   "Outcome": "H5.1"
+ },
+ {
+   "year": 2011,
+   "qNum": 26,
+   "qPart": "b(iv)",
+   "Marks": 5,
+   "time": 7.5,
+   "syllabus": "",
+   "keywords": "Information Systems",
+   "Outcome": "H1.2, H1.1, H2.1"
+ },
+ {
+   "year": 2010,
+   "qNum": 26,
+   "qPart": "a(i)",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "data warehouse",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2010,
+   "qNum": 26,
+   "qPart": "a(ii)",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "semistructured decision support system",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2010,
+   "qNum": 26,
+   "qPart": "b(i)",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "inference engine",
+   "Outcome": "H1.1, H2.1"
+ },
+ {
+   "year": 2010,
+   "qNum": 26,
+   "qPart": "b(II)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "group decision support systems",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2010,
+   "qNum": 26,
+   "qPart": "c(i)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "Summary data for a report",
+   "Outcome": "H3.2"
+ },
+ {
+   "year": 2010,
+   "qNum": 26,
+   "qPart": "c(II)",
+   "Marks": 4,
+   "time": 6,
+   "syllabus": "",
+   "keywords": "analysing and collecting",
+   "Outcome": "H2.1"
+ },
+ {
+   "year": 2010,
+   "qNum": 26,
+   "qPart": "c(II)i",
+   "Marks": 5,
+   "time": 7.5,
+   "syllabus": "",
+   "keywords": "Data mining, responsibilty for decision",
+   "Outcome": "H4.1"
+ },
+ {
+   "year": 2019,
+   "qNum": 28,
+   "qPart": "a",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "9.4.4 MMS in education and training ",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2019,
+   "qNum": 28,
+   "qPart": "b",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "9.4.4 Storyboards ",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2019,
+   "qNum": 28,
+   "qPart": "c",
+   "Marks": 4,
+   "time": 6,
+   "syllabus": "",
+   "keywords": "9.4.4 Processing power and MMS ",
+   "Outcome": "H1.2, H1.1"
+ },
+ {
+   "year": 2019,
+   "qNum": 28,
+   "qPart": "d",
+   "Marks": 4,
+   "time": 6,
+   "syllabus": "",
+   "keywords": "9.4.4 Fields of experience in developing MMS ",
+   "Outcome": "H4.1, H1.1"
+ },
+ {
+   "year": 2019,
+   "qNum": 28,
+   "qPart": "e",
+   "Marks": 6,
+   "time": 9,
+   "syllabus": "",
+   "keywords": "9.4.4 File formats ",
+   "Outcome": "H1.2, H1.1"
+ },
+ {
+   "year": 2018,
+   "qNum": 28,
+   "qPart": "a",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "Integrity of source material",
+   "Outcome": "H3.1 "
+ },
+ {
+   "year": 2018,
+   "qNum": 28,
+   "qPart": "b",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "Path and cel-based animation",
+   "Outcome": "H1.2, H6.1 "
+ },
+ {
+   "year": 2018,
+   "qNum": 28,
+   "qPart": "c",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "Project manager and technical staff",
+   "Outcome": "H6.2, H7.1"
+ },
+ {
+   "year": 2018,
+   "qNum": 28,
+   "qPart": "d",
+   "Marks": 4,
+   "time": 6,
+   "syllabus": "",
+   "keywords": "Software",
+   "Outcome": "H1.1, H5.1"
+ },
+ {
+   "year": 2018,
+   "qNum": 28,
+   "qPart": "e(i)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "Information kiosk",
+   "Outcome": "H2.1, H3.1"
+ },
+ {
+   "year": 2018,
+   "qNum": 28,
+   "qPart": "e(ii)",
+   "Marks": 5,
+   "time": 7.5,
+   "syllabus": "",
+   "keywords": "Information processes � displaying, processing and storing & retrieval ",
+   "Outcome": "H1.2, H2.1"
+ },
+ {
+   "year": 2017,
+   "qNum": 28,
+   "qPart": "a",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "Display device in MMS ",
+   "Outcome": "H1.2, H5.1 "
+ },
+ {
+   "year": 2017,
+   "qNum": 28,
+   "qPart": "b",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "Technological advances (streaming multimedia) ",
+   "Outcome": "H1.2, H4.1 "
+ },
+ {
+   "year": 2017,
+   "qNum": 28,
+   "qPart": "c",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "Analog to digital conversion",
+   "Outcome": "H1.2, H2.2 "
+ },
+ {
+   "year": 2017,
+   "qNum": 28,
+   "qPart": "d",
+   "Marks": 4,
+   "time": 6,
+   "syllabus": "",
+   "keywords": "Hardware demands of storage and retrieval in MMS ",
+   "Outcome": "H1.2, H2.1 "
+ },
+ {
+   "year": 2017,
+   "qNum": 28,
+   "qPart": "e(i)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "Information technology in the creation of multimedia in an MMS ",
+   "Outcome": "H5.1, H6.1 "
+ },
+ {
+   "year": 2017,
+   "qNum": 28,
+   "qPart": "e(ii)",
+   "Marks": 5,
+   "time": 7.5,
+   "syllabus": "",
+   "keywords": "Potential uses of virtual reality (MMS) outside education ",
+   "Outcome": "H1.2, H4.1 "
+ },
+ {
+   "year": 2016,
+   "qNum": 28,
+   "qPart": "a",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": " Storyboard",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2016,
+   "qNum": 28,
+   "qPart": "b",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": " morphing and distorting",
+   "Outcome": "H4.1"
+ },
+ {
+   "year": 2016,
+   "qNum": 28,
+   "qPart": "c",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "Leisure and entertainment multimedia systems Education",
+   "Outcome": "H1.2, H2.1"
+ },
+ {
+   "year": 2016,
+   "qNum": 28,
+   "qPart": "d",
+   "Marks": 4,
+   "time": 6,
+   "syllabus": "",
+   "keywords": " current and emerging trends in  multimedia systems",
+   "Outcome": "H5.1"
+ },
+ {
+   "year": 2016,
+   "qNum": 28,
+   "qPart": "e(i)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": " fields of expertise",
+   "Outcome": "H6.1"
+ },
+ {
+   "year": 2016,
+   "qNum": 28,
+   "qPart": "e(ii)",
+   "Marks": 5,
+   "time": 7.5,
+   "syllabus": "",
+   "keywords": "advances in hardware technologies",
+   "Outcome": "H2.2"
+ },
+ {
+   "year": 2015,
+   "qNum": 28,
+   "qPart": "a",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "multimedia system",
+   "Outcome": "H2.1 "
+ },
+ {
+   "year": 2015,
+   "qNum": 28,
+   "qPart": "b",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "online version of a magazine compared to its print version",
+   "Outcome": "H1.1 "
+ },
+ {
+   "year": 2015,
+   "qNum": 28,
+   "qPart": "c",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "Diagram of storyboard Hierarchical and non-linear",
+   "Outcome": "H1.1 "
+ },
+ {
+   "year": 2015,
+   "qNum": 28,
+   "qPart": "d",
+   "Marks": 4,
+   "time": 6,
+   "syllabus": "",
+   "keywords": "virtual reality head?up displays and headsets",
+   "Outcome": "H1.1 "
+ },
+ {
+   "year": 2015,
+   "qNum": 28,
+   "qPart": "e(i)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": " fields of expertise content provide and system designers",
+   "Outcome": "H1.1 "
+ },
+ {
+   "year": 2015,
+   "qNum": 28,
+   "qPart": "e(ii)",
+   "Marks": 5,
+   "time": 7.5,
+   "syllabus": "",
+   "keywords": "centralised multimedia information system clear technical issues",
+   "Outcome": "H3.1 "
+ },
+ {
+   "year": 2014,
+   "qNum": 28,
+   "qPart": "a(i)",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "compressing video",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2014,
+   "qNum": 28,
+   "qPart": "a(ii)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": " education and training online games",
+   "Outcome": "H3.1, H3.2, H4.1"
+ },
+ {
+   "year": 2014,
+   "qNum": 28,
+   "qPart": "b(i)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "authoring software and HTML editors In Multimedia",
+   "Outcome": "H1.1, H1.2"
+ },
+ {
+   "year": 2014,
+   "qNum": 28,
+   "qPart": "b(II)",
+   "Marks": 4,
+   "time": 6,
+   "syllabus": "",
+   "keywords": "demands on hardware bit-depth and the representation of colour data",
+   "Outcome": "H1.1, H1.2, H2.1"
+ },
+ {
+   "year": 2014,
+   "qNum": 28,
+   "qPart": "c(i)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "Justify file formats Storing images and audio",
+   "Outcome": "H1.1, H2.1, H5.1"
+ },
+ {
+   "year": 2014,
+   "qNum": 28,
+   "qPart": "c(II)",
+   "Marks": 5,
+   "time": 7.5,
+   "syllabus": "",
+   "keywords": "multimedia system",
+   "Outcome": "H4.1, H5.2, H6.1 "
+ },
+ {
+   "year": 2013,
+   "qNum": 28,
+   "qPart": "a(i)",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "Display device in MMS  Different",
+   "Outcome": "H1.1 "
+ },
+ {
+   "year": 2013,
+   "qNum": 28,
+   "qPart": "a(ii)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "copyright Does not breach",
+   "Outcome": "H3.2, H3.1 "
+ },
+ {
+   "year": 2013,
+   "qNum": 28,
+   "qPart": "b(i)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "converting analog sound to digital data",
+   "Outcome": "H2.1 "
+ },
+ {
+   "year": 2013,
+   "qNum": 28,
+   "qPart": "b(II)",
+   "Marks": 4,
+   "time": 6,
+   "syllabus": "",
+   "keywords": " fields of expertise multimedia system designer",
+   "Outcome": "H7.2 "
+ },
+ {
+   "year": 2013,
+   "qNum": 28,
+   "qPart": "c(i)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "Visually-based multimedia interface Cater the needs",
+   "Outcome": "H3.1 "
+ },
+ {
+   "year": 2013,
+   "qNum": 28,
+   "qPart": "c(II)",
+   "Marks": 5,
+   "time": 7.5,
+   "syllabus": "",
+   "keywords": "storyboard 3 aspects",
+   "Outcome": "H6.2 "
+ },
+ {
+   "year": 2012,
+   "qNum": 28,
+   "qPart": "a(i)",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "simulation",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2012,
+   "qNum": 28,
+   "qPart": "a(ii)",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "tweening",
+   "Outcome": "H5.1, H5.2, H6.1, H6.2"
+ },
+ {
+   "year": 2012,
+   "qNum": 28,
+   "qPart": "a(iii)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "printed and multimedia",
+   "Outcome": "H6.1, H6.2"
+ },
+ {
+   "year": 2012,
+   "qNum": 28,
+   "qPart": "b(i)",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "accessibility issue",
+   "Outcome": "H2.1, H2.2, H3.2"
+ },
+ {
+   "year": 2012,
+   "qNum": 28,
+   "qPart": "b(ii)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "file size",
+   "Outcome": "H6.1, H6.2"
+ },
+ {
+   "year": 2012,
+   "qNum": 28,
+   "qPart": "b(iii)",
+   "Marks": 4,
+   "time": 6,
+   "syllabus": "",
+   "keywords": "different media",
+   "Outcome": "H6.1, H6.2"
+ },
+ {
+   "year": 2012,
+   "qNum": 28,
+   "qPart": "b(iv)",
+   "Marks": 5,
+   "time": 7.5,
+   "syllabus": "",
+   "keywords": " emerging technologies ",
+   "Outcome": "H2.1, H2.2, H4.1, H6.1, H6.2 "
+ },
+ {
+   "year": 2011,
+   "qNum": 28,
+   "qPart": "a(i)",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": " hyperlinks.",
+   "Outcome": "H1.1 "
+ },
+ {
+   "year": 2011,
+   "qNum": 28,
+   "qPart": "a(ii)",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": " fields of expertise technical skills to support ITi n MMS",
+   "Outcome": "H3.2 "
+ },
+ {
+   "year": 2011,
+   "qNum": 28,
+   "qPart": "a(iii)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": " digital conversion of analog data",
+   "Outcome": "H2.1 "
+ },
+ {
+   "year": 2011,
+   "qNum": 28,
+   "qPart": "b(i)",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "display hardware",
+   "Outcome": "H1.2 "
+ },
+ {
+   "year": 2011,
+   "qNum": 28,
+   "qPart": "b(ii)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "animation  virtual tour",
+   "Outcome": "H6.1 "
+ },
+ {
+   "year": 2011,
+   "qNum": 28,
+   "qPart": "b(iii)",
+   "Marks": 4,
+   "time": 6,
+   "syllabus": "",
+   "keywords": "file formats ",
+   "Outcome": "H3.2 "
+ },
+ {
+   "year": 2011,
+   "qNum": 28,
+   "qPart": "b(iv)",
+   "Marks": 5,
+   "time": 7.5,
+   "syllabus": "",
+   "keywords": "Multimedia website v alternatives",
+   "Outcome": "H1.2 "
+ },
+ {
+   "year": 2010,
+   "qNum": 28,
+   "qPart": "a(i)",
+   "Marks": 1,
+   "time": 1.5,
+   "syllabus": "",
+   "keywords": "interactivity",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2010,
+   "qNum": 28,
+   "qPart": "a(ii)",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "storyboards",
+   "Outcome": "H5.1, H5.2"
+ },
+ {
+   "year": 2010,
+   "qNum": 28,
+   "qPart": "b(i)",
+   "Marks": 2,
+   "time": 3,
+   "syllabus": "",
+   "keywords": "file formats video",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2010,
+   "qNum": 28,
+   "qPart": "b(II)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "path-based and cell-based animation",
+   "Outcome": "H4.1, H5.1"
+ },
+ {
+   "year": 2010,
+   "qNum": 28,
+   "qPart": "c(i)",
+   "Marks": 3,
+   "time": 4.5,
+   "syllabus": "",
+   "keywords": "compression",
+   "Outcome": "H1.1"
+ },
+ {
+   "year": 2010,
+   "qNum": 28,
+   "qPart": "c(II)",
+   "Marks": 4,
+   "time": 6,
+   "syllabus": "",
+   "keywords": "collecting and displaying",
+   "Outcome": "H1.1, H1.2, H2.1"
+ },
+ {
+   "year": 2010,
+   "qNum": 28,
+   "qPart": "c(II)i",
+   "Marks": 5,
+   "time": 7.5,
+   "syllabus": "",
+   "keywords": "future multimedia systems and virtual worlds",
+   "Outcome": "H1.1, H3.1, H3.2 "
+ }
+]

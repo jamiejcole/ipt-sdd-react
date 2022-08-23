@@ -8,6 +8,7 @@ import SearchElement from './components/searchElement';
 import Query from './components/query';
 import {dataSDDQuestions, dataSDDMarking, dataIPTQuestions, dataIPTMarking} from './data/data';
 import SDD from "./data/sdd-hsc-questions";
+import IPT from "./data/ipt-hsc-questions";
 import HomeElement from './components/homeElement';
 
 const App = () => {
@@ -54,14 +55,29 @@ const App = () => {
 
   const QueryManager = (text) => {
     setSDDTextInput(text)
-    
-    // we want to remove all non relevant queries here
-    
   }
 
-  const OpenPage = (event, year, question) => {
+  const [searchPlaceholder, setSearchPlaceholder] = useState("EBNF, Sorting, etc");
+  const [courseToggle, setCourseToggle] = useState(false);
+  const [currentCourse, setCurrentCourse] = useState(SDD);
+  const toggleChanged = (val) => {
+    setCourseToggle(val);
+    if (val) {
+      setCurrentCourse(IPT);
+      setSearchPlaceholder("Parity bit, keys, etc");
+    }
+    else {
+      setCurrentCourse(SDD);
+      setSearchPlaceholder("EBNF, Sorting, etc");
+    } 
+  }
+
+  const OpenPage = (event, year, question, currentCourse) => {
     event.preventDefault();
-    let url = generateURL("SDD", "Questions", year, question);
+    let course = "";
+    if (currentCourse === SDD) course = "SDD";
+    else course = "IPT";
+    let url = generateURL(course, "Questions", year, question);
     if (url) window.open(url);
   }
 
@@ -121,15 +137,21 @@ const App = () => {
         <div className="flex flex-col items-center justify-center text-center ">
           <header className="App-header">
             <h1 className="text-stone-800 text-3xl font-black underline pt-10">
-              SDD HSC Question Search
+              SDD & IPT HSC Question Search
             </h1>
             <div className="top-10 right-10 absolute text-slate-700"> 
-              
               <HomeElement homeElementManager={homeElementManager} />
             </div>
           </header>
-          <div className="pt-6">
-            <Query QueryManager={QueryManager} placeholder="EBNF, Sorting, etc" width="96"/>
+          <div className="flex items-center justify-center ">
+            <Query QueryManager={QueryManager} placeholder={searchPlaceholder} width="96"/>
+            <div className="mt-12 ml-10 flex items-center justify-center">
+              <label htmlFor="large-toggle" className="inline-flex relative items-center cursor-pointer">
+                <input onChange={(event) => toggleChanged(event.target.checked)} type="checkbox" value="" id="large-toggle" className="sr-only peer" />
+                <div className="w-14 h-7 bg-blue-600 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 dark:peer-focus:ring-blue-800 rounded-full peer dark:bg-gray-700 peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-0.5 after:left-[4px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-6 after:w-6 after:transition-all dark:border-gray-600 peer-checked:bg-blue-600"></div>
+                <span className="ml-3 text-md font-medium text-gray-900 dark:text-gray-300">SDD / IPT</span>
+              </label>
+            </div>
           </div>
 
           <div className="pt-10 flex w-4/5 item-center align-center">
@@ -161,7 +183,7 @@ const App = () => {
                   </tr>
                 </thead>
                 <tbody>
-                    {SDD.filter((item) => {if (item.keywords.toLowerCase().includes(SDDTextInput.toLowerCase())) { return true; } else { return false; }}).map((item, i) => {
+                    {currentCourse.filter((item) => {if (item.keywords.toLowerCase().includes(SDDTextInput.toLowerCase())) { return true; } else { return false; }}).map((item, i) => {
                       const colour = i % 2 !== 0 ? "bg-gray-50" : "bg-white"
                       return (
                         <tr className={"border-b dark:bg-gray-900 dark:border-gray-700 " + colour} key={i}>
@@ -172,7 +194,7 @@ const App = () => {
                           <td className="py-4 px-6">{item.Outcome}</td>
                           <td className="py-4 px-6">{item.keywords.toTitleCase()}</td>
                           <td className="py-3 px-6"> 
-                            <button onClick={(event) => OpenPage(event, item.year, item.qNum)} type="button" className="py-1.5 px-4 bg-indigo-600 hover:bg-indigo-700 focus:ring-indigo-500 focus:ring-offset-indigo-200 text-white w-full transition ease-in duration-200 text-center text-base font-semibold shadow-md focus:outline-none focus:ring-2 focus:ring-offset-2 rounded-lg ">
+                            <button onClick={(event) => OpenPage(event, item.year, item.qNum, currentCourse)} type="button" className="py-1.5 px-4 bg-indigo-600 hover:bg-indigo-700 focus:ring-indigo-500 focus:ring-offset-indigo-200 text-white w-full transition ease-in duration-200 text-center text-base font-semibold shadow-md focus:outline-none focus:ring-2 focus:ring-offset-2 rounded-lg ">
                                 Goto
                             </button>
                           </td>
