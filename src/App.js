@@ -5,16 +5,19 @@ import './App.css';
 import RadioForm from './components/radioForm';
 import SearchForm from './components/searchForm';
 import SearchElement from './components/searchElement';
-import QueryResult from './components/queryResults';
+import Query from './components/query';
 import {dataSDDQuestions, dataSDDMarking, dataIPTQuestions, dataIPTMarking} from './data/data';
 import SDD from "./data/sdd-hsc-questions";
+import HomeElement from './components/homeElement';
 
 const App = () => {
-  const [contentIsDisabled, setContentIsDisabled] = useState(true);
+  const [contentIsDisabled, setContentIsDisabled] = useState(false);
   const [course, setCourse] = useState("SDD");
   const [content, setContent] = useState("Questions");
   const [year, setYear] = useState("2021");
   const [quesNum, setQuesNum] = useState();
+
+  const [SDDTextInput, setSDDTextInput] = useState('');
 
   let SDD_q_data = [];
 
@@ -35,14 +38,25 @@ const App = () => {
     else if (searchID === "(Optional) Enter question number:") setQuesNum(text);
   }
 
-  const searchElementManager = (submitted, val) => {
-    console.log(val);
+  const searchElementManager = (clicked) => {
+    if (clicked === true) setContentIsDisabled(true);
+  }
+  
+  const homeElementManager = (clicked) => {
+    if (clicked === true) setContentIsDisabled(false);
   }
 
   const randManager = (rand) => {
     if (rand) {
       setYear(randInt(2001, 2021))
     }
+  }
+
+  const QueryManager = (text) => {
+    setSDDTextInput(text)
+    
+    // we want to remove all non relevant queries here
+        
   }
 
   const submitForm = () => {
@@ -70,7 +84,7 @@ const App = () => {
               SDD & IPT Question Finder
             </h1>
             <div className="top-10 right-10 absolute text-slate-700"> 
-              <h1 className="font-bold mr-14 pb-3" >Search SDD Keywords</h1>
+              
               <SearchElement searchElementManager={searchElementManager} />
             </div>
           </header>
@@ -101,126 +115,57 @@ const App = () => {
         <div className="flex flex-col items-center justify-center text-center ">
           <header className="App-header">
             <h1 className="text-stone-800 text-3xl font-black underline pt-10">
-              SDD & IPT Question Finder
+              SDD HSC Question Search
             </h1>
+            <div className="top-10 right-10 absolute text-slate-700"> 
+              
+              <HomeElement homeElementManager={homeElementManager} />
+            </div>
           </header>
           <div className="pt-6">
-            <QueryResult width="80"/>
+            <Query QueryManager={QueryManager} placeholder="EBNF, Sorting, etc" width="96"/>
           </div>
 
-          <div className="flex">
-          <div class="overflow-x-auto relative shadow-md sm:rounded-lg">
-    <table class="w-full text-sm text-left text-gray-500 dark:text-gray-400">
-        <thead class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
-            <tr>
-                <th scope="col" class="py-3 px-6">
-                    Product name
-                </th>
-                <th scope="col" class="py-3 px-6">
-                    Color
-                </th>
-                <th scope="col" class="py-3 px-6">
-                    Category
-                </th>
-                <th scope="col" class="py-3 px-6">
-                    Price
-                </th>
-                <th scope="col" class="py-3 px-6">
-                    Action
-                </th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
-                <th scope="row" class="py-4 px-6 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                    Apple MacBook Pro 17"
-                </th>
-                <td class="py-4 px-6">
-                    Sliver
-                </td>
-                <td class="py-4 px-6">
-                    Laptop
-                </td>
-                <td class="py-4 px-6">
-                    $2999
-                </td>
-                <td class="py-4 px-6">
-                    <a href="#" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Edit</a>
-                </td>
-            </tr>
-            <tr class="bg-gray-50 border-b dark:bg-gray-800 dark:border-gray-700">
-                <th scope="row" class="py-4 px-6 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                    Microsoft Surface Pro
-                </th>
-                <td class="py-4 px-6">
-                    White
-                </td>
-                <td class="py-4 px-6">
-                    Laptop PC
-                </td>
-                <td class="py-4 px-6">
-                    $1999
-                </td>
-                <td class="py-4 px-6">
-                    <a href="#" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Edit</a>
-                </td>
-            </tr>
-            <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
-                <th scope="row" class="py-4 px-6 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                    Magic Mouse 2
-                </th>
-                <td class="py-4 px-6">
-                    Black
-                </td>
-                <td class="py-4 px-6">
-                    Accessories
-                </td>
-                <td class="py-4 px-6">
-                    $99
-                </td>
-                <td class="py-4 px-6">
-                    <a href="#" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Edit</a>
-                </td>
-            </tr>
-            <tr class="bg-gray-50 border-b dark:bg-gray-800 dark:border-gray-700">
-                <th scope="row" class="py-4 px-6 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                    Google Pixel Phone
-                </th>
-                <td class="py-4 px-6">
-                    Gray
-                </td>
-                <td class="py-4 px-6">
-                    Phone
-                </td>
-                <td class="py-4 px-6">
-                    $799
-                </td>
-                <td class="py-4 px-6">
-                    <a href="#" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Edit</a>
-                </td>
-            </tr>
-            <tr>
-                <th scope="row" class="py-4 px-6 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                    Apple Watch 5
-                </th>
-                <td class="py-4 px-6">
-                    Red
-                </td>
-                <td class="py-4 px-6">
-                    Wearables
-                </td>
-                <td class="py-4 px-6">
-                    $999
-                </td>
-                <td class="py-4 px-6">
-                    <a href="#" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Edit</a>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</div>
+          <div className="pt-10 flex">
+            <div className="overflow-x-auto relative shadow-md sm:rounded-lg">
+              <table className="w-full text-sm text-left text-gray-500 dark:text-gray-400">
+                <thead className="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
+                  <tr>
+                    <th scope="col" className="py-3 pl-5">
+                      Year
+                    </th>
+                    <th scope="col" className="py-3 px-4">
+                      Question
+                    </th>
+                    <th scope="col" className="py-3 px-6">
+                      Sub Q
+                    </th>
+                    <th scope="col" className="py-3 px-4">
+                      Marks
+                    </th>
+                    <th scope="col" className="py-3 px-4">
+                      Outcome(s)
+                    </th>
+                    <th scope="col" className="py-3 px-4">
+                      Keyword(s)
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                    {SDD.map((item, i) => (
+                      <tr className="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                        <td className="py-4 px-6">{item.year}</td>
+                        <td className="py-4 px-6">{item.qNum}</td>
+                        <td className="py-4 px-6">{item.qPart}</td>
+                        <td className="py-4 px-6">{item.Marks}</td>
+                        <td className="py-4 px-6">{item.Outcome}</td>
+                        <td className="py-4 px-6">{item.keywords.toTitleCase()}</td>
+                      </tr>
+                    ))}
+                </tbody>
+              </table>
+            </div>
           </div>
-
         </div>
       </div>
     )
@@ -234,4 +179,30 @@ export default App;
 
 function randInt(min, max) { // min and max included 
   return Math.floor(Math.random() * (max - min + 1) + min)
+}
+
+// eslint-disable-next-line no-extend-native
+String.prototype.toTitleCase = function() {
+  var i, j, str, lowers, uppers;
+  str = this.replace(/([^\W_]+[^\s-]*) */g, function(txt) {
+    return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
+  });
+
+  // Certain minor words should be left lowercase unless 
+  // they are the first or last words in the string
+  lowers = ['A', 'An', 'The', 'And', 'But', 'Or', 'For', 'Nor', 'As', 'At', 
+  'By', 'For', 'From', 'In', 'Into', 'Near', 'Of', 'On', 'Onto', 'To', 'With'];
+  for (i = 0, j = lowers.length; i < j; i++)
+    str = str.replace(new RegExp('\\s' + lowers[i] + '\\s', 'g'), 
+      function(txt) {
+        return txt.toLowerCase();
+      });
+
+  // Certain words such as initialisms or acronyms should be left uppercase
+  uppers = ['Id', 'Tv'];
+  for (i = 0, j = uppers.length; i < j; i++)
+    str = str.replace(new RegExp('\\b' + uppers[i] + '\\b', 'g'), 
+      uppers[i].toUpperCase());
+
+  return str;
 }
