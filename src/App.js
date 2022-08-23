@@ -56,7 +56,7 @@ const App = () => {
     setSDDTextInput(text)
     
     // we want to remove all non relevant queries here
-        
+    
   }
 
   const submitForm = () => {
@@ -126,42 +126,49 @@ const App = () => {
             <Query QueryManager={QueryManager} placeholder="EBNF, Sorting, etc" width="96"/>
           </div>
 
-          <div className="pt-10 flex">
-            <div className="overflow-x-auto relative shadow-md sm:rounded-lg">
-              <table className="w-full text-sm text-left text-gray-500 dark:text-gray-400">
-                <thead className="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
+          <div className="pt-10 flex w-4/5 item-center align-center">
+            <div className="flex overflow-x-auto relative shadow-md sm:rounded-lg">
+              <table className="table-fixed w-full text-sm text-left text-gray-500 dark:text-gray-400">
+                <thead className="text-xs text-gray-700 uppercase bg-gray-100 dark:bg-gray-700 dark:text-gray-400">
                   <tr>
-                    <th scope="col" className="py-3 pl-5">
+                    <th scope="col" className="w-6 py-3 pl-5">
                       Year
                     </th>
-                    <th scope="col" className="py-3 px-4">
+                    <th scope="col" className="w-6 py-3 px-4">
                       Question
                     </th>
-                    <th scope="col" className="py-3 px-6">
+                    <th scope="col" className="w-6 py-3 px-6">
                       Sub Q
                     </th>
-                    <th scope="col" className="py-3 px-4">
+                    <th scope="col" className="w-6 py-3 px-4">
                       Marks
                     </th>
-                    <th scope="col" className="py-3 px-4">
+                    <th scope="col" className="w-16 py-3 px-4">
                       Outcome(s)
                     </th>
-                    <th scope="col" className="py-3 px-4">
+                    <th scope="col" className="w-64 py-3 px-4">
                       Keyword(s)
+                    </th>
+                    <th scope="col" className="w-8 py-3 px-4">
+                    
                     </th>
                   </tr>
                 </thead>
                 <tbody>
-                    {SDD.map((item, i) => (
-                      <tr className="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
-                        <td className="py-4 px-6">{item.year}</td>
-                        <td className="py-4 px-6">{item.qNum}</td>
-                        <td className="py-4 px-6">{item.qPart}</td>
-                        <td className="py-4 px-6">{item.Marks}</td>
-                        <td className="py-4 px-6">{item.Outcome}</td>
-                        <td className="py-4 px-6">{item.keywords.toTitleCase()}</td>
-                      </tr>
-                    ))}
+                    {SDD.filter((item) => {if (item.keywords.toLowerCase().includes(SDDTextInput.toLowerCase())) { return true; } else { return false; }}).map((item, i) => {
+                      const colour = i % 2 !== 0 ? "bg-gray-50" : "bg-white"
+                      return (
+                        <tr className={"border-b dark:bg-gray-900 dark:border-gray-700 " + colour}>
+                          <td className="py-4 px-6">{item.year}</td>
+                          <td className="py-4 px-6">{item.qNum}</td>
+                          <td className="py-4 px-6">{item.qPart}</td>
+                          <td className="py-4 px-6">{item.Marks}</td>
+                          <td className="py-4 px-6">{item.Outcome}</td>
+                          <td className="py-4 px-6">{item.keywords.toTitleCase()}</td>
+                          <td className="py-4 px-6"><a href="google.com">Goto</a></td>
+                        </tr>
+                      )
+                    })}
                 </tbody>
               </table>
             </div>
