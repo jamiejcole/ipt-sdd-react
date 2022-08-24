@@ -16,8 +16,8 @@ If you'd like to help add content for your own HSC courses, please feel free to!
    "keywords": "Social and ethical issues",
    "Outcome": "H7.2"
  },
- ]
- ```
+]
+```
  
  The way you can easily achieve this is using Excel, and exporting data to a CSV, and using online CSV to JSON conversion tools, such as [this one](https://www.convertcsv.com/csv-to-json.htm). 
  
