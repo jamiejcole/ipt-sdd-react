@@ -6,9 +6,10 @@ import RadioForm from './components/radioForm';
 import SearchForm from './components/searchForm';
 import SearchElement from './components/searchElement';
 import Query from './components/query';
-import {dataSDDQuestions, dataSDDMarking, dataIPTQuestions, dataIPTMarking} from './data/data';
+import {dataSDDQuestions, dataSDDMarking, dataIPTQuestions, dataIPTMarking, dataEngineeringQuestions} from './data/data';
 import SDD from "./data/sdd-hsc-questions";
 import IPT from "./data/ipt-hsc-questions";
+import Engineering from "./data/engineering-hsc-questions";
 import HomeElement from './components/homeElement';
 
 const App = () => {
@@ -58,25 +59,53 @@ const App = () => {
   }
 
   const [searchPlaceholder, setSearchPlaceholder] = useState("EBNF, Sorting, etc");
-  const [courseToggle, setCourseToggle] = useState(false);
   const [currentCourse, setCurrentCourse] = useState(SDD);
   const toggleChanged = (val) => {
-    setCourseToggle(val);
-    if (val) {
-      setCurrentCourse(IPT);
-      setSearchPlaceholder("Parity bit, keys, etc");
-    }
-    else {
+    if (val === 'rSDD') {
       setCurrentCourse(SDD);
       setSearchPlaceholder("EBNF, Sorting, etc");
+      setCurrentButton("SDD");
+    }
+    else if (val === 'rIPT') {
+      setCurrentCourse(IPT);
+      setSearchPlaceholder("Parity bit, keys, etc");
+      setCurrentButton("IPT");
     } 
+    else if (val === 'rEngineering') {
+      setCurrentCourse(Engineering);
+      setSearchPlaceholder("Materials, friction, etc");
+      setCurrentButton("Engineering");
+    }
   }
+
+  const setCurrentButton = (course) => {
+    if (course === "SDD") {
+      setSDDButtonState("border-2 border-blue-600 font-bold")
+      setIPTButtonState("");
+      setEngineeringButtonState("");
+    }
+    else if (course === "IPT") {
+      setSDDButtonState("")
+      setIPTButtonState("border-2 border-blue-600 font-bold");
+      setEngineeringButtonState("");
+    }
+    else if (course === "Engineering") {
+      setSDDButtonState("")
+      setIPTButtonState("");
+      setEngineeringButtonState("border-2 border-blue-600 font-bold");
+    }
+  }
+
+  const [SDDButtonState, setSDDButtonState] = useState("border-2 border-blue-600 font-bold");
+  const [IPTButtonState, setIPTButtonState] = useState("");
+  const [EngineeringButtonState, setEngineeringButtonState] = useState("");
 
   const OpenPage = (event, year, question, currentCourse) => {
     event.preventDefault();
     let course = "";
-    if (currentCourse === SDD) course = "SDD";
-    else course = "IPT";
+    if (currentCourse === SDD) { course = "SDD"; }
+    else if (currentCourse === IPT) course = "IPT";
+    else if (currentCourse === Engineering) course = "Engineering";
     let url = generateURL(course, "Questions", year, question);
     if (url) window.open(url);
   }
@@ -92,6 +121,7 @@ const App = () => {
     else if (course === "SDD" && content === "Solutions") url = dataSDDMarking[year];
     else if (course === "IPT" && content === "Solutions") url = dataIPTMarking[year];
     else if (course === "IPT" && content === "Questions") url = dataIPTQuestions[year];
+    else if (course === "Engineering" && content === "Questions") url = dataEngineeringQuestions[year];
     if (quesNum) url += "#Question%20" + quesNum; 
     return url
   }
@@ -137,20 +167,24 @@ const App = () => {
         <div className="flex flex-col items-center justify-center text-center ">
           <header className="App-header">
             <h1 className="text-stone-800 text-3xl font-black underline pt-10">
-              SDD & IPT HSC Question Search
+              Past HSC Topics Question Search
             </h1>
             <div className="top-10 right-10 absolute text-slate-700"> 
               <HomeElement homeElementManager={homeElementManager} />
             </div>
           </header>
           <div className="flex items-center justify-center ">
-            <Query QueryManager={QueryManager} placeholder={searchPlaceholder} width="96"/>
+            <Query QueryManager={QueryManager} placeholder={searchPlaceholder} width="64"/>
             <div className="mt-12 ml-10 flex items-center justify-center">
-              <label htmlFor="large-toggle" className="inline-flex relative items-center cursor-pointer">
-                <input onChange={(event) => toggleChanged(event.target.checked)} type="checkbox" value="" id="large-toggle" className="sr-only peer" />
-                <div className="w-14 h-7 bg-blue-600 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 dark:peer-focus:ring-blue-800 rounded-full peer dark:bg-gray-700 peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-0.5 after:left-[4px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-6 after:w-6 after:transition-all dark:border-gray-600 peer-checked:bg-blue-600"></div>
-                <span className="ml-3 text-md font-medium text-gray-900 dark:text-gray-300">SDD / IPT</span>
-              </label>
+                <button onClick={(event) => {console.log(event); toggleChanged(event.target.id)}} id="rSDD" className={"flex items-center mx-2 px-2 rounded border border-gray-200 dark:border-gray-700 " + SDDButtonState}>
+                  <h3 className="py-4 px-4 w-full text-sm text-gray-900 dark:text-gray-300" id="rSDD">SDD</h3>
+                </button>
+                <button onClick={(event) => {console.log(event); toggleChanged(event.target.id)}} id="rIPT" className={"flex items-center mx-2 px-2 rounded border border-gray-200 dark:border-gray-700 " + IPTButtonState}>
+                  <h3 className="py-4 px-4 w-full text-sm text-gray-900 dark:text-gray-300" id="rIPT">IPT</h3>
+                </button>
+                <button onClick={(event) => {console.log(event); toggleChanged(event.target.id)}} id="rEngineering" className={"flex items-center mx-2 px-2 rounded border border-gray-200 dark:border-gray-700 " + EngineeringButtonState}>
+                  <h3 className="py-4 px-4 w-full text-sm text-gray-900 dark:text-gray-300" id="rEngineering">Engineering</h3>
+                </button>
             </div>
           </div>
 

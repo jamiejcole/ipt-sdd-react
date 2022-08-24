@@ -93,3 +93,27 @@ export const dataIPTMarking = {
     "2002": "https://educationstandards.nsw.edu.au/wps/wcm/connect/a6807267-8b24-4380-a8ce-a6ab803ab3cf/ipt-hsc-notes-2002.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-a6807267-8b24-4380-a8ce-a6ab803ab3cf-nbDp1l7",
     "2001": "https://educationstandards.nsw.edu.au/wps/wcm/connect/0cfb34dc-a15c-4300-bb5c-ae218ebd825a/ipt-hsc-notes-2001.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-0cfb34dc-a15c-4300-bb5c-ae218ebd825a-nbDp1l7"
 }
+
+export const dataEngineeringQuestions = {
+    "2021": "https://www.educationstandards.nsw.edu.au/wps/wcm/connect/76632087-ae33-4cd6-a022-5195540ccd6a/2021-hsc-engineering-studies.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-76632087-ae33-4cd6-a022-5195540ccd6a-nR4seT8",
+    "2020": "https://www.educationstandards.nsw.edu.au/wps/wcm/connect/0e3f2499-b451-4789-a225-da90312c5fed/2020-hsc-engineering-studies.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-0e3f2499-b451-4789-a225-da90312c5fed-nEJmX9g",
+    "2019": "https://www.educationstandards.nsw.edu.au/wps/wcm/connect/6ef2a6f0-7cce-4e94-a4be-8ed308b62d4e/2019-hsc-engineering-studies.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-6ef2a6f0-7cce-4e94-a4be-8ed308b62d4e-nNeSwfW",
+    "2018": "https://www.educationstandards.nsw.edu.au/wps/wcm/connect/432242fa-ee36-4c87-988c-093a16599662/2018-hsc-engineering-studies.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-432242fa-ee36-4c87-988c-093a16599662-nbDp1l7",
+    "2017": "https://www.educationstandards.nsw.edu.au/wps/wcm/connect/f892452a-3e25-4c2d-ad7d-9c9bb1852b9b/2017-hsc-engineering-studies.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-f892452a-3e25-4c2d-ad7d-9c9bb1852b9b-nNe8Glb",
+    "2016": "https://www.educationstandards.nsw.edu.au/wps/wcm/connect/d7114ef2-04bd-4517-90a4-02da378219c7/2016-hsc-engineering-studies.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-d7114ef2-04bd-4517-90a4-02da378219c7-nbDp1l7",
+    "2015": "https://www.educationstandards.nsw.edu.au/wps/wcm/connect/d6dc133f-5ed7-4fe9-9a2f-be43820eea59/engineering-studies-hsc-exam-2015.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-d6dc133f-5ed7-4fe9-9a2f-be43820eea59-nbDp1l7",
+    "2014": "https://www.educationstandards.nsw.edu.au/wps/wcm/connect/1966a211-ab2d-4afa-8a39-84d3d8cf417a/engineering-studies-hsc-exam-2014.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-1966a211-ab2d-4afa-8a39-84d3d8cf417a-nbDp1l7",
+    "2013": "https://www.educationstandards.nsw.edu.au/wps/wcm/connect/370beac0-c720-40da-b3b7-d04ff3326141/engineering-studies-hsc-exam-2013.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-370beac0-c720-40da-b3b7-d04ff3326141-nbDp1l7",
+    "2012": "https://www.educationstandards.nsw.edu.au/wps/wcm/connect/83856101-c247-441b-b663-62908ae7b740/engineering-studies-hsc-exam-2012.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-83856101-c247-441b-b663-62908ae7b740-nbDp1l7",
+    "2011": "https://www.educationstandards.nsw.edu.au/wps/wcm/connect/11920599-49c1-482d-a114-a1f73cb85731/engineering-studies-hsc-exam-2011.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-11920599-49c1-482d-a114-a1f73cb85731-nbDp1l7",
+    "2010": "https://www.educationstandards.nsw.edu.au/wps/wcm/connect/c30f6d5b-10f9-45ac-b757-6e9ac8238a6a/engineering-studies-hsc-exam-2010.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-c30f6d5b-10f9-45ac-b757-6e9ac8238a6a-nbDp1l7",
+    "2009": "https://www.educationstandards.nsw.edu.au/wps/wcm/connect/cc193102-5972-4f17-b916-a79b696beedc/engineering-studies-hsc-exam-2009.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-cc193102-5972-4f17-b916-a79b696beedc-nbDp1l7",
+    "2008": "https://www.educationstandards.nsw.edu.au/wps/wcm/connect/4d9c0945-7284-49c2-a13e-99985b51cd3d/engineering-studies-hsc-exam-2008.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-4d9c0945-7284-49c2-a13e-99985b51cd3d-nbDp1l7",
+    "2007": "https://www.educationstandards.nsw.edu.au/wps/wcm/connect/4f781d81-71dc-40bf-8908-ec7c6d9726bc/engineering-studies-hsc-exam-2007.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-4f781d81-71dc-40bf-8908-ec7c6d9726bc-nbDp1l7",
+    "2006": "https://www.educationstandards.nsw.edu.au/wps/wcm/connect/1342f4d3-f12a-4b10-8d09-07fe148721bd/engineering-studies-hsc-exam-2006.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-1342f4d3-f12a-4b10-8d09-07fe148721bd-nbDp1l7",
+    "2005": "https://www.educationstandards.nsw.edu.au/wps/wcm/connect/f6ac05a9-a8e0-42c8-a206-03a1855b2c70/engineering-studies-hsc-exam-2005.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-f6ac05a9-a8e0-42c8-a206-03a1855b2c70-nbDp1l7",
+    "2004": "https://www.educationstandards.nsw.edu.au/wps/wcm/connect/38749f1d-7625-482f-a1bc-4978aa68b2ad/engineering-studies-hsc-exam-2004.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-38749f1d-7625-482f-a1bc-4978aa68b2ad-nbDp1l7",
+    "2003": "https://www.educationstandards.nsw.edu.au/wps/wcm/connect/3efd836b-4a9d-480f-a7d5-03e85d5a8025/engineering-studies-hsc-exam-2003.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-3efd836b-4a9d-480f-a7d5-03e85d5a8025-nbDp1l7",
+    "2002": "https://www.educationstandards.nsw.edu.au/wps/wcm/connect/21bb32e8-0951-43df-b6ca-54822417d1a3/engineering-studies-hsc-exam-2002.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-21bb32e8-0951-43df-b6ca-54822417d1a3-nbDp1l7",
+    "2001": "https://www.educationstandards.nsw.edu.au/wps/wcm/connect/889779eb-6cad-4132-96ef-da67904cd52d/engineering-studies-hsc-exam-2001.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-889779eb-6cad-4132-96ef-da67904cd52d-nbDp1l7"
+}
