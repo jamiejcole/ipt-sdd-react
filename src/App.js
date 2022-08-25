@@ -3,10 +3,11 @@ import React, {useState} from 'react';
 import { Helmet } from 'react-helmet';
 import './App.css';
 import RadioForm from './components/radioForm';
+import RadioFormThree from './components/radioFormThree';
 import SearchForm from './components/searchForm';
 import SearchElement from './components/searchElement';
 import Query from './components/query';
-import {dataSDDQuestions, dataSDDMarking, dataIPTQuestions, dataIPTMarking, dataEngineeringQuestions} from './data/data';
+import {dataSDDQuestions, dataSDDMarking, dataIPTQuestions, dataIPTMarking, dataEngineeringQuestions, dataEngineeringMarking} from './data/data';
 import SDD from "./data/sdd-hsc-questions";
 import IPT from "./data/ipt-hsc-questions";
 import Engineering from "./data/engineering-hsc-questions";
@@ -81,17 +82,17 @@ const App = () => {
   const setCurrentButton = (course) => {
     if (course === "SDD") {
       setSDDButtonState("border-2 border-blue-600 font-bold")
-      setIPTButtonState("");
-      setEngineeringButtonState("");
+      setIPTButtonState("border-gray-200 ");
+      setEngineeringButtonState("border-gray-200 ");
     }
     else if (course === "IPT") {
-      setSDDButtonState("")
+      setSDDButtonState("border-gray-200 ")
       setIPTButtonState("border-2 border-blue-600 font-bold");
-      setEngineeringButtonState("");
+      setEngineeringButtonState("border-gray-200 ");
     }
     else if (course === "Engineering") {
-      setSDDButtonState("")
-      setIPTButtonState("");
+      setSDDButtonState("border-gray-200 ")
+      setIPTButtonState("border-gray-200 ");
       setEngineeringButtonState("border-2 border-blue-600 font-bold");
     }
   }
@@ -122,6 +123,7 @@ const App = () => {
     else if (course === "IPT" && content === "Solutions") url = dataIPTMarking[year];
     else if (course === "IPT" && content === "Questions") url = dataIPTQuestions[year];
     else if (course === "Engineering" && content === "Questions") url = dataEngineeringQuestions[year];
+    else if (course === "Engineering" && content === "Solutions") url = dataEngineeringMarking[year];
     if (quesNum) url += "#Question%20" + quesNum; 
     return url
   }
@@ -141,7 +143,7 @@ const App = () => {
             </div>
           </header>
   
-          <RadioForm buttonManager={buttonManager} title="Which course?" t1="SDD" d1="Software Design & Development" t2="IPT" d2="Information Processes & Technology" />
+          <RadioFormThree buttonManager={buttonManager} title="Which course?" t1="SDD" d1="Software Design & Development" t2="IPT" d2="Information Processes & Technology" t3="Engineering" d3="Engineering Studies" />
           <RadioForm buttonManager={buttonManager} title="What content?" t1="Questions" d1=" " t2="Solutions" d2=" " />
           
           <div className="w-fit">
@@ -176,13 +178,13 @@ const App = () => {
           <div className="flex items-center justify-center ">
             <Query QueryManager={QueryManager} placeholder={searchPlaceholder} width="64"/>
             <div className="mt-12 ml-10 flex items-center justify-center">
-                <button onClick={(event) => {console.log(event); toggleChanged(event.target.id)}} id="rSDD" className={"flex items-center mx-2 px-2 rounded border border-gray-200 dark:border-gray-700 " + SDDButtonState}>
+                <button onClick={(event) => {console.log(event); toggleChanged(event.target.id)}} id="rSDD" className={"flex items-center mx-2 px-2 rounded border " + SDDButtonState}>
                   <h3 className="py-4 px-4 w-full text-sm text-gray-900 dark:text-gray-300" id="rSDD">SDD</h3>
                 </button>
-                <button onClick={(event) => {console.log(event); toggleChanged(event.target.id)}} id="rIPT" className={"flex items-center mx-2 px-2 rounded border border-gray-200 dark:border-gray-700 " + IPTButtonState}>
+                <button onClick={(event) => {console.log(event); toggleChanged(event.target.id)}} id="rIPT" className={"flex items-center mx-2 px-2 rounded border " + IPTButtonState}>
                   <h3 className="py-4 px-4 w-full text-sm text-gray-900 dark:text-gray-300" id="rIPT">IPT</h3>
                 </button>
-                <button onClick={(event) => {console.log(event); toggleChanged(event.target.id)}} id="rEngineering" className={"flex items-center mx-2 px-2 rounded border border-gray-200 dark:border-gray-700 " + EngineeringButtonState}>
+                <button onClick={(event) => {console.log(event); toggleChanged(event.target.id)}} id="rEngineering" className={"flex items-center mx-2 px-2 rounded border " + EngineeringButtonState}>
                   <h3 className="py-4 px-4 w-full text-sm text-gray-900 dark:text-gray-300" id="rEngineering">Engineering</h3>
                 </button>
             </div>
