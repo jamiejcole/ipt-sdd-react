@@ -152,7 +152,7 @@ const App = () => {
           </div>
   
           <div className={"py-12 flex items-center flex-row"}>
-            <button onClick={submitForm} type="submit" className="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 rounded-lg text-lg w-full sm:w-auto px-8 py-3 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Submit</button>
+            <button onClick={submitForm} type="submit" className="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 rounded-lg text-lg w-full sm:w-auto px-8 py-3 text-center">Submit</button>
           </div>
   
         </div> 
@@ -179,21 +179,21 @@ const App = () => {
             <Query QueryManager={QueryManager} placeholder={searchPlaceholder} width="64"/>
             <div className="mt-12 ml-10 flex items-center justify-center">
                 <button onClick={(event) => {console.log(event); toggleChanged(event.target.id)}} id="rSDD" className={"flex items-center mx-2 px-2 rounded border " + SDDButtonState}>
-                  <h3 className="py-4 px-4 w-full text-sm text-gray-900 dark:text-gray-300" id="rSDD">SDD</h3>
+                  <h3 className="py-4 px-4 w-full text-sm text-gray-900" id="rSDD">SDD</h3>
                 </button>
                 <button onClick={(event) => {console.log(event); toggleChanged(event.target.id)}} id="rIPT" className={"flex items-center mx-2 px-2 rounded border " + IPTButtonState}>
-                  <h3 className="py-4 px-4 w-full text-sm text-gray-900 dark:text-gray-300" id="rIPT">IPT</h3>
+                  <h3 className="py-4 px-4 w-full text-sm text-gray-900" id="rIPT">IPT</h3>
                 </button>
                 <button onClick={(event) => {console.log(event); toggleChanged(event.target.id)}} id="rEngineering" className={"flex items-center mx-2 px-2 rounded border " + EngineeringButtonState}>
-                  <h3 className="py-4 px-4 w-full text-sm text-gray-900 dark:text-gray-300" id="rEngineering">Engineering</h3>
+                  <h3 className="py-4 px-4 w-full text-sm text-gray-900" id="rEngineering">Engineering</h3>
                 </button>
             </div>
           </div>
 
           <div className="pt-10 flex w-4/5 item-center align-center">
             <div className="flex overflow-x-auto relative shadow-md sm:rounded-lg">
-              <table className="table-fixed w-full text-sm text-left text-gray-500 dark:text-gray-400">
-                <thead className="text-xs text-gray-700 uppercase bg-gray-100 dark:bg-gray-700 dark:text-gray-400">
+              <table className="table-fixed w-full text-sm text-left text-gray-500">
+                <thead className="text-xs text-gray-700 uppercase bg-gray-100">
                   <tr>
                     <th scope="col" className="w-6 py-3 pl-5">
                       Year
@@ -222,7 +222,7 @@ const App = () => {
                     {currentCourse.filter((item) => {if (item.keywords.toLowerCase().includes(SDDTextInput.toLowerCase())) { return true; } else { return false; }}).map((item, i) => {
                       const colour = i % 2 !== 0 ? "bg-gray-50" : "bg-white"
                       return (
-                        <tr className={"border-b dark:bg-gray-900 dark:border-gray-700 " + colour} key={i}>
+                        <tr className={"border-b " + colour} key={i}>
                           <td className="py-4 px-6">{item.year}</td>
                           <td className="py-4 px-6">{item.qNum}</td>
                           <td className="py-4 px-6">{item.qPart}</td>
