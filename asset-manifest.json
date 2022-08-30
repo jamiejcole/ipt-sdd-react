@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ipt-sdd-react/static/css/main.33f7956f.css",
+    "main.js": "/ipt-sdd-react/static/js/main.6a8df88c.js",
+    "index.html": "/ipt-sdd-react/index.html",
+    "main.33f7956f.css.map": "/ipt-sdd-react/static/css/main.33f7956f.css.map",
+    "main.6a8df88c.js.map": "/ipt-sdd-react/static/js/main.6a8df88c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33f7956f.css",
+    "static/js/main.6a8df88c.js"
+  ]
+}
