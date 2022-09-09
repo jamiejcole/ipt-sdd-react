@@ -101,13 +101,13 @@ const App = () => {
   const [IPTButtonState, setIPTButtonState] = useState("");
   const [EngineeringButtonState, setEngineeringButtonState] = useState("");
 
-  const OpenPage = (event, year, question, currentCourse) => {
+  const OpenPage = (event, year, question, currentCourse, qOrA) => {
     event.preventDefault();
     let course = "";
     if (currentCourse === SDD) { course = "SDD"; }
     else if (currentCourse === IPT) course = "IPT";
     else if (currentCourse === Engineering) course = "Engineering";
-    let url = generateURL(course, "Questions", year, question);
+    let url = generateURL(course, qOrA, year, question);
     if (url) window.open(url);
   }
 
@@ -216,6 +216,9 @@ const App = () => {
                     <th scope="col" className="w-12 py-3 px-4">
                     
                     </th>
+                    <th scope="col" className="w-12 py-3 px-4">
+                    
+                    </th>
                   </tr>
                 </thead>
                 <tbody>
@@ -229,9 +232,14 @@ const App = () => {
                           <td className="py-4 px-6">{item.Marks}</td>
                           <td className="py-4 px-6">{item.Outcome}</td>
                           <td className="py-4 px-6">{item.keywords.toTitleCase()}</td>
-                          <td className="py-3 px-6"> 
-                            <button onClick={(event) => OpenPage(event, item.year, item.qNum, currentCourse)} type="button" className="py-1.5 px-4 bg-indigo-600 hover:bg-indigo-700 focus:ring-indigo-500 focus:ring-offset-indigo-200 text-white w-full transition ease-in duration-200 text-center text-base font-semibold shadow-md focus:outline-none focus:ring-2 focus:ring-offset-2 rounded-lg ">
-                                Goto
+                          <td className="py-3 px-2"> 
+                            <button onClick={(event) => OpenPage(event, item.year, item.qNum, currentCourse, "Solutions")} type="button" className="py-1.5 text-center px-2 bg-indigo-600 hover:bg-indigo-700 focus:ring-indigo-500 focus:ring-offset-indigo-200 text-white w-full transition ease-in duration-200 text-center text-base font-semibold shadow-md focus:outline-none focus:ring-2 focus:ring-offset-2 rounded-lg ">
+                                Sol.
+                            </button>
+                          </td>
+                          <td className="py-3 px-2"> 
+                            <button onClick={(event) => OpenPage(event, item.year, item.qNum, currentCourse, "Questions")} type="button" className="py-1.5 text-center px-2 bg-indigo-600 hover:bg-indigo-700 focus:ring-indigo-500 focus:ring-offset-indigo-200 text-white w-full transition ease-in duration-200 text-center text-base font-semibold shadow-md focus:outline-none focus:ring-2 focus:ring-offset-2 rounded-lg ">
+                                Open Q
                             </button>
                           </td>
                         </tr>
