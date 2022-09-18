@@ -47,11 +47,11 @@ const App = () => {
   }
 
   const searchElementManager = (clicked) => {
-    if (clicked === true) setContentIsDisabled(true);
+    if (clicked === true) setContentIsDisabled(false);
   }
   
   const homeElementManager = (clicked) => {
-    if (clicked === true) setContentIsDisabled(false);
+    if (clicked === true) setContentIsDisabled(true);
   }
 
   const randManager = (rand) => {
@@ -135,19 +135,40 @@ const App = () => {
       let tmpPageNum = "";
       if (course === "SDD") {
         if (year >= 2011) {
-          tmpPageNum = SDDQuestionIndex[year][quesNum];
+          tmpPageNum = SDDQuestionIndex["questions"][year][quesNum];
           url += "#page=" + tmpPageNum;
         }
       }
       else if (course === "IPT") {
         if (year >= 2011) {
-          tmpPageNum = IPTQuestionIndex[year][quesNum];
+          tmpPageNum = IPTQuestionIndex["questions"][year][quesNum];
           url += "#page=" + tmpPageNum;
         }
       }
       else if (course === "Engineering") {
         if (year >= 2013) {
-          tmpPageNum = EngineeringQuestionIndex[year][quesNum];
+          tmpPageNum = EngineeringQuestionIndex["questions"][year][quesNum];
+          url += "#page=" + tmpPageNum;
+        }
+      }
+    }
+    else if (quesNum && content === "Solutions") {
+      let tmpPageNum = "";
+      if (course === "SDD") {
+        if (year >= 2011) {
+          tmpPageNum = SDDQuestionIndex["solutions"][year][quesNum];
+          url += "#page=" + tmpPageNum;
+        }
+      }
+      else if (course === "IPT") {
+        if (year >= 2011) {
+          tmpPageNum = IPTQuestionIndex["solutions"][year][quesNum];
+          url += "#page=" + tmpPageNum;
+        }
+      }
+      else if (course === "Engineering") {
+        if (year >= 2013) {
+          tmpPageNum = EngineeringQuestionIndex["solutions"][year][quesNum];
           url += "#page=" + tmpPageNum;
         }
       }
@@ -156,7 +177,7 @@ const App = () => {
     return url
   }
 
-  if (!contentIsDisabled) {
+  if (contentIsDisabled) {
     return (
       <> 
         <Helmet><title>HSC Questions</title></Helmet>
