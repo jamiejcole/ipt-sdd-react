@@ -101,13 +101,13 @@ const App = () => {
   const [IPTButtonState, setIPTButtonState] = useState("");
   const [EngineeringButtonState, setEngineeringButtonState] = useState("");
 
-  const OpenPage = (event, year, question, currentCourse) => {
+  const OpenPage = (event, year, question, currentCourse, qOrA) => {
     event.preventDefault();
     let course = "";
     if (currentCourse === SDD) { course = "SDD"; }
     else if (currentCourse === IPT) course = "IPT";
     else if (currentCourse === Engineering) course = "Engineering";
-    let url = generateURL(course, "Questions", year, question);
+    let url = generateURL(course, qOrA, year, question);
     if (url) window.open(url);
   }
 
@@ -152,7 +152,7 @@ const App = () => {
           </div>
   
           <div className={"py-12 flex items-center flex-row"}>
-            <button onClick={submitForm} type="submit" className="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 rounded-lg text-lg w-full sm:w-auto px-8 py-3 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Submit</button>
+            <button onClick={submitForm} type="submit" className="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 rounded-lg text-lg w-full sm:w-auto px-8 py-3 text-center">Submit</button>
           </div>
   
         </div> 
@@ -179,21 +179,21 @@ const App = () => {
             <Query QueryManager={QueryManager} placeholder={searchPlaceholder} width="64"/>
             <div className="mt-12 ml-10 flex items-center justify-center">
                 <button onClick={(event) => {console.log(event); toggleChanged(event.target.id)}} id="rSDD" className={"flex items-center mx-2 px-2 rounded border " + SDDButtonState}>
-                  <h3 className="py-4 px-4 w-full text-sm text-gray-900 dark:text-gray-300" id="rSDD">SDD</h3>
+                  <h3 className="py-4 px-4 w-full text-sm text-gray-900" id="rSDD">SDD</h3>
                 </button>
                 <button onClick={(event) => {console.log(event); toggleChanged(event.target.id)}} id="rIPT" className={"flex items-center mx-2 px-2 rounded border " + IPTButtonState}>
-                  <h3 className="py-4 px-4 w-full text-sm text-gray-900 dark:text-gray-300" id="rIPT">IPT</h3>
+                  <h3 className="py-4 px-4 w-full text-sm text-gray-900" id="rIPT">IPT</h3>
                 </button>
                 <button onClick={(event) => {console.log(event); toggleChanged(event.target.id)}} id="rEngineering" className={"flex items-center mx-2 px-2 rounded border " + EngineeringButtonState}>
-                  <h3 className="py-4 px-4 w-full text-sm text-gray-900 dark:text-gray-300" id="rEngineering">Engineering</h3>
+                  <h3 className="py-4 px-4 w-full text-sm text-gray-900" id="rEngineering">Engineering</h3>
                 </button>
             </div>
           </div>
 
           <div className="pt-10 flex w-4/5 item-center align-center">
             <div className="flex overflow-x-auto relative shadow-md sm:rounded-lg">
-              <table className="table-fixed w-full text-sm text-left text-gray-500 dark:text-gray-400">
-                <thead className="text-xs text-gray-700 uppercase bg-gray-100 dark:bg-gray-700 dark:text-gray-400">
+              <table className="table-fixed w-full text-sm text-left text-gray-500">
+                <thead className="text-xs text-gray-700 uppercase bg-gray-100">
                   <tr>
                     <th scope="col" className="w-6 py-3 pl-5">
                       Year
@@ -216,22 +216,30 @@ const App = () => {
                     <th scope="col" className="w-12 py-3 px-4">
                     
                     </th>
+                    <th scope="col" className="w-12 py-3 px-4">
+                    
+                    </th>
                   </tr>
                 </thead>
                 <tbody>
                     {currentCourse.filter((item) => {if (item.keywords.toLowerCase().includes(SDDTextInput.toLowerCase())) { return true; } else { return false; }}).map((item, i) => {
                       const colour = i % 2 !== 0 ? "bg-gray-50" : "bg-white"
                       return (
-                        <tr className={"border-b dark:bg-gray-900 dark:border-gray-700 " + colour} key={i}>
+                        <tr className={"border-b " + colour} key={i}>
                           <td className="py-4 px-6">{item.year}</td>
                           <td className="py-4 px-6">{item.qNum}</td>
                           <td className="py-4 px-6">{item.qPart}</td>
                           <td className="py-4 px-6">{item.Marks}</td>
                           <td className="py-4 px-6">{item.Outcome}</td>
                           <td className="py-4 px-6">{item.keywords.toTitleCase()}</td>
-                          <td className="py-3 px-6"> 
-                            <button onClick={(event) => OpenPage(event, item.year, item.qNum, currentCourse)} type="button" className="py-1.5 px-4 bg-indigo-600 hover:bg-indigo-700 focus:ring-indigo-500 focus:ring-offset-indigo-200 text-white w-full transition ease-in duration-200 text-center text-base font-semibold shadow-md focus:outline-none focus:ring-2 focus:ring-offset-2 rounded-lg ">
-                                Goto
+                          <td className="py-3 px-2"> 
+                            <button onClick={(event) => OpenPage(event, item.year, item.qNum, currentCourse, "Solutions")} type="button" className="py-1.5 text-center px-2 bg-indigo-600 hover:bg-indigo-700 focus:ring-indigo-500 focus:ring-offset-indigo-200 text-white w-full transition ease-in duration-200 text-center text-base font-semibold shadow-md focus:outline-none focus:ring-2 focus:ring-offset-2 rounded-lg ">
+                                Sol.
+                            </button>
+                          </td>
+                          <td className="py-3 px-2"> 
+                            <button onClick={(event) => OpenPage(event, item.year, item.qNum, currentCourse, "Questions")} type="button" className="py-1.5 text-center px-2 bg-indigo-600 hover:bg-indigo-700 focus:ring-indigo-500 focus:ring-offset-indigo-200 text-white w-full transition ease-in duration-200 text-center text-base font-semibold shadow-md focus:outline-none focus:ring-2 focus:ring-offset-2 rounded-lg ">
+                                Open Q
                             </button>
                           </td>
                         </tr>
