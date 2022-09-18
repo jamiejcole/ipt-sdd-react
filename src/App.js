@@ -241,8 +241,8 @@ const App = () => {
 
           <div className="pt-10 flex w-4/5 item-center align-center">
             <div className="flex overflow-x-auto relative shadow-md sm:rounded-lg">
-              <table className="table-fixed w-full text-sm text-left text-gray-500">
-                <thead className="text-xs text-gray-700 uppercase bg-gray-100">
+              <table className="table-fixed w-full text-md text-left text-gray-500">
+                <thead className="text-s text-gray-700 uppercase bg-gray-100">
                   <tr>
                     <th scope="col" className="w-6 py-3 pl-5">
                       Year
