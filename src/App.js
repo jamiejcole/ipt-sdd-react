@@ -12,6 +12,11 @@ import SDD from "./data/sdd-hsc-questions";
 import IPT from "./data/ipt-hsc-questions";
 import Engineering from "./data/engineering-hsc-questions";
 import HomeElement from './components/homeElement';
+import SDDQuestionIndex from './data/sdd-question-index.json'
+import IPTQuestionIndex from './data/ipt-question-index.json'
+import EngineeringQuestionIndex from './data/engineering-question-index.json'
+
+
 
 const App = () => {
   const [contentIsDisabled, setContentIsDisabled] = useState(false);
@@ -124,7 +129,30 @@ const App = () => {
     else if (course === "IPT" && content === "Questions") url = dataIPTQuestions[year];
     else if (course === "Engineering" && content === "Questions") url = dataEngineeringQuestions[year];
     else if (course === "Engineering" && content === "Solutions") url = dataEngineeringMarking[year];
-    if (quesNum) url += "#Question%20" + quesNum; 
+    //if (quesNum) url += "#Question%20" + quesNum; 
+    // we want to replace #question%20quesnum with the corresponding page num from sdd-index.json
+    if (quesNum) {
+      let tmpPageNum = "";
+      if (course === "SDD") {
+        if (year >= 2011) {
+          tmpPageNum = SDDQuestionIndex[year][quesNum];
+          url += "#page=" + tmpPageNum;
+        }
+      }
+      else if (course === "IPT") {
+        if (year >= 2011) {
+          tmpPageNum = IPTQuestionIndex[year][quesNum];
+          url += "#page=" + tmpPageNum;
+        }
+      }
+      else if (course === "Engineering") {
+        if (year >= 2013) {
+          tmpPageNum = EngineeringQuestionIndex[year][quesNum];
+          url += "#page=" + tmpPageNum;
+        }
+      }
+    }
+    
     return url
   }
 

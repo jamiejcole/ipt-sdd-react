@@ -13,6 +13,9 @@
 
 build.zip
 
+# removing past papers
+/src/data/papers
+
 # misc
 .DS_Store
 .env.local
