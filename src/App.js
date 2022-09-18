@@ -131,7 +131,7 @@ const App = () => {
     else if (course === "Engineering" && content === "Solutions") url = dataEngineeringMarking[year];
     //if (quesNum) url += "#Question%20" + quesNum; 
     // we want to replace #question%20quesnum with the corresponding page num from sdd-index.json
-    if (quesNum) {
+    if (quesNum && content === "Questions") {
       let tmpPageNum = "";
       if (course === "SDD") {
         if (year >= 2011) {
@@ -261,13 +261,13 @@ const App = () => {
                           <td className="py-4 px-6">{item.Outcome}</td>
                           <td className="py-4 px-6">{item.keywords.toTitleCase()}</td>
                           <td className="py-3 px-2"> 
-                            <button onClick={(event) => OpenPage(event, item.year, item.qNum, currentCourse, "Solutions")} type="button" className="py-1.5 text-center px-2 bg-indigo-600 hover:bg-indigo-700 focus:ring-indigo-500 focus:ring-offset-indigo-200 text-white w-full transition ease-in duration-200 text-center text-base font-semibold shadow-md focus:outline-none focus:ring-2 focus:ring-offset-2 rounded-lg ">
-                                Sol.
+                            <button onClick={(event) => OpenPage(event, item.year, item.qNum, currentCourse, "Questions")} type="button" className="py-1.5 text-center px-2 bg-indigo-600 hover:bg-indigo-700 focus:ring-indigo-500 focus:ring-offset-indigo-200 text-white w-full transition ease-in duration-200 text-center text-base font-semibold shadow-md focus:outline-none focus:ring-2 focus:ring-offset-2 rounded-lg ">
+                                Open Q
                             </button>
                           </td>
                           <td className="py-3 px-2"> 
-                            <button onClick={(event) => OpenPage(event, item.year, item.qNum, currentCourse, "Questions")} type="button" className="py-1.5 text-center px-2 bg-indigo-600 hover:bg-indigo-700 focus:ring-indigo-500 focus:ring-offset-indigo-200 text-white w-full transition ease-in duration-200 text-center text-base font-semibold shadow-md focus:outline-none focus:ring-2 focus:ring-offset-2 rounded-lg ">
-                                Open Q
+                            <button onClick={(event) => OpenPage(event, item.year, item.qNum, currentCourse, "Solutions")} type="button" className="py-1.5 text-center px-2 bg-indigo-600 hover:bg-indigo-700 focus:ring-indigo-500 focus:ring-offset-indigo-200 text-white w-full transition ease-in duration-200 text-center text-base font-semibold shadow-md focus:outline-none focus:ring-2 focus:ring-offset-2 rounded-lg ">
+                                Sol.
                             </button>
                           </td>
                         </tr>
