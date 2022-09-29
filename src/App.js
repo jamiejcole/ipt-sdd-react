@@ -1,4 +1,5 @@
 /* eslint-disable no-unused-vars */
+import GA4React from "ga-4-react";
 import React, {useState} from 'react';
 import { Helmet } from 'react-helmet';
 import './App.css';
@@ -19,6 +20,9 @@ import EngineeringQuestionIndex from './data/engineering-question-index.json'
 
 
 const App = () => {
+  const ga4react = new GA4React("G-7B5ZMR2Z0Q");
+  ga4react.initialize().then().catch()
+  
   const [contentIsDisabled, setContentIsDisabled] = useState(false);
   const [course, setCourse] = useState("SDD");
   const [content, setContent] = useState("Questions");
